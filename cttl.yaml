@@ -49,7 +49,7 @@ sets:
     - text: Jerking off with a McChicken® sandwich.
     - text: Going to Disney World.
     - text: Feet.
-    - text: All the farts, right in my face, um num num num num num num.
+    - text: All the farts, right in my face, free and all mine.
     - text: Addressing a stranger as &ldquo;stranger&rdquo;.
     - text: Power bottoms.
     - text: The bourgeoisie.
@@ -130,7 +130,7 @@ sets:
     - text: Looking at the sexy TV.
     - text: Grunge.
     - text: The Microsoft Network.
-    - text: Quiet Riot’s 1983 hit cover of English glam rock band Slade’s “Cum On Feel the Noize”.
+    - text: Quiet Riot’s 1983 hit cover of Slade’s “Cum On Feel the Noize”.
     - text: Rachaelism.
     - text: The skulls of the vanquished.
     - text: The slings and arrows of outrageous fortune.
@@ -154,7 +154,7 @@ sets:
     - text: Folding, spindling, and mutilating.
     - text: Human resources.
     - text: Bonobo monkeys.
-    - text: Hate.
+    - text: Ultimate hatred.
     - text: Exorbitant late fees.
     - text: Being creative.
     - text: The United States Armed Forces.
@@ -195,7 +195,7 @@ sets:
       pick: 2
     - text: What’s the LAST thing we need right now?
       pick: 1
-    - text: The US Patent Office has yet to strike down my application for _________________ with a computer.
+    - text: The US Patent Office has yet to approve my application for _________________ with a computer.
       pick: 1
     - text: What do you struggle to resist sticking inside yourself?
       pick: 1
@@ -227,7 +227,7 @@ sets:
       pick: 1
     - text: Why did I go into showbusiness?
       pick: 1
-    - text: Sir, is this going to be a stand-up fight, or is this going to be _____?
+    - text: Is this going to be a stand-up fight, sir, or just _____?
       pick: 1
     - text: What inspired me to become a surgeon?
       pick: 1
