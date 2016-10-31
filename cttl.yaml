@@ -1,6 +1,7 @@
+brand:
+  name: Cards to the Left
 sets:
 - name: Cards to the Left Base Set
-  brand: Cards to the Left
   cards:
     white:
     - text: Joining a Kurdish militia ironically.
