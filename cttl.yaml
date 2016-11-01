@@ -141,35 +141,21 @@ sets:
     - text: A baby shower breaking out in a brawl.
     black:
     - text: I know what you are, but what am I?
-      pick: 1
     - text: What should the Founding Fathers have left out of the Constitution?
-      pick: 1
     - text: Fuck you, _________________.
-      pick: 1
     - text: What’s the first thing you see at the gates of Hell?
-      pick: 1
     - text: Let’s talk about _____.
-      pick: 1
     - text: What was Sun Tzu’s greatest strategy to defeat an enemy?
-      pick: 1
     - text: This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
-      pick: 1
     - text: No, I’M _____!
-      pick: 1
     - text: A sufficient mass of _________________ will ultimately collapse into _________________.
       pick: 2
     - text: What’s the LAST thing we need right now?
-      pick: 1
     - text: What do you struggle to resist sticking inside yourself?
-      pick: 1
     - text: What hot new trend is sweeping Silicon Valley?
-      pick: 1
     - text: What doesn’t exist?
-      pick: 1
     - text: I’m grounded because Mom overheard me talking about ______.
-      pick: 1
     - text: "This month’s REAL MEN Cover Story: “________________ RIPPED MY FLESH!”"
-      pick: 1
     - text: You don’t know what _________________ is until you’ve seen _________________.
       pick: 2
     - text: I always get _________________ mixed up with _________________.
@@ -177,13 +163,9 @@ sets:
     - text: Lest we forget, _____ is how we got _____.
       pick: 2
     - text: What’s your favorite idea?
-      pick: 1
     - text: Love is ____.
-      pick: 1
     - text: What inspired me to become a surgeon?
-      pick: 1
     - text: _____, but not in bed.
-      pick: 1
     - text: And that’s when we saw ’er a’comin ’round the bend, strong as _________________ and louder than _________________.
       pick: 2
     - text: My career was over after I was discovered employing _________________ in the service of _________________.
@@ -191,7 +173,6 @@ sets:
     - text: When I need to escape from _____________, I like to imagine ______________.
       pick: 2
     - text: Why can’t I wear that t-shirt any more?
-      pick: 1
     - text: so much depends<br>upon<br><br>a red wheel barrow<br><br>glazed with _____<br><br>beside _________.
       pick: 2
     - text: When you asked for ______________, I thought you were saying you wanted ______________.
@@ -199,7 +180,6 @@ sets:
     - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
       pick: 2
     - text: Let us toast to the honor of our magnanimous benefactor, ______________.
-      pick: 1
     - text: ___________ is the _________________ of the world.
       pick: 2
     - text: Have you tried replacing ________ with ____________?
@@ -230,7 +210,6 @@ sets:
     - text: A sex tape Donald Trump wants you to check out.
     black:
     - text: "Don’t blame me: I voted for _________________."
-      pick: 1
 - name: Seattle Pack
   cards:
     white:
@@ -245,9 +224,7 @@ sets:
     - text: Big Bertha.
     black:
     - text: I’m just here so I won’t get ________.
-      pick: 1
     - text: What's the one fetish Dan Savage will never touch?
-      pick: 1
 - name: Highbrow Pack
   cards:
     white:
@@ -262,7 +239,6 @@ sets:
     - text: Fighting over the use of en dashes versus hyphens.
     black:
     - text: To whom do we address our letter of grievance?
-      pick: 1
 - name: Meta Pack
   cards:
     white:
@@ -278,7 +254,6 @@ sets:
     - text: An impressive self own.
     black:
     - text: What do you just want to get out of your hand already?
-      pick: 1
 - name: Horror Pack
   cards:
     white:
@@ -299,9 +274,7 @@ sets:
     - text: Failing upwards.
     black:
     - text: Why did I go into showbusiness?
-      pick: 1
     - text: What’s the most surprising part of Quentin Tarantino’s next production?
-      pick: 1
 - name: Worker’s Revolutionary Pack
   cards:
     white:
@@ -310,7 +283,6 @@ sets:
     - text: An actual banana republic.
     black:
     - text: When the revolution comes, _____ will be the first against the wall.
-      pick: 1
 - name: Music Pack
   cards:
     white:
@@ -327,9 +299,7 @@ sets:
     - text: People who died.
     black:
     - text: The hills are alive with the sound of _________________.
-      pick: 1
     - text: Freedom’s just another word for _________________.
-      pick: 1
 - name: Pack of Northern Aggression
   cards:
     white:
@@ -344,7 +314,6 @@ sets:
     - text: Jim Crow.
     black:
     - text: The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
-      pick: 1
 - name: Hardcore Nerd Pack
   cards:
     white:
@@ -362,11 +331,8 @@ sets:
     - text: Skulls for the skull throne.
     black:
     - text: How can the net amount of entropy of the universe be massively decreased?
-      pick: 1
     - text: What is best in life?
-      pick: 1
     - text: Is this going to be a stand-up fight, sir, or just _____?
-      pick: 1
 - name: Hacker Pack
   cards:
     white:
@@ -375,7 +341,6 @@ sets:
     - text: Folding, spindling, and mutilating.
     black:
     - text: The US Patent Office has yet to approve my application for _________________ with a computer.
-      pick: 1
     - text: Half of Pinterest is just pictures of ___________ sprinkled with _________________.
       pick: 2
     - text: My new startup is basically like _________________, only for _________________.
