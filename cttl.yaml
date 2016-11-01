@@ -1,15 +1,14 @@
 brand:
   name: Cards to the Left
 sets:
-- name: Cards to the Left Base Set
+- name: "Cards to the Left, Volume 1"
   cards:
     white:
     - text: Joining a Kurdish militia ironically.
     - text: Increasing intensity.
     - text: Labels.
     - text: Virtual reality.
-    - text: The obvious thing that everybody is thinking, but nobody will say.
-    - text: The security aspect of cyber.
+    - text: What everybody’s thinking, but nobody is saying.
     - text: The Thong Song playing on the office speaker system.
     - text: Ethnic cleansing on Facebook.
     - text: Tops.
@@ -17,14 +16,11 @@ sets:
     - text: Irony.
     - text: Matt Damon.
     - text: Violating the Terms of Service.
-    - text: A teeny tiny Confederate flag.
     - text: Communicating with terrorists via graffiti in a public restroom.
-    - text: Mice.
+    - text: A hell of a lot of mice.
     - text: Adolph Hitler’s IMDb page.
     - text: Lovecraftian memes.
-    - text: Specifically this kind of thing.
     - text: Probing.
-    - text: The word “boy”.
     - text: Willy Wonka, as played by Johnny Depp.
     - text: Laughing at my boner.
     - text: IKEA meatballs.
@@ -33,36 +29,27 @@ sets:
     - text: Jennifer Aniston.
     - text: A sippy cup full of lukewarm piss.
     - text: Trying.
-    - text: Playing a card you just drew.
-    - text: To crush your enemies, see them driven before you, and to hear the lamentations of their women.
     - text: The National Security Adminstration.
     - text: All of us, every one.
-    - text: Rock Hudson banging James Dean to win a bet against Liz Taylor.
     - text: A striptease that goes just a little bit too far.
     - text: Ideology.
     - text: Buckets, binders, and bags full of boners.
-    - text: The inevitable collapse of the Republican Party.
     - text: Pork.
     - text: Knowing who William F. Buckley is.
     - text: A sentient tub of expired sour cream.
+    - text: Bae.
     - text: Pants that fit.
     - text: Jerking off with a McChicken® sandwich.
     - text: Going to Disney World.
     - text: Feet.
     - text: All the farts, right in my face, free and all mine.
-    - text: Addressing a stranger as &ldquo;stranger&rdquo;.
+    - text: Addressing a stranger as “stranger”.
     - text: Power bottoms.
-    - text: The bourgeoisie.
-    - text: Zero-day exploits.
     - text: Cookie Monster's funeral.
     - text: A billy goat chewing on a stick of dynamite.
-    - text: An impressive self own.
     - text: Becoming invisible at will.
     - text: Petabytes of data downloaded directly off the Dark Web.
-    - text: A whole Coke bottle.
-    - text: The deep Southern drawl of a Big Tobacco CEO.
     - text: e e cummings
-    - text: The 2016 presidential election.
     - text: Vaping.
     - text: The teleprompter.
     - text: Controversy.
@@ -74,10 +61,7 @@ sets:
     - text: Newspaper editors teetering on the verge of suicide.
     - text: Becoming a Jedi.
     - text: Thinking mean thoughts.
-    - text: Walking from one coffee shop to another coffee shop.
-    - text: Beast Mode.
     - text: Bachelorette parties.
-    - text: Robespierre's Reign of Terror.
     - text: Sympathy vomit.
     - text: Switching to analog.
     - text: Beige.
@@ -87,151 +71,116 @@ sets:
     - text: Police brutality.
     - text: Being put out to stud.
     - text: Screaming eagles.
-    - text: That grand old Dixie notion of honor.
     - text: Thanks.
     - text: Woo girls.
-    - text: The ability to commit sexual assault with impunity.
     - text: Xylophone music.
-    - text: The love of God, Montresor!
-    - text: Tasting the finest of wines.
-    - text: Going to a funeral in costume.
-    - text: Roscoe's Chicken and Waffles.
+    - text: Lady blue lady balls.
     - text: William Jefferson “Slick Willy” Clinton.
     - text: The dulcet tones of a distant saxophone.
     - text: Dynamite.
+    - text: Two fingers, just to start.
     - text: Abe Frohman, the sausage king of Chicago.
     - text: Tartar sauce.
-    - text: Picard and Dathon, at El-Adrel.
-    - text: New Yorker cartoons.
     - text: Having a butt where your face should be.
     - text: Lucifer.
-    - text: The ninth planet, Pluto.
     - text: The Food Network.
     - text: Garlic bread.
     - text: The Byzantine Empire.
-    - text: Voter fraud.
     - text: The bits.
-    - text: Memories of things that never happened.
     - text: Eleven herbs and spices.
     - text: An avalanche having an orgasm.
     - text: Long schlong.
+    - text: A pyramid scheme.
     - text: Teledildonics (which means exactly what you think it means).
     - text: Anything but the truth.
     - text: Ugly socks in a Nintendo box.
-    - text: Electing Crooked Hillary Clinton to the White House.
     - text: Tiger blood.
     - text: A little doggy.
     - text: Broken promises.
+    - text: Spooky scary skeletons.
+    - text: Sexual relations.
     - text: The bad kind of juicy.
     - text: Robot butlers.
     - text: The Fourth Crusade.
+    - text: The War of Northern Aggression.
     - text: Kissing your dad.
     - text: Problems magically solving themselves.
     - text: Looking at the sexy TV.
-    - text: Grunge.
-    - text: The Microsoft Network.
-    - text: Quiet Riot’s 1983 hit cover of Slade’s “Cum On Feel the Noize”.
     - text: Rachaelism.
     - text: The skulls of the vanquished.
-    - text: The slings and arrows of outrageous fortune.
-    - text: Seizing the means of production.
     - text: A rented mule.
     - text: Cable news anchors.
     - text: Ocular herpes.
-    - text: Sucking a robot's dick.
+    - text: Other people.
+    - text: Sucking a robot’s dick.
     - text: Winning.
-    - text: An inappropriate piñata.
+    - text: A magical wish-granting piñata.
     - text: A long night of cocaine.
     - text: Threats of physical violence.
+    - text: Shoes.
     - text: Hobo nickels.
     - text: High-priced hitmen.
     - text: Goons in gorilla suits.
+    - text: Second puberty.
     - text: The Department of Motor Vehicles.
-    - text: Sensible Chuckle Monthly Magazine.
+    - text: Sensible Chuckle Monthly Humor Review.
     - text: Self-care.
-    - text: Everything.
     - text: Medieval birth control.
-    - text: Folding, spindling, and mutilating.
     - text: Human resources.
     - text: Bonobo monkeys.
     - text: Ultimate hatred.
+    - text: Gaydar.
     - text: Exorbitant late fees.
     - text: Being creative.
     - text: The United States Armed Forces.
-    - text: A dastardly plan to steal Ted Nugent's wardrobe.
-    - text: Spooky scary skeletons.
-    - text: Songs about fucking Steve Albini.
     - text: Dying again.
     - text: Killing again.
     - text: Enough codeine to decongest an elephant.
     - text: That first cup of coffee in the morning.
     - text: Honey!
-    - text: Two hearts that beat as one.
-    - text: "Space: the final frontier."
+    - text: A baby shower breaking out in a brawl.
     black:
     - text: I know what you are, but what am I?
       pick: 1
     - text: What should the Founding Fathers have left out of the Constitution?
       pick: 1
-    - text: Freedom’s just another word for _________________.
-      pick: 1
     - text: Fuck you, _________________.
-      pick: 1
-    - text: The hills are alive with the sound of _________________.
       pick: 1
     - text: What’s the first thing you see at the gates of Hell?
       pick: 1
-    - text: Let's talk about _____.
+    - text: Let’s talk about _____.
       pick: 1
     - text: What was Sun Tzu’s greatest strategy to defeat an enemy?
       pick: 1
     - text: This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
       pick: 1
-    - text: To whom do we address our letter of grief?
-      pick: 1
-    - text: No, I&rsquo;M _____!
+    - text: No, I’M _____!
       pick: 1
     - text: A sufficient mass of _________________ will ultimately collapse into _________________.
       pick: 2
     - text: What’s the LAST thing we need right now?
       pick: 1
-    - text: The US Patent Office has yet to approve my application for _________________ with a computer.
-      pick: 1
     - text: What do you struggle to resist sticking inside yourself?
       pick: 1
     - text: What hot new trend is sweeping Silicon Valley?
       pick: 1
-    - text: What doesn't exist?
+    - text: What doesn’t exist?
       pick: 1
-    - text: I'm grounded because Mom overheard me talking about ______.
+    - text: I’m grounded because Mom overheard me talking about ______.
       pick: 1
     - text: "This month’s REAL MEN Cover Story: “________________ RIPPED MY FLESH!”"
       pick: 1
-    - text: What is best in life?
-      pick: 1
-    - text: "Don’t blame me: I voted for _________________."
-      pick: 1
-    - text: What's the one fetish Dan Savage will never touch?
-      pick: 1
-    - text: I’m just here so I won’t get ________.
-      pick: 1
-    - text: What do you just want to get out of your hand already?
-      pick: 1
+    - text: You don’t know what _________________ is until you’ve seen _________________.
+      pick: 2
+    - text: I always get _________________ mixed up with _________________.
+      pick: 2
     - text: Lest we forget, _____ is how we got _____.
       pick: 2
-    - text: When the revolution comes, _________________ will be the first against the wall.
-      pick: 1
-    - text: What's your favorite idea?
+    - text: What’s your favorite idea?
       pick: 1
     - text: Love is ____.
       pick: 1
-    - text: Why did I go into showbusiness?
-      pick: 1
-    - text: Is this going to be a stand-up fight, sir, or just _____?
-      pick: 1
     - text: What inspired me to become a surgeon?
-      pick: 1
-    - text: The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
       pick: 1
     - text: _____, but not in bed.
       pick: 1
@@ -241,9 +190,7 @@ sets:
       pick: 2
     - text: When I need to escape from _____________, I like to imagine ______________.
       pick: 2
-    - text: Half of Pinterest is just pictures of ___________ sprinkled with _________________.
-      pick: 2
-    - text: Why can&rsquo;t I wear that t-shirt any more?
+    - text: Why can’t I wear that t-shirt any more?
       pick: 1
     - text: so much depends<br>upon<br><br>a red wheel barrow<br><br>glazed with _____<br><br>beside _________.
       pick: 2
@@ -251,6 +198,8 @@ sets:
       pick: 2
     - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
       pick: 2
+    - text: Let us toast to the honor of our magnanimous benefactor, ______________.
+      pick: 1
     - text: ___________ is the _________________ of the world.
       pick: 2
     - text: Have you tried replacing ________ with ____________?
@@ -259,7 +208,175 @@ sets:
       pick: 2
     - text: Only _________________ can overcome the horrors of _________________.
       pick: 2
-    - text: My new startup is basically like _________________, only for _________________.
-      pick: 2
     - text: ____________, ____________, and _________, oh my!
       pick: 3
+- name: Decision 2016 Pack
+  cards:
+    white:
+    - text: The security aspect of cyber.
+    - text: The inevitable collapse of the Republican Party.
+    - text: Electing Crooked Hillary Clinton to the White House.
+    - text: Tax loopholes.
+    - text: Other people’s money.
+    - text: Pandering to anti-Semites.
+    - text: The ability to commit sexual assault with impunity.
+    - text: Voter fraud.
+    - text: Climate change.
+    - text: The 2016 presidential election.
+    - text: Harambe.
+    - text: The Samsung Galaxy Note 7.
+    - text: Fingers the size of Vienna sausages.
+    - text: Second Amendment people.
+    - text: A sex tape Donald Trump wants you to check out.
+    black:
+    - text: "Don’t blame me: I voted for _________________."
+      pick: 1
+- name: Seattle Pack
+  cards:
+    white:
+    - text: Beast Mode.
+    - text: Grunge.
+    - text: Walking from one coffee shop to another coffee shop.
+    - text: The Presidents of the United States of America.
+    - text: Legalizing it.
+    - text: Perpetual light drizzle.
+    - text: A functional light rail system.
+    - text: Public education funding.
+    - text: Big Bertha.
+    black:
+    - text: I’m just here so I won’t get ________.
+      pick: 1
+    - text: What's the one fetish Dan Savage will never touch?
+      pick: 1
+- name: Highbrow Pack
+  cards:
+    white:
+    - text: The love of God, Montresor!
+    - text: Tasting the finest of wines.
+    - text: New Yorker cartoons.
+    - text: Robespierre’s Reign of Terror.
+    - text: Tittering at irreverent jest.
+    - text: The definite article.
+    - text: The slings and arrows of outrageous fortune.
+    - text: The stultifying compositions of Edvard Grieg.
+    - text: Fighting over the use of en dashes versus hyphens.
+    black:
+    - text: To whom do we address our letter of grievance?
+      pick: 1
+- name: Meta Pack
+  cards:
+    white:
+    - text: Everything.
+    - text: Playing a card you just drew.
+    - text: Card advantage.
+    - text: Putting the rules card into play from your hand.
+    - text: Specifically this kind of thing.
+    - text: Myself.
+    - text: Knowing how to play the game.
+    - text: An eternal golden braid.
+    - text: Recursion.
+    - text: An impressive self own.
+    black:
+    - text: What do you just want to get out of your hand already?
+      pick: 1
+- name: Horror Pack
+  cards:
+    white:
+    - text: Going to a funeral in costume.
+    - text: Spooky poops.
+    - text: Sucking cocks in hell.
+    - text: Beelzebub, Lord of the Flies.
+    - text: Red running crimson blood.
+- name: Hollywood Pack
+  cards:
+    white:
+    - text: Rock Hudson banging James Dean to win a bet against Liz Taylor.
+    - text: Billy Bush.
+    - text: Access.
+    - text: A chocolate Oscar.
+    - text: The casting couch.
+    - text: Nicolas Cage.
+    - text: Failing upwards.
+    black:
+    - text: Why did I go into showbusiness?
+      pick: 1
+    - text: What’s the most surprising part of Quentin Tarantino’s next production?
+      pick: 1
+- name: Worker’s Revolutionary Pack
+  cards:
+    white:
+    - text: Seizing the means of production.
+    - text: The bourgeoisie.
+    - text: An actual banana republic.
+    black:
+    - text: When the revolution comes, _____ will be the first against the wall.
+      pick: 1
+- name: Music Pack
+  cards:
+    white:
+    - text: Pop, pop, pop music.
+    - text: A dastardly plan to steal Ted Nugent’s wardrobe.
+    - text: Songs about fucking Steve Albini.
+    - text: Quiet Riot’s 1983 hit cover of Slade’s “Cum On Feel the Noize”.
+    - text: Memories of things that never happened.
+    - text: Two hearts that beat as one.
+    - text: Knights in Satan’s service.
+    - text: David Bowie’s dancing magic pants.
+    - text: Electric music, solid walls of sound.
+    - text: Mexican radio.
+    - text: People who died.
+    black:
+    - text: The hills are alive with the sound of _________________.
+      pick: 1
+    - text: Freedom’s just another word for _________________.
+      pick: 1
+- name: Pack of Northern Aggression
+  cards:
+    white:
+    - text: That grand old Dixie notion of honor.
+    - text: Roscoe’s Chicken and Waffles.
+    - text: A teeny tiny Confederate flag.
+    - text: The word “boy”.
+    - text: The deep Southern drawl of a Big Tobacco CEO.
+    - text: A whole Coke bottle.
+    - text: Uber driving Miss Daisy.
+    - text: Smothered in gravy, Texas style.
+    - text: Jim Crow.
+    black:
+    - text: The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
+      pick: 1
+- name: Hardcore Nerd Pack
+  cards:
+    white:
+    - text: Picard and Dathon, at El-Adrel.
+    - text: Analysis.
+    - text: The ninth planet, Pluto.
+    - text: William, Shatner.
+    - text: A morbidly obese Time Lord undergoing octuple bypass surgery.
+    - text: INSUFFICIENT DATA FOR MEANINGFUL ANSWER.
+    - text: Maxwell’s demon.
+    - text: The users.
+    - text: "Space: the final frontier."
+    - text: To crush your enemies, see them driven before you, and to hear the lamentations of their women.
+    - text: Blood for the blood god.
+    - text: Skulls for the skull throne.
+    black:
+    - text: How can the net amount of entropy of the universe be massively decreased?
+      pick: 1
+    - text: What is best in life?
+      pick: 1
+    - text: Is this going to be a stand-up fight, sir, or just _____?
+      pick: 1
+- name: Hacker Pack
+  cards:
+    white:
+    - text: The Microsoft Network.
+    - text: Zero-day exploits.
+    - text: Folding, spindling, and mutilating.
+    black:
+    - text: The US Patent Office has yet to approve my application for _________________ with a computer.
+      pick: 1
+    - text: Half of Pinterest is just pictures of ___________ sprinkled with _________________.
+      pick: 2
+    - text: My new startup is basically like _________________, only for _________________.
+      pick: 2
