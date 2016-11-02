@@ -31,9 +31,9 @@ sets:
     - text: Trying.
     - text: The National Security Adminstration.
     - text: All of us, every one.
-    - text: A striptease that goes just a little bit too far.
+    - text: A striptease that just doesn’t do the trick.
     - text: Ideology.
-    - text: Buckets, binders, and bags full of boners.
+    - text: Buckets, baskets, and bags full of boners.
     - text: Pork.
     - text: Knowing who William F. Buckley is.
     - text: A sentient tub of expired sour cream.
@@ -45,7 +45,7 @@ sets:
     - text: All the farts, right in my face, free and all mine.
     - text: Addressing a stranger as “stranger”.
     - text: Power bottoms.
-    - text: Cookie Monster's funeral.
+    - text: Cookie Monster’s funeral.
     - text: A billy goat chewing on a stick of dynamite.
     - text: Becoming invisible at will.
     - text: Petabytes of data downloaded directly off the Dark Web.
@@ -87,7 +87,6 @@ sets:
     - text: Garlic bread.
     - text: The Byzantine Empire.
     - text: The bits.
-    - text: Eleven herbs and spices.
     - text: An avalanche having an orgasm.
     - text: Long schlong.
     - text: A pyramid scheme.
@@ -101,6 +100,8 @@ sets:
     - text: Sexual relations.
     - text: The bad kind of juicy.
     - text: Robot butlers.
+    - text: Shits and giggles.
+    - text: Pizzly bears.
     - text: The Fourth Crusade.
     - text: The War of Northern Aggression.
     - text: Kissing your dad.
@@ -114,14 +115,17 @@ sets:
     - text: Other people.
     - text: Sucking a robot’s dick.
     - text: Winning.
+    - text: Going out in your pajamas in the middle of the night to buy a plunger.
     - text: A magical wish-granting piñata.
     - text: A long night of cocaine.
+    - text: Just asking questions.
     - text: Threats of physical violence.
     - text: Shoes.
     - text: Hobo nickels.
     - text: High-priced hitmen.
     - text: Goons in gorilla suits.
     - text: Second puberty.
+    - text: Nut butters.
     - text: The Department of Motor Vehicles.
     - text: Sensible Chuckle Monthly Humor Review.
     - text: Self-care.
@@ -138,7 +142,7 @@ sets:
     - text: Enough codeine to decongest an elephant.
     - text: That first cup of coffee in the morning.
     - text: Honey!
-    - text: A baby shower breaking out in a brawl.
+    - text: A brawl breaking out at a baby shower.
     black:
     - text: I know what you are, but what am I?
     - text: What should the Founding Fathers have left out of the Constitution?
@@ -152,9 +156,8 @@ sets:
       pick: 2
     - text: What’s the LAST thing we need right now?
     - text: What do you struggle to resist sticking inside yourself?
-    - text: What hot new trend is sweeping Silicon Valley?
     - text: What doesn’t exist?
-    - text: I’m grounded because Mom overheard me talking about ______.
+    - text: I got suspended, just because some kids overheard me talking about ______.
     - text: "This month’s REAL MEN Cover Story: “________________ RIPPED MY FLESH!”"
     - text: You don’t know what _________________ is until you’ve seen _________________.
       pick: 2
@@ -196,12 +199,13 @@ sets:
     - text: The security aspect of cyber.
     - text: The inevitable collapse of the Republican Party.
     - text: Electing Crooked Hillary Clinton to the White House.
+    - text: ISIS.
     - text: Tax loopholes.
     - text: Other people’s money.
     - text: Pandering to anti-Semites.
     - text: The ability to commit sexual assault with impunity.
     - text: Voter fraud.
-    - text: Climate change.
+    - text: The political climate around climate change.
     - text: The 2016 presidential election.
     - text: Harambe.
     - text: The Samsung Galaxy Note 7.
@@ -222,6 +226,7 @@ sets:
     - text: A functional light rail system.
     - text: Public education funding.
     - text: Big Bertha.
+    - text: Bill Gates unleashing an army of mosquitoes on an unsuspecting crowd.
     black:
     - text: I’m just here so I won’t get ________.
     - text: What's the one fetish Dan Savage will never touch?
@@ -246,12 +251,15 @@ sets:
     - text: Playing a card you just drew.
     - text: Card advantage.
     - text: Putting the rules card into play from your hand.
-    - text: Specifically this kind of thing.
+    - text: Just this kind of situation.
     - text: Myself.
     - text: Knowing how to play the game.
     - text: An eternal golden braid.
     - text: Recursion.
-    - text: An impressive self own.
+    - text: Self-ownage.
+    - text: This.
+    - text: A hand drawing another hand.
+    - text: Playtesting, idiot.
     black:
     - text: What do you just want to get out of your hand already?
 - name: Horror Pack
@@ -262,6 +270,9 @@ sets:
     - text: Sucking cocks in hell.
     - text: Beelzebub, Lord of the Flies.
     - text: Red running crimson blood.
+    black:
+    - text: "Only two things scare me: _____, and _____."
+      pick: 2
 - name: Hollywood Pack
   cards:
     white:
@@ -272,8 +283,9 @@ sets:
     - text: The casting couch.
     - text: Nicolas Cage.
     - text: Failing upwards.
+    - text: Catering.
     black:
-    - text: Why did I go into showbusiness?
+    - text: What drew me in to showbusiness?
     - text: What’s the most surprising part of Quentin Tarantino’s next production?
 - name: Worker’s Revolutionary Pack
   cards:
@@ -281,6 +293,7 @@ sets:
     - text: Seizing the means of production.
     - text: The bourgeoisie.
     - text: An actual banana republic.
+    - text: Ethical consumption under capitalism.
     black:
     - text: When the revolution comes, _____ will be the first against the wall.
 - name: Music Pack
@@ -310,10 +323,15 @@ sets:
     - text: The deep Southern drawl of a Big Tobacco CEO.
     - text: A whole Coke bottle.
     - text: Uber driving Miss Daisy.
-    - text: Smothered in gravy, Texas style.
+    - text: Hot and saucy, Texas style.
     - text: Jim Crow.
+    - text: Eleven herbs and spices.
+    - text: Biscuit gravy.
+    - text: States’ rights.
+    - text: Uncle Tom’s Cabin.
     black:
     - text: The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
+    - text: Come around some bars in Tennesee, and they’ll happily beat your ass for _____.
 - name: Hardcore Nerd Pack
   cards:
     white:
@@ -324,6 +342,7 @@ sets:
     - text: A morbidly obese Time Lord undergoing octuple bypass surgery.
     - text: INSUFFICIENT DATA FOR MEANINGFUL ANSWER.
     - text: Maxwell’s demon.
+    - text: The very mention of Jar-Jar Binks.
     - text: The users.
     - text: "Space: the final frontier."
     - text: To crush your enemies, see them driven before you, and to hear the lamentations of their women.
@@ -337,11 +356,17 @@ sets:
   cards:
     white:
     - text: The Microsoft Network.
-    - text: Zero-day exploits.
+    - text: Zero-day vulnerabilities.
+    - text: Exploiting race conditions.
+    - text: Poking around in core memory.
+    - text: Popping a shell.
     - text: Folding, spindling, and mutilating.
+    - text: Passwords that are harder for humans to remember than they are for computers to guess.
+    - text: That gif of Antonio Banderas kissing his knuckle.
     black:
     - text: The US Patent Office has yet to approve my application for _________________ with a computer.
     - text: Half of Pinterest is just pictures of ___________ sprinkled with _________________.
       pick: 2
     - text: My new startup is basically like _________________, only for _________________.
       pick: 2
+    - text: What hot new trend is sweeping Silicon Valley?
