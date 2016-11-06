@@ -4,7 +4,6 @@ sets:
 - name: "Cards to the Left, Volume 1"
   cards:
     white:
-    - text: Joining a Kurdish militia ironically.
     - text: Increasing intensity.
     - text: Labels.
     - text: Virtual reality.
@@ -31,10 +30,12 @@ sets:
     - text: Trying.
     - text: The National Security Adminstration.
     - text: All of us, every one.
+    - text: Cutting the cucumber lengthwise.
     - text: A striptease that just doesn’t do the trick.
     - text: Ideology.
     - text: Buckets, baskets, and bags full of boners.
     - text: Pork.
+    - text: The Japanese.
     - text: Knowing who William F. Buckley is.
     - text: A sentient tub of expired sour cream.
     - text: Bae.
@@ -55,11 +56,11 @@ sets:
     - text: A dyslexic Tori Spelling.
     - text: Nixon.
     - text: Just a banana.
+    - text: Children under 48 inches in height.
     - text: Dangerously high levels of lead.
     - text: “Weird Al” Yankovic.
     - text: Newspaper editors teetering on the verge of suicide.
     - text: Becoming a Jedi.
-    - text: Thinking mean thoughts.
     - text: Drinking juice.
     - text: Bachelorette parties.
     - text: Sympathy vomit.
@@ -82,6 +83,7 @@ sets:
     - text: Dynamite.
     - text: Two fingers, just to start.
     - text: Abe Frohman, the sausage king of Chicago.
+    - text: A real stinker.
     - text: Tartar sauce.
     - text: Having a butt where your face should be.
     - text: Lucifer.
@@ -97,26 +99,33 @@ sets:
     - text: Anything but the truth.
     - text: Ugly socks in a Nintendo box.
     - text: Tiger blood.
+    - text: Too much poo.
     - text: A little doggy.
+    - text: "A well regulated militia, being necessary to the security of a free state."
     - text: Broken promises.
     - text: Columbus, Ohio.
     - text: Spooky scary skeletons.
     - text: Sexual relations.
     - text: The bad kind of juicy.
+    - text: Salt.
     - text: Robot butlers.
     - text: Shits and giggles.
     - text: Pizzly bears.
     - text: The Fourth Crusade.
     - text: The War of Northern Aggression.
+    - text: My inner thigh.
     - text: Kissing your dad.
     - text: Problems magically solving themselves.
     - text: Looking at the sexy TV.
     - text: Rachaelism.
+    - text: LIIIGHTNIIIIING!
     - text: The skulls of the vanquished.
     - text: A rented mule.
+    - text: Santorum.
     - text: Cable news anchors.
     - text: Ninjas on the front lawn trying to kill us.
     - text: Ocular herpes.
+    - text: Jimmies.
     - text: Other people.
     - text: Sucking a robot’s dick.
     - text: Winning.
@@ -130,13 +139,14 @@ sets:
     - text: Hobo nickels.
     - text: High-priced hitmen.
     - text: Goons in gorilla suits.
+    - text: A roller coaster of personal feelings.
     - text: Second puberty.
     - text: Nut butters.
     - text: The Department of Motor Vehicles.
     - text: Sensible Chuckle Monthly Humor Review.
     - text: Self-care.
     - text: Medieval birth control.
-    - text: Homemade firearms.
+    - text: A self-indulgent sneeze.
     - text: Human resources.
     - text: Getting addicted to heroin.
     - text: Bonobo monkeys.
@@ -144,7 +154,6 @@ sets:
     - text: Gaydar.
     - text: Exorbitant late fees.
     - text: Being creative.
-    - text: The United States Armed Forces.
     - text: Dying again.
     - text: Killing again.
     - text: Enough codeine to decongest an elephant.
@@ -157,17 +166,18 @@ sets:
     - text: Just gas.
     black:
     - text: I know what you are, but what am I?
-    - text: What should the Founding Fathers have left out of the Constitution?
     - text: Fuck you, _________________.
     - text: What’s the first thing you see at the gates of Hell?
-    - text: Let’s talk about _____.
-    - text: Nothing gives me more _________________ than seeing _________________.
+    - text: Excuse me, do you have a moment to talk about _____?
+    - text: Nothing gives me more _________________ than _________________.
       pick: 2
-    - text: What was Sun Tzu’s greatest strategy to defeat an enemy?
     - text: This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
     - text: No, I’M _____!
+    - text: Great, now I can’t do anything below the waist without thinking of _____.
     - text: What’s the LAST thing we need right now?
     - text: What do you struggle to resist sticking inside yourself?
+    - text: Where do you draw the line?
+    - text: "After reviewing our options, I think we have no choice but to look at _____."
     - text: What doesn’t exist?
     - text: _____? But why?
     - text: I got suspended, just because some kids overheard me talking about ______.
@@ -180,12 +190,12 @@ sets:
     - text: Lest we forget, _____ is how we got _____.
       pick: 2
     - text: What’s your favorite idea?
-    - text: Love is ____.
+    - text: "It’s still anyone’s game right now as we go into our “____________” Round."
     - text: What inspired me to become a surgeon?
+    - text: In the end, it all comes down to _____ versus _____.
+      pick: 2
     - text: _____, but not in bed.
     - text: And that’s when we saw ’er a’comin ’round the bend, strong as _________________ and louder than _________________.
-      pick: 2
-    - text: My career was over after I was discovered employing _________________ in the service of _________________.
       pick: 2
     - text: When I need to escape from _____________, I like to imagine ______________.
       pick: 2
@@ -196,13 +206,9 @@ sets:
       pick: 2
     - text: When you asked for ______________, I thought you were saying you wanted ______________.
       pick: 2
-    - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
-      pick: 2
     - text: ___________ is the _________________ of the world.
       pick: 2
-    - text: Have you tried replacing ________ with ____________?
-      pick: 2
-    - text: Our only hope to defeat _________________ lies in _________________.
+    - text: Have you considered ________ instead of ____________?
       pick: 2
     - text: Only _________________ can overcome the horrors of _________________.
       pick: 2
@@ -217,6 +223,7 @@ sets:
     - text: ISIS.
     - text: Tax loopholes.
     - text: Other people’s money.
+    - text: The Federal Bureau of Investigation.
     - text: Pandering to anti-Semites.
     - text: The ability to commit sexual assault with impunity.
     - text: Voter fraud.
@@ -230,6 +237,9 @@ sets:
     - text: A sex tape Donald Trump wants you to check out.
     - text: Pegging Mike Pence.
     black:
+    - text: What should the Founding Fathers have left out of the Constitution?
+    - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
+      pick: 2
     - text: "Don’t blame me: I voted for _________________."
 - name: Seattle Pack
   cards:
@@ -246,7 +256,7 @@ sets:
     - text: Bill Gates unleashing an army of mosquitoes on an unsuspecting crowd.
     black:
     - text: I’m just here so I won’t get ________.
-    - text: What's the one fetish Dan Savage will never touch?
+    - text: What’s the one fetish Dan Savage will never touch?
 - name: Highbrow Pack
   cards:
     white:
@@ -280,11 +290,14 @@ sets:
     - text: Self-ownage.
     - text: This.
     - text: A hand drawing another hand.
+    - text: No.
     - text: Playtesting, idiot.
     - text: The same text as the previous card.
     - text: The one that won the last round.
     black:
     - text: What do you just want to get out of your hand already?
+    - text: "_____: _____."
+      pick: 2
 - name: Horror Pack
   cards:
     white:
@@ -327,7 +340,7 @@ sets:
     - text: An actual banana republic.
     - text: Ethical capitalists.
     - text: The proletariat.
-    - text: The attainment of classless utopia.
+    - text: The attainment of a classless utopia.
     black:
     - text: When the revolution comes, _____ will be the first against the wall.
     - text: "There is a spectre haunting Europe: the spectre of _____."
@@ -393,8 +406,40 @@ sets:
     black:
     - text: How can the net amount of entropy of the universe be massively decreased?
     - text: What is best in life?
-    - text: Is this going to be a stand-up fight, sir, or just _____?
+    - text: Is this going to be a stand-up fight, sir, or more _____?
     - text: A sufficient mass of _________________ will ultimately collapse into _________________.
+      pick: 2
+- name: Love and War Pack
+  cards:
+    white:
+    - text: Twue wuv.
+    - text: Giant champagne glass hot tubs.
+    - text: A gay divorcee.
+    - text: The United States Armed Forces.
+    - text: The nuclear option.
+    - text: Thinking mean thoughts.
+    - text: Joining a Kurdish militia ironically.
+    - text: Homemade firearms.
+    - text: The field of battle.
+    black:
+    - text: Love is ____.
+    - text: "If there’s nobody else, then how did that lipstick get on your _____?"
+    - text: What was Sun Tzu’s greatest strategy to defeat an enemy?
+    - text: Our only hope to defeat _________________ lies in _________________.
+      pick: 2
+- name: Tactical Espionage Packtion
+  cards:
+    white:
+    - text: Just a box...
+    - text: Snake? SNAAAAKE!!
+    - text: Dr. No.
+    - text: The CIA.
+    - text: The Guns of the Patriots.
+    - text: Q.
+    - text: Her Majesty’s Secret Service.
+    - text: Sabotadge.
+    black:
+    - text: My career was over after I was discovered employing _________________ in the service of _________________.
       pick: 2
 - name: Hacker Pack
   cards:
@@ -411,6 +456,7 @@ sets:
     - text: Weaponized poetry.
     - text: Swapping blobs.
     - text: The DRM on a coffee maker.
+    - text: A novelty electronic fish hacked to shout Nuremberg Rally speeches instead of singing.
     black:
     - text: The US Patent Office has yet to approve my application for _________________ with a computer.
     - text: Half of Pinterest is just pictures of ___________ sprinkled with _________________.
@@ -423,17 +469,13 @@ sets:
 - name: Pack of the Lost
   cards:
     white:
-    - text: To cut the cucumber lengthwise.
-    - text: Q.
-    - text: Jimmies.
-    - text: No.
-    - text: Dr. No.
     - text: Dr. Jock, TV quiz PhD.
     - text: Few lynx bags.
     - text: The Ark of the Covenant.
     - text: The Holy Grail.
+    - text: Trainspotting.
     black:
     - text: _________________! _________________! Ia! Ia!
       pick: 2
-    - text: In the end, it turned out the real national treasure was _____.
+    - text: In the end, it turned out the real National Treasure was _____.
       pick: 2
