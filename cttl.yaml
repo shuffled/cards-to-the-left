@@ -174,6 +174,8 @@ sets:
     - text: No, I’M _____!
     - text: Great, now I can’t do anything below the waist without thinking of _____.
     - text: What’s the LAST thing we need right now?
+    - text: "“_____: _____?” Tonight, on WCBS 2 News at 11."
+      pick: 2
     - text: What do you struggle to resist sticking inside yourself?
     - text: Where do you draw the line?
     - text: "After reviewing our options, I think we have no choice but to look at _____."
@@ -191,7 +193,7 @@ sets:
     - text: What’s your favorite idea?
     - text: "It’s still anyone’s game right now as we go into our “____________” Round."
     - text: What inspired me to become a surgeon?
-    - text: In the end, it all comes down to _____ versus _____.
+    - text: At the end, it all comes down to _____ versus _____.
       pick: 2
     - text: _____, but not in bed.
     - text: And that’s when we saw ’er a’comin ’round the bend, strong as _________________ and louder than _________________.
@@ -213,7 +215,8 @@ sets:
       pick: 2
     - text: ____________, ____________, and _________, oh my!
       pick: 3
-- name: Decision 2016 Pack
+    - text: The chances of this going wrong are about as likely as the odds of getting struck by ________________.
+- name: "2016: Never Again Pack"
   cards:
     white:
     - text: The security aspect of cyber.
@@ -235,6 +238,8 @@ sets:
     - text: The teleprompter.
     - text: A sex tape Donald Trump wants you to check out.
     - text: Pegging Mike Pence.
+    - text: Making America segregate again.
+    - text: The Cubs winning the World Series.
     black:
     - text: What should the Founding Fathers have left out of the Constitution?
     - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
@@ -255,7 +260,7 @@ sets:
     - text: Bill Gates unleashing an army of mosquitoes on an unsuspecting crowd.
     black:
     - text: I’m just here so I won’t get ________.
-    - text: What’s the one fetish Dan Savage will never touch?
+    - text: What one fetish Dan Savage will never touch?
 - name: Highbrow Pack
   cards:
     white:
@@ -295,8 +300,6 @@ sets:
     - text: The one that won the last round.
     black:
     - text: What do you just want to get out of your hand already?
-    - text: "_____: _____."
-      pick: 2
 - name: Horror Pack
   cards:
     white:
@@ -310,6 +313,7 @@ sets:
     - text: A final encounter of indivisible ultimate pleasure and pain.
     - text: Getting ass-rammed by the Stay-Puft Marshmallow Man.
     - text: The Blob.
+    - text: Godzilla.
     black:
     - text: "Only two things scare me: _____, and _____."
       pick: 2
@@ -326,6 +330,7 @@ sets:
     - text: Catering.
     - text: Development hell.
     - text: Finding Forrester.
+    - text: The entire script of “Bee Movie”.
     black:
     - text: What drew me in to showbusiness?
     - text: What’s the most surprising part of Quentin Tarantino’s next production?
@@ -359,6 +364,7 @@ sets:
     - text: Electric music, solid walls of sound.
     - text: Mexican radio.
     - text: People who died.
+    - text: Finns to the left, Finns to the right.
     black:
     - text: The hills are alive with the sound of _________________.
     - text: Freedom’s just another word for _________________.
@@ -397,23 +403,27 @@ sets:
     - text: The mere mention of Jar-Jar Binks.
     - text: The users.
     - text: "Space: the final frontier."
-    - text: To crush your enemies, see them driven before you, and to hear the lamentations of their women.
+    - text: "To crush your enemies, see them driven before you, and to hear the lamentations of their women."
     - text: Blood for the blood god.
     - text: Skulls for the skull throne.
     - text: Nerd rage.
     - text: The Large Hadron Collider.
+    - text: Theon Greyjoy's severed cock.
+    - text: Never telling me the odds.
     black:
     - text: How can the net amount of entropy of the universe be massively decreased?
     - text: What is best in life?
     - text: Is this going to be a stand-up fight, sir, or more _____?
     - text: A sufficient mass of _________________ will ultimately collapse into _________________.
       pick: 2
+    - text: _________________ is insignificant next to the power of _________________.
+      pick: 2
 - name: Love and War Pack
   cards:
     white:
     - text: Twue wuv.
     - text: Giant champagne glass hot tubs.
-    - text: A gay divorcee.
+    - text: Gay divorcees.
     - text: The United States Armed Forces.
     - text: The nuclear option.
     - text: Thinking mean thoughts.
@@ -473,8 +483,8 @@ sets:
     - text: The Ark of the Covenant.
     - text: The Holy Grail.
     - text: Trainspotting.
+    - text: Lardroom.
     black:
     - text: _________________! _________________! Ia! Ia!
       pick: 2
     - text: In the end, it turned out the real National Treasure was _____.
-      pick: 2
