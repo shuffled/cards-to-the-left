@@ -217,15 +217,12 @@ sets:
       pick: 2
     - text: ____________, ____________, and _________, oh my!
       pick: 3
-    - text: The chance that this goes wrong is about as likely as the odds of ________________.
     - text: Hey, we don’t need _____ to have _____!
       pick: 2
 - name: "2016: Never Again Pack"
   cards:
     white:
     - text: The security aspect of cyber.
-    - text: The inevitable collapse of the Republican Party.
-    - text: Electing Crooked Hillary Clinton to the White House.
     - text: ISIS.
     - text: Tax loopholes.
     - text: Other people’s money.
@@ -233,7 +230,6 @@ sets:
     - text: Pandering to anti-Semites.
     - text: The ability to commit sexual assault with impunity.
     - text: Voter fraud.
-    - text: The political climate around climate change.
     - text: The 2016 presidential election.
     - text: Harambe.
     - text: The Samsung Galaxy Note 7.
@@ -242,12 +238,14 @@ sets:
     - text: The teleprompter.
     - text: A sex tape Donald Trump wants you to check out.
     - text: Pegging Mike Pence.
-    - text: Making America segregate again.
     - text: The Cubs winning the World Series.
+    - text: "Oh shit, the Supreme Court."
+    - text: Ronald Reagan’s monstrous reanimated corpse.
     black:
     - text: What should the Founding Fathers have left out of the Constitution?
     - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
       pick: 2
+    - text: The chance that this goes wrong is about as likely as the odds of ________________.
     - text: "Don’t blame me: I voted for _________________."
     - text: I don’t mean to brag, but I have _________________.
 - name: Seattle Pack
