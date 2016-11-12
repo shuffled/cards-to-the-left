@@ -30,7 +30,6 @@ sets:
     - text: Trying.
     - text: The National Security Adminstration.
     - text: All of us, every one.
-    - text: Cutting the cucumber lengthwise.
     - text: A striptease that just doesn’t do the trick.
     - text: Ideology.
     - text: Buckets, baskets, and bags full of boners.
@@ -148,7 +147,7 @@ sets:
     - text: Medieval birth control.
     - text: A self-indulgent sneeze.
     - text: Human resources.
-    - text: Getting addicted to heroin.
+    - text: Addiction to heroin.
     - text: Bonobo monkeys.
     - text: Deep, seething hatred.
     - text: Gaydar.
@@ -163,6 +162,8 @@ sets:
     - text: Scotch tape.
     - text: No money, but great exposure.
     - text: Just gas.
+    - text: The Iron Sheik making you humble.
+    - text: Booze.
     black:
     - text: I know what you are, but what am I?
     - text: Fuck you, _________________.
@@ -172,6 +173,7 @@ sets:
       pick: 2
     - text: This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
     - text: No, I’M _____!
+    - text: IF you truly wish to become a master, you must first learn to control _________________.
     - text: Great, now I can’t do anything below the waist without thinking of _____.
     - text: What’s the LAST thing we need right now?
     - text: "“_____: _____?” Tonight, on WCBS 2 News at 11."
@@ -215,7 +217,9 @@ sets:
       pick: 2
     - text: ____________, ____________, and _________, oh my!
       pick: 3
-    - text: The chances of this going wrong are about as likely as the odds of getting struck by ________________.
+    - text: The chance that this goes wrong is about as likely as the odds of ________________.
+    - text: Hey, we don’t need _____ to have _____!
+      pick: 2
 - name: "2016: Never Again Pack"
   cards:
     white:
@@ -233,7 +237,7 @@ sets:
     - text: The 2016 presidential election.
     - text: Harambe.
     - text: The Samsung Galaxy Note 7.
-    - text: Fingers the size of Vienna sausages.
+    - text: Vienna sausage fingers.
     - text: Second Amendment people.
     - text: The teleprompter.
     - text: A sex tape Donald Trump wants you to check out.
@@ -245,6 +249,7 @@ sets:
     - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
       pick: 2
     - text: "Don’t blame me: I voted for _________________."
+    - text: I don’t mean to brag, but I have _________________.
 - name: Seattle Pack
   cards:
     white:
@@ -430,6 +435,7 @@ sets:
     - text: Joining a Kurdish militia ironically.
     - text: Homemade firearms.
     - text: The field of battle.
+    - text: My anger problems.
     black:
     - text: Love is ____.
     - text: "If there’s nobody else, then how did that lipstick get on your _____?"
@@ -475,16 +481,21 @@ sets:
     - text: What hot new trend is sweeping Silicon Valley?
     - text: "You’ve heard of “Netflix and chill”: now, get ready for “_________________ and _________________”."
       pick: 2
-- name: Pack of the Lost
+- name: Pack of the (Intentionally) Lost
   cards:
     white:
+    - text: Cutting the cucumber lengthwise.
     - text: Dr. Jock, TV quiz PhD.
     - text: Few lynx bags.
     - text: The Ark of the Covenant.
     - text: The Holy Grail.
     - text: Trainspotting.
     - text: Lardroom.
+    - text: Mr. Funnylaffs’s Jokey-Joke Comedy Yukfest.
+    - text: The Yucca Mountain nuclear waste repository.
     black:
     - text: _________________! _________________! Ia! Ia!
       pick: 2
     - text: In the end, it turned out the real National Treasure was _____.
+    - text: And what is the deal with _________________?
+    - text: But, doctor... I <em>am</em> _________________.
