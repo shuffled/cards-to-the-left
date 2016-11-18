@@ -4,7 +4,7 @@ sets:
 - name: "Cards to the Left, Volume 1"
   cards:
     white:
-    - text: Increasing intensity.
+    - text: Rugged persistence.
     - text: Labels.
     - text: Virtual reality.
     - text: What everybody’s thinking, but nobody is saying.
@@ -89,6 +89,7 @@ sets:
     - text: The Food Network.
     - text: Garlic bread.
     - text: The slaughter and enslavement of the indigenous American peoples.
+    - text: Gerrymandering.
     - text: The Byzantine Empire.
     - text: The bits.
     - text: An avalanche having an orgasm.
@@ -124,7 +125,7 @@ sets:
     - text: Cable news anchors.
     - text: Ninjas on the front lawn trying to kill us.
     - text: Ocular herpes.
-    - text: Jimmies.
+    - text: Rustling jimmies.
     - text: Other people.
     - text: Sucking a robot’s dick.
     - text: Winning.
@@ -162,8 +163,18 @@ sets:
     - text: Scotch tape.
     - text: No money, but great exposure.
     - text: Just gas.
-    - text: The Iron Sheik making you humble.
+    - text: The Iron Sheik.
     - text: Booze.
+    - text: The taste of your own dick medicine.
+    - text: Press access.
+    - text: The biggest shit.
+    - text: Doing 9/11.
+    - text: Looking for frog.
+    - text: Mr. Hands.
+    - text: Hairy bears.
+    - text: Food from a hole.
+    - text: Hatin’.
+    - text: The sickening.
     black:
     - text: I know what you are, but what am I?
     - text: Fuck you, _________________.
@@ -173,7 +184,7 @@ sets:
       pick: 2
     - text: This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
     - text: No, I’M _____!
-    - text: IF you truly wish to become a master, you must first learn to control _________________.
+    - text: If you truly wish to become a master, you must first learn to control _________________.
     - text: Great, now I can’t do anything below the waist without thinking of _____.
     - text: What’s the LAST thing we need right now?
     - text: "“_____: _____?” Tonight, on WCBS 2 News at 11."
@@ -219,6 +230,7 @@ sets:
       pick: 3
     - text: Hey, we don’t need _____ to have _____!
       pick: 2
+    - text: What's wrong with your face?
 - name: "2016: Never Again Pack"
   cards:
     white:
@@ -227,12 +239,13 @@ sets:
     - text: Tax loopholes.
     - text: Other people’s money.
     - text: The Federal Bureau of Investigation.
-    - text: Pandering to anti-Semites.
+    - text: The number of Jewish books in the school library.
     - text: The ability to commit sexual assault with impunity.
     - text: Voter fraud.
     - text: The 2016 presidential election.
     - text: Harambe.
     - text: The Samsung Galaxy Note 7.
+    - text: Haircut-based politics.
     - text: Vienna sausage fingers.
     - text: Second Amendment people.
     - text: The teleprompter.
@@ -241,6 +254,9 @@ sets:
     - text: The Cubs winning the World Series.
     - text: "Oh shit, the Supreme Court."
     - text: Ronald Reagan’s monstrous reanimated corpse.
+    - text: The political climate around climate change.
+    - text: Never apologizing for anything.
+    - text: Extreme religious and sexual vetting.
     black:
     - text: What should the Founding Fathers have left out of the Constitution?
     - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
@@ -285,22 +301,23 @@ sets:
     white:
     - text: Everything.
     - text: Playing a card you just drew.
-    - text: Card advantage.
+    - text: The cards.
     - text: Putting the rules card into play from your hand.
     - text: Here and now.
     - text: Just this kind of situation.
     - text: Myself.
     - text: Knowing how to play the game.
     - text: An eternal golden braid.
-    - text: This prompt itself.
+    - text: The question itself.
     - text: Recursion.
     - text: Self-ownage.
     - text: This.
-    - text: A hand drawing another hand.
+    - text: Drawing another hand.
     - text: No.
     - text: Playtesting, idiot.
     - text: The same text as the previous card.
     - text: The one that won the last round.
+    - text: An “intentionally left blank” joke.
     black:
     - text: What do you just want to get out of your hand already?
 - name: Horror Pack
@@ -325,7 +342,6 @@ sets:
     white:
     - text: Rock Hudson banging James Dean to win a bet against Liz Taylor.
     - text: Billy Bush.
-    - text: Access.
     - text: A chocolate Oscar.
     - text: The casting couch.
     - text: Nicolas Cage.
@@ -345,7 +361,7 @@ sets:
     - text: Seizing the means of production.
     - text: The bourgeoisie.
     - text: An actual banana republic.
-    - text: Ethical capitalists.
+    - text: Ethical consumption under capitalism.
     - text: The proletariat.
     - text: The attainment of a classless utopia.
     black:
@@ -434,6 +450,8 @@ sets:
     - text: Homemade firearms.
     - text: The field of battle.
     - text: My anger problems.
+    - text: Gentle explosions.
+    - text: Sex shouts.
     black:
     - text: Love is ____.
     - text: "If there’s nobody else, then how did that lipstick get on your _____?"
@@ -468,8 +486,9 @@ sets:
     - text: That GIF of Antonio Banderas kissing his knuckle.
     - text: Weaponized poetry.
     - text: Swapping blobs.
-    - text: The DRM on a coffee maker.
+    - text: Digital Rights Management.
     - text: A novelty electronic fish hacked to shout Nuremberg Rally speeches instead of singing.
+    - text: undefined
     black:
     - text: The US Patent Office has yet to approve my application for _________________ with a computer.
     - text: Half of Pinterest is just pictures of ___________ sprinkled with _________________.
@@ -479,18 +498,19 @@ sets:
     - text: What hot new trend is sweeping Silicon Valley?
     - text: "You’ve heard of “Netflix and chill”: now, get ready for “_________________ and _________________”."
       pick: 2
-- name: Pack of the (Intentionally) Lost
+- name: Cryptic Pack of the Lost and Damned
   cards:
     white:
     - text: Cutting the cucumber lengthwise.
-    - text: Dr. Jock, TV quiz PhD.
-    - text: Few lynx bags.
+    - text: Few “Dr. Jock Lynx, PhD” TV quiz bags.
     - text: The Ark of the Covenant.
-    - text: The Holy Grail.
+    - text: A quest for the Holy Grail.
     - text: Trainspotting.
     - text: Lardroom.
+    - text: MISSINGNO.
     - text: Mr. Funnylaffs’s Jokey-Joke Comedy Yukfest.
     - text: The Yucca Mountain nuclear waste repository.
+    - text: Burma-Shave.
     black:
     - text: _________________! _________________! Ia! Ia!
       pick: 2
