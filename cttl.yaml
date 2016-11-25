@@ -6,6 +6,7 @@ sets:
     white:
     - text: Rugged persistence.
     - text: Labels.
+    - text: Getting ass-rammed by the Michelin Man.
     - text: Virtual reality.
     - text: What everybody’s thinking, but nobody is saying.
     - text: The Thong Song playing on the office speaker system.
@@ -30,7 +31,7 @@ sets:
     - text: Trying.
     - text: The National Security Adminstration.
     - text: All of us, every one.
-    - text: A striptease that just doesn’t do the trick.
+    - text: A family-friendly striptease.
     - text: Ideology.
     - text: Buckets, baskets, and bags full of boners.
     - text: Pork.
@@ -53,7 +54,7 @@ sets:
     - text: All those devil-worshipping “Magic” cards in the garbage.
     - text: Controversy.
     - text: A dyslexic Tori Spelling.
-    - text: Nixon.
+    - text: Dick Nixon.
     - text: Just a banana.
     - text: Children under 48 inches in height.
     - text: Dangerously high levels of lead.
@@ -70,7 +71,7 @@ sets:
     - text: An embarrassing facial rash that could have been easily prevented.
     - text: The pussy.
     - text: Police brutality.
-    - text: Funky sexy fun.
+    - text: Sexy funky fun.
     - text: Being put out to stud.
     - text: Screaming eagles.
     - text: Thanks.
@@ -129,7 +130,7 @@ sets:
     - text: Other people.
     - text: Sucking a robot’s dick.
     - text: Winning.
-    - text: Going out in your pajamas in the middle of the night to buy a plunger.
+    - text: Buying a plunger in pajamas in the middle of the night.
     - text: A magical wish-granting piñata.
     - text: Liquid sex.
     - text: A long night of cocaine.
@@ -137,7 +138,6 @@ sets:
     - text: Threats of physical violence.
     - text: Shoes.
     - text: Hobo nickels.
-    - text: High-priced hitmen.
     - text: Goons in gorilla suits.
     - text: A roller coaster of personal feelings.
     - text: Second puberty.
@@ -149,7 +149,7 @@ sets:
     - text: A self-indulgent sneeze.
     - text: Human resources.
     - text: Addiction to heroin.
-    - text: Bonobo monkeys.
+    - text: A Bonobo named Bobo.
     - text: Deep, seething hatred.
     - text: Gaydar.
     - text: Exorbitant late fees.
@@ -172,9 +172,24 @@ sets:
     - text: Looking for frog.
     - text: Mr. Hands.
     - text: Hairy bears.
+    - text: Whole Foods.
     - text: Food from a hole.
     - text: Hatin’.
-    - text: The sickening.
+    - text: The Sickening.
+    - text: Complete silence.
+    - text: A social experiment.
+    - text: Lighter-than-air hydrogen.
+    - text: Penis.
+    - text: Pennies.
+    - text: Supplementary eyebrows.
+    - text: The LingLong DingDong.
+    - text: The watchful eye of the Swiss.
+    - text: Going in half-cocked.
+    - text: Pimento.
+    - text: Whoppers®.
+    - text: Some pants.
+    - text: Soothing aloe.
+    - text: Panda Viagra.
     black:
     - text: I know what you are, but what am I?
     - text: Fuck you, _________________.
@@ -185,6 +200,8 @@ sets:
     - text: This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
     - text: No, I’M _____!
     - text: If you truly wish to become a master, you must first learn to control _________________.
+    - text: All hail _________________, champion of _________________.
+      pick: 2
     - text: Great, now I can’t do anything below the waist without thinking of _____.
     - text: What’s the LAST thing we need right now?
     - text: "“_____: _____?” Tonight, on WCBS 2 News at 11."
@@ -198,6 +215,7 @@ sets:
     - text: "This month’s REAL MEN Cover Story: “________________ RIPPED MY FLESH!”"
     - text: You don’t know what _________________ is until you’ve seen _________________.
       pick: 2
+    - text: What should we not have taken for granted?
     - text: What will never end?
     - text: I always get _________________ mixed up with _________________.
       pick: 2
@@ -214,10 +232,11 @@ sets:
     - text: When I need to escape from _____________, I like to imagine ______________.
       pick: 2
     - text: Why can’t I wear that t-shirt any more?
-    - text: The ___ store called, they're all outta _____!
+    - text: The ___ store called, they’re all outta _____!
       pick: 2
     - text: so much depends<br>upon<br><br>a red wheel barrow<br><br>glazed with _____<br><br>beside _________.
       pick: 2
+    - text: Who stole the cookies from the cookie jar?
     - text: When you asked for ______________, I thought you were saying you wanted ______________.
       pick: 2
     - text: ___________ is the _________________ of the world.
@@ -230,7 +249,7 @@ sets:
       pick: 3
     - text: Hey, we don’t need _____ to have _____!
       pick: 2
-    - text: What's wrong with your face?
+    - text: What’s wrong with your face?
 - name: "2016: Never Again Pack"
   cards:
     white:
@@ -284,7 +303,7 @@ sets:
   cards:
     white:
     - text: The love of God, Montresor!
-    - text: Tasting the finest of wines.
+    - text: Partaking in tasting the finest of wines.
     - text: New Yorker cartoons.
     - text: Robespierre’s Reign of Terror.
     - text: Tittering at irreverent jest.
@@ -293,6 +312,7 @@ sets:
     - text: The stultifying compositions of Edvard Grieg.
     - text: Dr. Livingstone, I presume.
     - text: Fighting over the use of en dashes versus hyphens.
+    - text: Dangling participles.
     black:
     - text: To whom do we address our letter of grievance?
     - text: Let us toast the honor of our magnanimous benefactor, ______________.
@@ -305,9 +325,10 @@ sets:
     - text: Putting the rules card into play from your hand.
     - text: Here and now.
     - text: Just this kind of situation.
+    - text: Nobody but me.
     - text: Myself.
     - text: Knowing how to play the game.
-    - text: An eternal golden braid.
+    - text: An eternal golden Brady Bunch.
     - text: The question itself.
     - text: Recursion.
     - text: Self-ownage.
@@ -318,6 +339,7 @@ sets:
     - text: The same text as the previous card.
     - text: The one that won the last round.
     - text: An “intentionally left blank” joke.
+    - text: Existing.
     black:
     - text: What do you just want to get out of your hand already?
 - name: Horror Pack
@@ -325,18 +347,19 @@ sets:
     white:
     - text: Going to a funeral in costume.
     - text: Spooky poops.
-    - text: Sucking cocks in Hell.
     - text: Beelzebub, Lord of the Flies.
     - text: Red running crimson blood.
     - text: The left-hand path.
     - text: Fire and brimstone.
-    - text: A final encounter of indivisible ultimate pleasure and pain.
-    - text: Getting ass-rammed by the Stay-Puft Marshmallow Man.
+    - text: An ultimate encounter of pleasure and pain, indivisible.
     - text: The Blob.
     - text: Godzilla.
+    - text: Monster cock.
+    - text: DOOM.
     black:
     - text: "Only two things scare me: _____, and _____."
       pick: 2
+    - text: "Your mother sucks _____ in Hell, Karras, you faithless slime."
 - name: Hollywood Pack
   cards:
     white:
@@ -353,7 +376,7 @@ sets:
     black:
     - text: What drew me in to showbusiness?
     - text: What’s the most surprising part of Quentin Tarantino’s next production?
-    - text: If you need me, I'll be in ____________.
+    - text: If you need me, I’ll be in ____________.
 - name: Labor Theory of Value Pack
   cards:
     white:
@@ -408,7 +431,7 @@ sets:
     - text: Wrasslin’ hogs.
     black:
     - text: The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
-    - text: Come around some bars in Tennesee, and they’ll happily beat your ass for _____.
+    - text: Come around some bars in Tennessee and they’ll happily beat your ass for _____.
 - name: Nerdcore Pack
   cards:
     white:
@@ -427,7 +450,7 @@ sets:
     - text: Skulls for the skull throne.
     - text: Nerd rage.
     - text: The Large Hadron Collider.
-    - text: Theon Greyjoy's severed cock.
+    - text: Theon Greyjoy’s severed cock.
     - text: Never telling me the odds.
     black:
     - text: How can the net amount of entropy of the universe be massively decreased?
@@ -452,22 +475,28 @@ sets:
     - text: My anger problems.
     - text: Gentle explosions.
     - text: Sex shouts.
+    - text: A machine that kills fascists.
+    - text: Stonking.
     black:
     - text: Love is ____.
     - text: "If there’s nobody else, then how did that lipstick get on your _____?"
     - text: What was Sun Tzu’s greatest strategy to defeat an enemy?
     - text: Our only hope to defeat _________________ lies in _________________.
       pick: 2
+    - text: "I love the smell of _________________ in the morning. Smells like _________________."
 - name: Tactical Espionage Packtion
   cards:
     white:
     - text: Just a box...
     - text: Snake? SNAAAAKE!!
-    - text: Dr. No.
-    - text: The CIA.
     - text: The Guns of the Patriots.
     - text: Q.
+    - text: Dr. No.
     - text: Her Majesty’s Secret Service.
+    - text: A license to kill.
+    - text: Dalton... Timothy Dalton.
+    - text: The CIA.
+    - text: High-priced hitmen.
     - text: Sabotadge.
     black:
     - text: My career was over after I was discovered employing _________________ in the service of _________________.
@@ -511,6 +540,8 @@ sets:
     - text: Mr. Funnylaffs’s Jokey-Joke Comedy Yukfest.
     - text: The Yucca Mountain nuclear waste repository.
     - text: Burma-Shave.
+    - text: Jumping the shark.
+    - text: Pirate treasure.
     black:
     - text: _________________! _________________! Ia! Ia!
       pick: 2
