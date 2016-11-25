@@ -176,7 +176,7 @@ sets:
     - text: Food from a hole.
     - text: Hatin’.
     - text: The Sickening.
-    - text: Complete silence.
+    - text: Deafening silence.
     - text: A social experiment.
     - text: Lighter-than-air hydrogen.
     - text: Penis.
@@ -224,6 +224,9 @@ sets:
     - text: What’s your favorite idea?
     - text: "It’s still anyone’s game right now as we go into our “____________” Round."
     - text: What inspired me to become a surgeon?
+    - text: Well, it may not be much, but it sure beats _________________.
+    - text: I’d take _________________ over _________________ any day of the week.
+      pick: 2
     - text: At the end, it all comes down to _____ versus _____.
       pick: 2
     - text: _____, but not in bed.
