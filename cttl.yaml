@@ -7,7 +7,7 @@ sets:
     - text: Rugged persistence.
     - text: Labels.
     - text: Getting ass-rammed by the Michelin Man.
-    - text: Virtual reality.
+    - text: Loosely-defined virtual reality.
     - text: What everybody’s thinking, but nobody is saying.
     - text: The Thong Song playing on the office speaker system.
     - text: Ethnic cleansing on Facebook.
@@ -15,6 +15,7 @@ sets:
     - text: Ragnarok.
     - text: Irony.
     - text: Matt Damon.
+    - text: Passing the Dutchie.
     - text: Violating the Terms of Service.
     - text: Communicating with terrorists via graffiti in a public restroom.
     - text: A hell of a lot of mice.
@@ -38,7 +39,6 @@ sets:
     - text: The Japanese.
     - text: Knowing who William F. Buckley is.
     - text: A sentient tub of expired sour cream.
-    - text: Bae.
     - text: Pants that fit.
     - text: Jerking off with a McChicken® sandwich.
     - text: Going to Disney World.
@@ -48,7 +48,7 @@ sets:
     - text: Power bottoms.
     - text: Cookie Monster’s funeral.
     - text: A billy goat chewing on a stick of dynamite.
-    - text: Becoming invisible at will.
+    - text: Becoming invisible.
     - text: e e cummings
     - text: Vaping.
     - text: All those devil-worshipping “Magic” cards in the garbage.
@@ -59,10 +59,11 @@ sets:
     - text: Children under 48 inches in height.
     - text: Dangerously high levels of lead.
     - text: “Weird Al” Yankovic.
-    - text: Newspaper editors teetering on the verge of suicide.
+    - text: The newspaper business.
     - text: Becoming a Jedi.
     - text: Drinking juice.
     - text: Bachelorette parties.
+    - text: Penis.
     - text: Sympathy vomit.
     - text: Convenience.
     - text: Switching to analog.
@@ -70,6 +71,7 @@ sets:
     - text: Stick Stickly<br>PO Box 963<br>NY, NY 10108.
     - text: An embarrassing facial rash that could have been easily prevented.
     - text: The pussy.
+    - text: Booty.
     - text: Police brutality.
     - text: Sexy funky fun.
     - text: Being put out to stud.
@@ -90,11 +92,13 @@ sets:
     - text: The Food Network.
     - text: Garlic bread.
     - text: Gerrymandering.
+    - text: Juxtaposed images in deliberate sequence.
     - text: The Byzantine Empire.
     - text: The bits.
     - text: An avalanche having an orgasm.
     - text: Long schlong.
     - text: A pyramid scheme.
+    - text: Belonging in a cult.
     - text: Teledildonics (which means exactly what you think it means).
     - text: Anything but the truth.
     - text: Ugly socks in a Nintendo box.
@@ -114,6 +118,8 @@ sets:
     - text: The Fourth Crusade.
     - text: The War of Northern Aggression.
     - text: My inner thigh.
+    - text: The current state of the Republican Party.
+    - text: That sense of inevitable victory over the forces of Old and Evil.
     - text: Kissing your dad.
     - text: Problems magically solving themselves.
     - text: Looking at the sexy TV.
@@ -130,6 +136,7 @@ sets:
     - text: Sucking a robot’s dick.
     - text: Winning.
     - text: Buying a plunger in pajamas in the middle of the night.
+    - text: Donkey Kong.
     - text: A magical wish-granting piñata.
     - text: Liquid sex.
     - text: A long night of cocaine.
@@ -176,9 +183,8 @@ sets:
     - text: Hatin’.
     - text: The Sickening.
     - text: Deafening silence.
-    - text: A social experiment.
+    - text: Spinning it as a social experiment.
     - text: Lighter-than-air hydrogen.
-    - text: Penis.
     - text: Pennies.
     - text: Supplementary eyebrows.
     - text: The LingLong DingDong.
@@ -189,6 +195,32 @@ sets:
     - text: Some pants.
     - text: Soothing aloe.
     - text: Panda Viagra.
+    - text: Becoming a woman.
+    - text: Something sassy and sheer.
+    - text: Rabid raccoons.
+    - text: The best.
+    - text: My true intentions.
+    - text: Speed-pee.
+    - text: Other people’s money.
+    - text: A healthy emotional framework for coping with life’s challenges.
+    - text: Serious business.
+    - text: Sissy kicking.
+    - text: Treating Teddy with some respect.
+    - text: A machine that kills fascists.
+    - text: This pickle we find ourselves in.
+    - text: A honky-tonk badonkadonk.
+    - text: Starving to death.
+    - text: Understanding comics.
+    - text: How meth-heads think.
+    - text: A talking paperclip.
+    - text: The vaporwave aesthetic.
+    - text: Getting blown to smithereens.
+    - text: Oral.
+    - text: A fight club.
+    - text: Naming things.
+    - text: Coffee makers that think.
+    - text: An upside-down, backwards world where black is white and horses ride people.
+    - text: Anarchy.
     black:
     - text: I know what you are, but what am I?
     - text: Fuck you, _________________.
@@ -199,7 +231,7 @@ sets:
     - text: This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
     - text: No, I’M _____!
     - text: If you truly wish to become a master, you must first learn to control _________________.
-    - text: All hail _________________, champion of _________________.
+    - text: All hail _________________, champion of _________________!
       pick: 2
     - text: Great, now I can’t do anything below the waist without thinking of _____.
     - text: What’s the LAST thing we need right now?
@@ -209,12 +241,14 @@ sets:
     - text: Where do you draw the line?
     - text: "After reviewing our options, I think we have no choice but to look at _____."
     - text: What doesn’t exist?
+    - text: Don't thank me&mdash;<br>thank ___________.
     - text: _____? But why?
+    - text: "Rule 34. _____? There’s porn of it."
     - text: I got suspended, just because some kids overheard me talking about ______.
     - text: "This month’s REAL MEN Cover Story: “________________ RIPPED MY FLESH!”"
     - text: You don’t know what _________________ is until you’ve seen _________________.
       pick: 2
-    - text: What should we not have taken for granted?
+    - text: What did we foolishly take for granted?
     - text: What will never end?
     - text: I always get _________________ mixed up with _________________.
       pick: 2
@@ -224,8 +258,10 @@ sets:
     - text: "It’s still anyone’s game right now as we go into our “____________” Round."
     - text: What inspired me to become a surgeon?
     - text: Well, it may not be much, but it sure beats _________________.
+    - text: This latter-day Johnny Appleseed envisions _________________ from coast to coast.
     - text: I’d take _________________ over _________________ any day of the week.
       pick: 2
+    - text: I’m not caught up. I haven’t watched since the episode with _________________.
     - text: At the end, it all comes down to _____ versus _____.
       pick: 2
     - text: _____, but not in bed.
@@ -234,6 +270,7 @@ sets:
     - text: When I need to escape from _____________, I like to imagine ______________.
       pick: 2
     - text: Why can’t I wear that t-shirt any more?
+    - text: What’s plan B?
     - text: The ___ store called, they’re all outta _____!
       pick: 2
     - text: so much depends<br>upon<br><br>a red wheel barrow<br><br>glazed with _____<br><br>beside _________.
@@ -241,33 +278,36 @@ sets:
     - text: Who stole the cookies from the cookie jar?
     - text: When you asked for ______________, I thought you were saying you wanted ______________.
       pick: 2
+    - text: What should the Founding Fathers have left out of the Constitution?
     - text: ___________ is the _________________ of the world.
       pick: 2
     - text: Have you considered ________ instead of ____________?
       pick: 2
     - text: Only _________________ can overcome the horrors of _________________.
       pick: 2
-    - text: ____________, ____________, and _________, oh my!
+    - text: MacGyver saved the day using only ____________, ____________, and _________.
       pick: 3
     - text: Hey, we don’t need _____ to have _____!
       pick: 2
     - text: What’s wrong with your face?
+    - text: What’s the ultimate insult?
+    - text: "What is the so-called “mainstream media” unable to address?"
 - name: "2016: Never Again Pack"
   cards:
     white:
     - text: The security aspect of cyber.
     - text: ISIS.
     - text: Tax loopholes.
-    - text: Other people’s money.
     - text: The Federal Bureau of Investigation.
     - text: The number of Jewish books in the school library.
     - text: The ability to commit sexual assault with impunity.
     - text: Voter fraud.
     - text: The 2016 presidential election.
+    - text: Bae.
     - text: Harambe.
     - text: The Samsung Galaxy Note 7.
     - text: Haircut-based politics.
-    - text: Vienna sausage fingers.
+    - text: Donald Trump’s Vienna sausage fingers.
     - text: Second Amendment people.
     - text: The teleprompter.
     - text: A sex tape Donald Trump wants you to check out.
@@ -279,12 +319,13 @@ sets:
     - text: Never apologizing for anything.
     - text: Extreme religious and sexual vetting.
     black:
-    - text: What should the Founding Fathers have left out of the Constitution?
+    - text: What did the Consitutional framers forget to address?
     - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
       pick: 2
     - text: The chance that this goes wrong is about as likely as the odds of ________________.
     - text: "Don’t blame me: I voted for _________________."
     - text: I don’t mean to brag, but I have _________________.
+    - text: "Just saying “____________” over and over doesn’t answer my question."
 - name: Seattle Pack
   cards:
     white:
@@ -313,8 +354,9 @@ sets:
     - text: The slings and arrows of outrageous fortune.
     - text: The stultifying compositions of Edvard Grieg.
     - text: Dr. Livingstone, I presume.
-    - text: Fighting over the use of en dashes versus hyphens.
+    - text: Bickering the use of en dashes versus hyphens.
     - text: Dangling participles.
+    - text: Deconstructing Derrida.
     black:
     - text: To whom do we address our letter of grievance?
     - text: Let us toast the honor of our magnanimous benefactor, ______________.
@@ -342,6 +384,7 @@ sets:
     - text: The one that won the last round.
     - text: An “intentionally left blank” joke.
     - text: Existing.
+    - text: Marshall McLuhan, who I just happen to have right here.
     black:
     - text: What do you just want to get out of your hand already?
 - name: Horror Pack
@@ -349,15 +392,18 @@ sets:
     white:
     - text: Going to a funeral in costume.
     - text: Spooky poops.
-    - text: Beelzebub, Lord of the Flies.
-    - text: Red running crimson blood.
+    - text: Beelzebub,<br>Lord of the Flies.
+    - text: Steaming jets of thick crimson blood.
     - text: The left-hand path.
     - text: Fire and brimstone.
-    - text: An ultimate encounter of pleasure and pain, indivisible.
+    - text: A flesh-rending climax beyond the limits of pleasure and pain.
     - text: The Blob.
     - text: Godzilla.
     - text: Monster cock.
     - text: DOOM.
+    - text: Riding a broomstick.
+    - text: Dracula.
+    - text: Unlimited screaming.
     black:
     - text: "Only two things scare me: _____, and _____."
       pick: 2
@@ -369,16 +415,17 @@ sets:
     - text: Billy Bush.
     - text: A chocolate Oscar.
     - text: The casting couch.
-    - text: Nicolas Cage.
+    - text: Tom Hanks.
     - text: Failing upwards.
     - text: Catering.
     - text: Development hell.
     - text: Finding Forrester.
     - text: The entire script of “Bee Movie”.
+    - text: The greatest trick the Devil ever pulled.
     black:
     - text: What drew me in to showbusiness?
     - text: What’s the most surprising part of Quentin Tarantino’s next production?
-    - text: If you need me, I’ll be in ____________.
+    - text: If anybody wants me, I’ll be in ____________.
 - name: Labor Theory of Value Pack
   cards:
     white:
@@ -391,7 +438,7 @@ sets:
     - text: The attainment of a classless utopia.
     black:
     - text: When the revolution comes, _____ will be the first against the wall.
-    - text: "There is a spectre haunting Europe: the spectre of _____."
+    - text: "A spectre is haunting Europe&mdash;the spectre of _____."
     - text: What do we want? _________________! When do we want it? _________________!
       pick: 2
 - name: Music Pack
@@ -403,16 +450,31 @@ sets:
     - text: Quiet Riot’s 1983 hit cover of Slade’s “Cum On Feel the Noize”.
     - text: Memories of things that never happened.
     - text: Two hearts that beat as one.
+    - text: The sun going down on me.
+    - text: Electric music, solid walls of sound.
+    - text: Red, red wine.
     - text: Knights in Satan’s service.
     - text: David Bowie’s dancing magic pants.
-    - text: Electric music, solid walls of sound.
+    - text: Young Americans.
+    - text: Living in an elevator.
     - text: Mexican radio.
+    - text: A yellow submarine.
     - text: People who died.
     - text: Finns to the left, Finns to the right.
+    - text: Smoke on the water.
+    - text: That axe, Eugene.
+    - text: Boogie in your butt.
+    - text: Partying all the time.
+    - text: Andrew W.K.
+    - text: Your nineteenth nervous breakdown.
+    - text: The worst taste in music.
     black:
     - text: The hills are alive with the sound of _________________.
     - text: Freedom’s just another word for _________________.
     - text: My favorite Velvet Underground song? Uhh... the one with all the _________________.
+    - text: John &<br>Paul &<br>Ringo &<br>George &<br>_________________.
+    - text: I don’t know _________________, but how about _________________?
+      pick: 2
 - name: Pack of Northern Aggression
   cards:
     white:
@@ -431,6 +493,8 @@ sets:
     - text: States’ rights.
     - text: Uncle Tom’s Cabin.
     - text: Wrasslin’ hogs.
+    - text: The antebellum period.
+    - text: Reconstruction.
     black:
     - text: The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
     - text: Come around some bars in Tennessee and they’ll happily beat your ass for _____.
@@ -454,6 +518,7 @@ sets:
     - text: The Large Hadron Collider.
     - text: Theon Greyjoy’s severed cock.
     - text: Never telling me the odds.
+    - text: Wang computers.
     black:
     - text: How can the net amount of entropy of the universe be massively decreased?
     - text: What is best in life?
@@ -477,8 +542,10 @@ sets:
     - text: My anger problems.
     - text: Gentle explosions.
     - text: Sex shouts.
-    - text: A machine that kills fascists.
     - text: Stonking.
+    - text: Conventional weaponry.
+    - text: Jackhammering Rosie the Riveter.
+    - text: Blood and roses.
     black:
     - text: Love is ____.
     - text: "If there’s nobody else, then how did that lipstick get on your _____?"
@@ -486,6 +553,9 @@ sets:
     - text: Our only hope to defeat _________________ lies in _________________.
       pick: 2
     - text: "I love the smell of _________________ in the morning. Smells like _________________."
+      pick: 2
+    - text: If ________________ won’t be enough, we’ll have to resort to _______________.
+      pick: 2
 - name: Tactical Espionage Packtion
   cards:
     white:
@@ -496,7 +566,7 @@ sets:
     - text: Dr. No.
     - text: Her Majesty’s Secret Service.
     - text: A license to kill.
-    - text: Dalton... Timothy Dalton.
+    - text: Dalton...<br>Timothy Dalton.
     - text: The CIA.
     - text: High-priced hitmen.
     - text: Sabotadge.
@@ -506,20 +576,33 @@ sets:
 - name: Hacker Pack
   cards:
     white:
-    - text: The Microsoft Network.
+    - text: Security sauce.
     - text: Zero-day vulnerabilities.
     - text: Exploiting race conditions.
     - text: Poking around in core memory.
     - text: Popping a shell.
     - text: Petabytes of data downloaded directly off the Dark Web.
     - text: Folding, spindling, and mutilating.
-    - text: Passwords that are harder for humans to remember than they are for computers to guess.
+    - text: Encrypting the payload.
+    - text: Completely misunderstanding how passwords work.
+    - text: The Microsoft Network.
     - text: That GIF of Antonio Banderas kissing his knuckle.
+    - text: Keys under the mat.
+    - text: Being on<br>the other side of<br>this airtight hatchway.
     - text: Weaponized poetry.
+    - text: The Great Firewall of China.
     - text: Swapping blobs.
     - text: Digital Rights Management.
+    - text: Jailbreaks.
+    - text: Hotpatching.
+    - text: Metasploit.
     - text: A novelty electronic fish hacked to shout Nuremberg Rally speeches instead of singing.
     - text: undefined
+    - text: The Defense Advanced Research Projects Agency (DARPA).
+    - text: Jamming with the console cowboys in cyberspace.
+    - text: Hacking the Gibson.
+    - text: The Pink Shirt book.
+    - text: The little man inside the computer.
     black:
     - text: The US Patent Office has yet to approve my application for _________________ with a computer.
     - text: Half of Pinterest is just pictures of ___________ sprinkled with _________________.
@@ -529,6 +612,7 @@ sets:
     - text: What hot new trend is sweeping Silicon Valley?
     - text: "You’ve heard of “Netflix and chill”: now, get ready for “_________________ and _________________”."
       pick: 2
+    - text: Seriously? ______________ can’t even handle basic JavaScript!
 - name: Cryptic Pack of the Lost and Damned
   cards:
     white:
