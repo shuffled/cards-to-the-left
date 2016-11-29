@@ -32,7 +32,6 @@ sets:
     - text: Trying.
     - text: The National Security Adminstration.
     - text: All of us, every one.
-    - text: A family-friendly striptease.
     - text: Ideology.
     - text: Buckets, baskets, and bags full of boners.
     - text: Pork.
@@ -87,7 +86,7 @@ sets:
     - text: Abe Frohman, the sausage king of Chicago.
     - text: A real stinker.
     - text: Tartar sauce.
-    - text: Having a butt where your face should be.
+    - text: Having a second face where your butt should be.
     - text: Lucifer.
     - text: The Food Network.
     - text: Garlic bread.
@@ -120,6 +119,7 @@ sets:
     - text: My inner thigh.
     - text: The current state of the Republican Party.
     - text: That sense of inevitable victory over the forces of Old and Evil.
+    - text: The America I know and love.
     - text: Kissing your dad.
     - text: Problems magically solving themselves.
     - text: Looking at the sexy TV.
@@ -129,13 +129,13 @@ sets:
     - text: A rented mule.
     - text: Santorum.
     - text: Cable news anchors.
-    - text: Ninjas on the front lawn trying to kill us.
+    - text: Ninjas on the fucking lawn trying to kill us.
     - text: Ocular herpes.
     - text: Rustling jimmies.
     - text: Other people.
     - text: Sucking a robot’s dick.
     - text: Winning.
-    - text: Buying a plunger in pajamas in the middle of the night.
+    - text: Buying a plunger in the middle of the night.
     - text: Donkey Kong.
     - text: A magical wish-granting piñata.
     - text: Liquid sex.
@@ -200,7 +200,7 @@ sets:
     - text: Rabid raccoons.
     - text: The best.
     - text: My true intentions.
-    - text: Speed-pee.
+    - text: Speed-peeing.
     - text: Other people’s money.
     - text: A healthy emotional framework for coping with life’s challenges.
     - text: Serious business.
@@ -221,6 +221,16 @@ sets:
     - text: Coffee makers that think.
     - text: An upside-down, backwards world where black is white and horses ride people.
     - text: Anarchy.
+    - text: The menstrual motorcycle.
+    - text: A rit of fealous jage.
+    - text: Most of South America.
+    - text: Kissing it.
+    - text: Holy Shit.
+    - text: A living wage.
+    - text: Dirty laundry.
+    - text: Staying up after bedtime.
+    - text: Billion-dollar giant robots piloted by children.
+    - text: Basic logic.
     black:
     - text: I know what you are, but what am I?
     - text: Fuck you, _________________.
@@ -241,6 +251,7 @@ sets:
     - text: Where do you draw the line?
     - text: "After reviewing our options, I think we have no choice but to look at _____."
     - text: What doesn’t exist?
+    - text: What’s so naughty?
     - text: Don't thank me&mdash;<br>thank ___________.
     - text: _____? But why?
     - text: "Rule 34. _____? There’s porn of it."
@@ -256,6 +267,8 @@ sets:
       pick: 2
     - text: What’s your favorite idea?
     - text: "It’s still anyone’s game right now as we go into our “____________” Round."
+    - text: Who killed Mr. Boddy? _________________, with _____________, in _________________.
+      pick: 3
     - text: What inspired me to become a surgeon?
     - text: Well, it may not be much, but it sure beats _________________.
     - text: This latter-day Johnny Appleseed envisions _________________ from coast to coast.
@@ -271,6 +284,8 @@ sets:
       pick: 2
     - text: Why can’t I wear that t-shirt any more?
     - text: What’s plan B?
+    - text: You know, you can never have enough _____.
+    - text: Where do we get a whole lot of hair on such short notice?
     - text: The ___ store called, they’re all outta _____!
       pick: 2
     - text: so much depends<br>upon<br><br>a red wheel barrow<br><br>glazed with _____<br><br>beside _________.
@@ -285,11 +300,14 @@ sets:
       pick: 2
     - text: Only _________________ can overcome the horrors of _________________.
       pick: 2
+    - text: What have I lived to regret?
     - text: MacGyver saved the day using only ____________, ____________, and _________.
       pick: 3
     - text: Hey, we don’t need _____ to have _____!
       pick: 2
     - text: What’s wrong with your face?
+    - text: Fuck ____________. Fuck ____________. All that matters is ____________.
+      pick: 3
     - text: What’s the ultimate insult?
     - text: "What is the so-called “mainstream media” unable to address?"
 - name: "2016: Never Again Pack"
@@ -346,7 +364,6 @@ sets:
   cards:
     white:
     - text: The love of God, Montresor!
-    - text: Partaking in tasting the finest of wines.
     - text: New Yorker cartoons.
     - text: Robespierre’s Reign of Terror.
     - text: Tittering at irreverent jest.
@@ -354,9 +371,10 @@ sets:
     - text: The slings and arrows of outrageous fortune.
     - text: The stultifying compositions of Edvard Grieg.
     - text: Dr. Livingstone, I presume.
-    - text: Bickering the use of en dashes versus hyphens.
+    - text: Passionately debating the employment of en dashes versus hyphens.
     - text: Dangling participles.
     - text: Deconstructing Derrida.
+    - text: Partaking in tasting the finest of wines.
     black:
     - text: To whom do we address our letter of grievance?
     - text: Let us toast the honor of our magnanimous benefactor, ______________.
@@ -383,10 +401,12 @@ sets:
     - text: The same text as the previous card.
     - text: The one that won the last round.
     - text: An “intentionally left blank” joke.
-    - text: Existing.
+    - text: The act of merely existing.
     - text: Marshall McLuhan, who I just happen to have right here.
     black:
     - text: What do you just want to get out of your hand already?
+    - text: What’s the wordiest?
+    - text: What is, alphabetically, highest?
 - name: Horror Pack
   cards:
     white:
@@ -396,7 +416,7 @@ sets:
     - text: Steaming jets of thick crimson blood.
     - text: The left-hand path.
     - text: Fire and brimstone.
-    - text: A flesh-rending climax beyond the limits of pleasure and pain.
+    - text: Thy final flesh-obliterating climax transcending the limits of pleasure and pain.
     - text: The Blob.
     - text: Godzilla.
     - text: Monster cock.
@@ -404,10 +424,12 @@ sets:
     - text: Riding a broomstick.
     - text: Dracula.
     - text: Unlimited screaming.
+    - text: G-g-g-ghosts!
     black:
     - text: "Only two things scare me: _____, and _____."
       pick: 2
     - text: "Your mother sucks _____ in Hell, Karras, you faithless slime."
+    - text: "I ain’t afraid of no _____. I hear it likes the girls."
 - name: Hollywood Pack
   cards:
     white:
@@ -420,6 +442,7 @@ sets:
     - text: Catering.
     - text: Development hell.
     - text: Finding Forrester.
+    - text: Patrick Swayze.
     - text: The entire script of “Bee Movie”.
     - text: The greatest trick the Devil ever pulled.
     black:
@@ -454,6 +477,19 @@ sets:
     - text: Electric music, solid walls of sound.
     - text: Red, red wine.
     - text: Knights in Satan’s service.
+    - text: Liquor and drugs.
+    - text: The flesh machine.
+    - text: Another striptease.
+    - text: Lotion.
+    - text: Something called love.
+    - text: Hypnotizing chickens.
+    - text: A modern guy.
+    - text: Lust for life.
+    - text: A million in prizes.
+    - text: My torture film.
+    - text: A GTO.
+    - text: A government loan.
+    - text: Beating my brains.
     - text: David Bowie’s dancing magic pants.
     - text: Young Americans.
     - text: Living in an elevator.
@@ -461,13 +497,14 @@ sets:
     - text: A yellow submarine.
     - text: People who died.
     - text: Finns to the left, Finns to the right.
-    - text: Smoke on the water.
+    - text: Smoke on the water in a bong.
     - text: That axe, Eugene.
     - text: Boogie in your butt.
     - text: Partying all the time.
     - text: Andrew W.K.
     - text: Your nineteenth nervous breakdown.
     - text: The worst taste in music.
+    - text: Z.Z. Top.
     black:
     - text: The hills are alive with the sound of _________________.
     - text: Freedom’s just another word for _________________.
@@ -493,8 +530,7 @@ sets:
     - text: States’ rights.
     - text: Uncle Tom’s Cabin.
     - text: Wrasslin’ hogs.
-    - text: The antebellum period.
-    - text: Reconstruction.
+    - text: A land of Cavaliers and Cotton Fields called the Old South.
     black:
     - text: The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
     - text: Come around some bars in Tennessee and they’ll happily beat your ass for _____.
@@ -518,7 +554,7 @@ sets:
     - text: The Large Hadron Collider.
     - text: Theon Greyjoy’s severed cock.
     - text: Never telling me the odds.
-    - text: Wang computers.
+    - text: My Wang computer.
     black:
     - text: How can the net amount of entropy of the universe be massively decreased?
     - text: What is best in life?
@@ -629,8 +665,6 @@ sets:
     - text: Jumping the shark.
     - text: Pirate treasure.
     black:
-    - text: _________________! _________________! Ia! Ia!
-      pick: 2
     - text: In the end, it turned out the real National Treasure was _____.
     - text: And what is the deal with _________________?
     - text: But, doctor... I <em>am</em> _________________.
