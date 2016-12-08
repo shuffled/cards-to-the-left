@@ -524,7 +524,8 @@ sets:
         You don't know what _________________ is until you've seen _________________.
       pick: 2
     - text: |-
-        What did we foolishly take for granted?
+        What did we foolishly take
+        for granted?
     - text: |-
         What will never end?
     - text: |-
@@ -542,7 +543,8 @@ sets:
     - text: |-
         Well, it may not be much, but it sure beats _________________.
     - text: |-
-        I'm not caught up. I haven't watched since the episode with _________________.
+        I'm not caught up.
+        I haven't watched since the episode with _________________.
     - text: |-
         At the end, it all comes down to _____ versus _____.
       pick: 2
@@ -1197,9 +1199,11 @@ sets:
     - text: |-
         That axe, Eugene.
     - text: |-
-        Boogie in your butt.
+        Boogie in
+        your butt.
     - text: |-
-        Partying all the time.
+        Partying
+        all the time.
     - text: |-
         Andrew W.K.
     - text: |-
@@ -1207,7 +1211,8 @@ sets:
     - text: |-
         Your nineteenth nervous breakdown.
     - text: |-
-        The worst taste in music.
+        The worst taste
+        in music.
     - text: |-
         Z.Z. Top.
     black:
@@ -1463,7 +1468,8 @@ sets:
     - text: |-
         Jamming with the console cowboys in cyberspace.
     - text: |-
-        Hacking the Gibson.
+        Hacking
+        the Gibson.
     - text: |-
         The Pink Shirt book.
     - text: |-
