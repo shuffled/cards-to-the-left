@@ -4,808 +4,1529 @@ sets:
 - name: "Cards to the Left, Volume 1"
   cards:
     white:
-    - text: Rugged persistence.
-    - text: Labels.
-    - text: Getting ass-rammed by the Michelin Man.
-    - text: Loosely-defined virtual reality.
-    - text: What everybody’s thinking, but nobody is saying.
-    - text: The Thong Song playing on the office speaker system.
-    - text: Ethnic cleansing on Facebook.
-    - text: Tops.
-    - text: Ragnarok.
-    - text: Irony.
-    - text: Matt Damon.
-    - text: Passing the Dutchie.
-    - text: Violating the Terms of Service.
-    - text: Communicating with terrorists via graffiti in a public restroom.
-    - text: A hell of a lot of mice.
-    - text: Adolph Hitler’s IMDb page.
-    - text: Lovecraftian memes.
-    - text: Probing.
-    - text: Willy Wonka, as played by Johnny Depp.
-    - text: Laughing at my boner.
-    - text: IKEA meatballs.
-    - text: Stockholm syndrome.
-    - text: The male anatomy.
-    - text: Jennifer Aniston.
-    - text: A sippy cup full of lukewarm piss.
-    - text: Trying.
-    - text: The National Security Adminstration.
-    - text: All of us, every one.
-    - text: Ideology.
-    - text: Buckets, baskets, and bags full of boners.
-    - text: Pork.
-    - text: The Japanese.
-    - text: Knowing who William F. Buckley is.
-    - text: A sentient tub of expired sour cream.
-    - text: Pants that fit.
-    - text: Jerking off with a McChicken® sandwich.
-    - text: Going to Disney World.
-    - text: Feet.
-    - text: All the farts, right in my face, free and all mine.
-    - text: Addressing a stranger as “stranger”.
-    - text: Power bottoms.
-    - text: Cookie Monster’s funeral.
-    - text: A billy goat chewing on a stick of dynamite.
-    - text: Becoming invisible.
-    - text: e e cummings
-    - text: Vaping.
-    - text: All those devil-worshipping “Magic” cards in the garbage.
-    - text: Controversy.
-    - text: A dyslexic Tori Spelling.
-    - text: Dick Nixon.
-    - text: Just a banana.
-    - text: Children under 48 inches in height.
-    - text: Dangerously high levels of lead.
-    - text: “Weird Al” Yankovic.
-    - text: The newspaper business.
-    - text: Becoming a Jedi.
-    - text: Drinking juice.
-    - text: Bachelorette parties.
-    - text: Penis.
-    - text: Petty morality.
-    - text: Sympathy vomit.
-    - text: Convenience.
-    - text: Switching to analog.
-    - text: Beige.
-    - text: Stick Stickly<br>PO Box 963<br>NY, NY 10108.
-    - text: An embarrassing facial rash that could have been easily prevented.
-    - text: The pussy.
-    - text: Booty.
-    - text: Police brutality.
-    - text: Sexy funky fun.
-    - text: Being put out to stud.
-    - text: Screaming shit-weasels.
-    - text: Thanks.
-    - text: Woo girls.
-    - text: Xylophone music.
-    - text: Lady blue lady balls.
-    - text: William Jefferson “Slick Willy” Clinton.
-    - text: The dulcet tones of a distant saxophone.
-    - text: Dynamite.
-    - text: Two fingers, just to start.
-    - text: Abe Frohman, the sausage king of Chicago.
-    - text: A real stinker.
-    - text: Tartar sauce.
-    - text: Having a second face where your butt should be.
-    - text: Lucifer.
-    - text: The Food Network.
-    - text: Garlic bread.
-    - text: Gerrymandering.
-    - text: Juxtaposed images in deliberate sequence.
-    - text: The Byzantine Empire.
-    - text: The bits.
-    - text: An avalanche having an orgasm.
-    - text: Long schlong.
-    - text: A pyramid scheme.
-    - text: Belonging in a cult.
-    - text: Teledildonics (which means exactly what you think it means).
-    - text: Anything but the truth.
-    - text: Ugly socks in a Nintendo box.
-    - text: Tiger blood.
-    - text: Too much poo.
-    - text: A little doggy.
-    - text: "A well regulated militia, being necessary to the security of a free state."
-    - text: Broken promises.
-    - text: Columbus, Ohio.
-    - text: Spooky scary skeletons.
-    - text: Sexual relations.
-    - text: The bad kind of juicy.
-    - text: Salt.
-    - text: Robot butlers.
-    - text: Shits and giggles.
-    - text: Pizzly bears.
-    - text: The Fourth Crusade.
-    - text: The War of Northern Aggression.
-    - text: My dark and tender inner thigh.
-    - text: The current state of the Republican Party.
-    - text: That sense of inevitable victory over the forces of Old and Evil.
-    - text: The America I know and love.
-    - text: Kissing your dad.
-    - text: Problems magically solving themselves.
-    - text: Looking at the sexy TV.
-    - text: Rachaelism.
-    - text: LIIIGHTNIIIIING!
-    - text: The skulls of the vanquished.
-    - text: A rented mule.
-    - text: Santorum.
-    - text: Cable news anchors.
-    - text: Ninjas on the fucking lawn trying to kill us.
-    - text: Ocular herpes.
-    - text: Rustling jimmies.
-    - text: Other people.
-    - text: Sucking a robot’s dick.
-    - text: Winning.
-    - text: Buying a plunger in the middle of the night.
-    - text: Donkey Kong.
-    - text: A magical wish-granting piñata.
-    - text: Liquid sex.
-    - text: A long night of cocaine.
-    - text: Just asking questions.
-    - text: Threats of physical violence.
-    - text: Shoes.
-    - text: Clubbing baby seals.
-    - text: Goons in gorilla suits.
-    - text: A roller coaster of personal feelings.
-    - text: Second puberty.
-    - text: Nut butters.
-    - text: The Department of Motor Vehicles.
-    - text: Sensible Chuckle Monthly Humor Review.
-    - text: Voting for Pedro.
-    - text: Medieval birth control.
-    - text: A self-indulgent sneeze.
-    - text: Human resources.
-    - text: Addiction to heroin.
-    - text: A Bonobo named Bobo.
-    - text: Deep, seething hatred.
-    - text: Gaydar.
-    - text: Exorbitant late fees.
-    - text: The Baader-Meinhof phenomenon.
-    - text: Dying again.
-    - text: Killing again.
-    - text: Enough codeine to decongest an elephant.
-    - text: That first cup of coffee in the morning.
-    - text: Honey!
-    - text: A brawl breaking out at a baby shower.
-    - text: Scotch tape.
-    - text: No money, but great exposure.
-    - text: Hollering bloody murder.
-    - text: The Iron Sheik.
-    - text: Booze.
-    - text: The taste of your own dick medicine.
-    - text: Press access.
-    - text: Drowning in cum.
-    - text: Doing 9/11.
-    - text: Looking for frog.
-    - text: Mr. Hands.
-    - text: Hairy bears.
-    - text: Whole Foods.
-    - text: Food from a hole.
-    - text: Hatin’.
-    - text: The Sickening.
-    - text: Deafening silence.
-    - text: Spinning it as a social experiment.
-    - text: Lighter-than-air hydrogen.
-    - text: Babies on fire.
-    - text: Supplementary eyebrows.
-    - text: The LingLong DingDong.
-    - text: The watchful eye of the Swiss.
-    - text: Going in half-cocked.
-    - text: Pimento.
-    - text: Whoppers®.
-    - text: Some pants.
-    - text: The banality of evil.
-    - text: Soothing aloe.
-    - text: Panda Viagra.
-    - text: Becoming a woman.
-    - text: Something sassy and sheer.
-    - text: Rabid raccoons.
-    - text: The best.
-    - text: My true intentions.
-    - text: Yahtzee®.
-    - text: Other people’s money.
-    - text: A healthy emotional framework for coping with life’s challenges.
-    - text: Serious business.
-    - text: Sissy kicking.
-    - text: Treating Teddy with some respect.
-    - text: A machine that kills fascists.
-    - text: This pickle we find ourselves in.
-    - text: A honky-tonk badonkadonk.
-    - text: Starving to death.
-    - text: Understanding comics.
-    - text: How meth-heads think.
-    - text: A talking paperclip.
-    - text: The vaporwave aesthetic.
-    - text: Getting blown to smithereens.
-    - text: Oral.
-    - text: A fight club.
-    - text: Naming things.
-    - text: Coffee makers that think.
-    - text: An upside-down, backwards world where black is white and horses ride people.
-    - text: Anarchy.
-    - text: The menstrual motorcycle.
-    - text: A rit of fealous jage.
-    - text: Most of South America.
-    - text: Kissing it.
-    - text: Holy Shit.
-    - text: A living wage.
-    - text: Dirty laundry.
-    - text: Staying up after bedtime.
-    - text: Billion-dollar giant robots piloted by children.
-    - text: Basic logic.
-    - text: Snakes on a plane.
-    - text: My creative juices.
+    - text: |-
+        Rugged persistence.
+    - text: |-
+        Labels.
+    - text: |-
+        Getting ass-rammed by the Michelin Man.
+    - text: |-
+        Loosely-defined virtual reality.
+    - text: |-
+        What everybody’s thinking, but nobody is saying.
+    - text: |-
+        The Thong Song playing on the office speaker system.
+    - text: |-
+        Ethnic cleansing on Facebook.
+    - text: |-
+        Tops.
+    - text: |-
+        Ragnarok.
+    - text: |-
+        Irony.
+    - text: |-
+        Matt Damon.
+    - text: |-
+        Passing the Dutchie.
+    - text: |-
+        Violating the Terms of Service.
+    - text: |-
+        Communicating with terrorists via graffiti in a public restroom.
+    - text: |-
+        A hell of a lot of mice.
+    - text: |-
+        Adolph Hitler’s IMDb page.
+    - text: |-
+        Lovecraftian memes.
+    - text: |-
+        Probing.
+    - text: |-
+        Willy Wonka, as played by Johnny Depp.
+    - text: |-
+        Laughing at my boner.
+    - text: |-
+        IKEA meatballs.
+    - text: |-
+        Stockholm syndrome.
+    - text: |-
+        The male anatomy.
+    - text: |-
+        Jennifer Aniston.
+    - text: |-
+        A sippy cup full of lukewarm piss.
+    - text: |-
+        Trying.
+    - text: |-
+        The National Security Adminstration.
+    - text: |-
+        All of us, every one.
+    - text: |-
+        Ideology.
+    - text: |-
+        Buckets, baskets, and bags full of boners.
+    - text: |-
+        Pork.
+    - text: |-
+        The Japanese.
+    - text: |-
+        Knowing who William F. Buckley is.
+    - text: |-
+        A sentient tub of expired sour cream.
+    - text: |-
+        Pants that fit.
+    - text: |-
+        Jerking off with a McChicken® sandwich.
+    - text: |-
+        Going to Disney World.
+    - text: |-
+        Feet.
+    - text: |-
+        All the farts, right in my face, free and all mine.
+    - text: |-
+        Addressing a stranger as “stranger”.
+    - text: |-
+        Power bottoms.
+    - text: |-
+        Cookie Monster’s funeral.
+    - text: |-
+        A billy goat chewing on a stick of dynamite.
+    - text: |-
+        Becoming invisible.
+    - text: |-
+        e e cummings
+    - text: |-
+        Vaping.
+    - text: |-
+        All those devil-worshipping “Magic” cards in the garbage.
+    - text: |-
+        Controversy.
+    - text: |-
+        A dyslexic Tori Spelling.
+    - text: |-
+        Dick Nixon.
+    - text: |-
+        Just a banana.
+    - text: |-
+        Children under 48 inches in height.
+    - text: |-
+        Dangerously high levels of lead.
+    - text: |-
+        “Weird Al” Yankovic.
+    - text: |-
+        The newspaper business.
+    - text: |-
+        Becoming a Jedi.
+    - text: |-
+        Drinking juice.
+    - text: |-
+        Bachelorette parties.
+    - text: |-
+        Penis.
+    - text: |-
+        Petty morality.
+    - text: |-
+        Sympathy vomit.
+    - text: |-
+        Convenience.
+    - text: |-
+        Switching to analog.
+    - text: |-
+        Beige.
+    - text: |-
+        Stick Stickly<br>
+        PO Box 963<br>
+        NY, NY 10108.
+    - text: |-
+        An embarrassing facial rash that could have been easily prevented.
+    - text: |-
+        The pussy.
+    - text: |-
+        Booty.
+    - text: |-
+        Police brutality.
+    - text: |-
+        Sexy funky fun.
+    - text: |-
+        Being put out to stud.
+    - text: |-
+        Screaming shit-weasels.
+    - text: |-
+        Thanks.
+    - text: |-
+        Woo girls.
+    - text: |-
+        Xylophone music.
+    - text: |-
+        Lady blue lady balls.
+    - text: |-
+        William Jefferson “Slick Willy” Clinton.
+    - text: |-
+        The dulcet tones of a distant saxophone.
+    - text: |-
+        Dynamite.
+    - text: |-
+        Two fingers, just to start.
+    - text: |-
+        Abe Frohman, the sausage king of Chicago.
+    - text: |-
+        A real stinker.
+    - text: |-
+        Tartar sauce.
+    - text: |-
+        Having a second face where your butt should be.
+    - text: |-
+        Lucifer.
+    - text: |-
+        The Food Network.
+    - text: |-
+        Garlic bread.
+    - text: |-
+        Gerrymandering.
+    - text: |-
+        Juxtaposed images in deliberate sequence.
+    - text: |-
+        The Byzantine Empire.
+    - text: |-
+        The bits.
+    - text: |-
+        An avalanche having an orgasm.
+    - text: |-
+        Long schlong.
+    - text: |-
+        A pyramid scheme.
+    - text: |-
+        Belonging in a cult.
+    - text: |-
+        Teledildonics (which means exactly what you think it means).
+    - text: |-
+        Anything but the truth.
+    - text: |-
+        Ugly socks in a Nintendo box.
+    - text: |-
+        Tiger blood.
+    - text: |-
+        Too much poo.
+    - text: |-
+        A little doggy.
+    - text: |-
+        A well regulated militia, being necessary to the security of a free state.
+    - text: |-
+        Broken promises.
+    - text: |-
+        Columbus, Ohio.
+    - text: |-
+        Spooky scary skeletons.
+    - text: |-
+        Sexual relations.
+    - text: |-
+        The bad kind of juicy.
+    - text: |-
+        Salt.
+    - text: |-
+        Robot butlers.
+    - text: |-
+        Shits and giggles.
+    - text: |-
+        Pizzly bears.
+    - text: |-
+        The Fourth Crusade.
+    - text: |-
+        The War of Northern Aggression.
+    - text: |-
+        My dark and tender inner thigh.
+    - text: |-
+        The current state of the Republican Party.
+    - text: |-
+        That sense of inevitable victory over the forces of Old and Evil.
+    - text: |-
+        The America I know and love.
+    - text: |-
+        Kissing your dad.
+    - text: |-
+        Problems magically solving themselves.
+    - text: |-
+        Looking at the sexy TV.
+    - text: |-
+        Rachaelism.
+    - text: |-
+        LIIIGHTNIIIIING!
+    - text: |-
+        The skulls of the vanquished.
+    - text: |-
+        A rented mule.
+    - text: |-
+        Santorum.
+    - text: |-
+        Cable news anchors.
+    - text: |-
+        Ninjas on the fucking lawn trying to kill us.
+    - text: |-
+        Ocular herpes.
+    - text: |-
+        Rustling jimmies.
+    - text: |-
+        Other people.
+    - text: |-
+        Sucking a robot’s dick.
+    - text: |-
+        Winning.
+    - text: |-
+        Buying a plunger in the middle of the night.
+    - text: |-
+        Donkey Kong.
+    - text: |-
+        A magical wish-granting piñata.
+    - text: |-
+        Liquid sex.
+    - text: |-
+        A long night of cocaine.
+    - text: |-
+        Just asking questions.
+    - text: |-
+        Threats of physical violence.
+    - text: |-
+        Shoes.
+    - text: |-
+        Clubbing baby seals.
+    - text: |-
+        Goons in gorilla suits.
+    - text: |-
+        A roller coaster of personal feelings.
+    - text: |-
+        Second puberty.
+    - text: |-
+        Nut butters.
+    - text: |-
+        The Department of Motor Vehicles.
+    - text: |-
+        Sensible Chuckle Monthly Humor Review.
+    - text: |-
+        Voting for Pedro.
+    - text: |-
+        Medieval birth control.
+    - text: |-
+        A self-indulgent sneeze.
+    - text: |-
+        Human resources.
+    - text: |-
+        Addiction to heroin.
+    - text: |-
+        A Bonobo named Bobo.
+    - text: |-
+        Deep, seething hatred.
+    - text: |-
+        Gaydar.
+    - text: |-
+        Exorbitant late fees.
+    - text: |-
+        The Baader-Meinhof phenomenon.
+    - text: |-
+        Dying again.
+    - text: |-
+        Killing again.
+    - text: |-
+        Enough codeine to decongest an elephant.
+    - text: |-
+        That first cup of coffee in the morning.
+    - text: |-
+        Honey!
+    - text: |-
+        A brawl breaking out at a baby shower.
+    - text: |-
+        Scotch tape.
+    - text: |-
+        No money, but great exposure.
+    - text: |-
+        Hollering bloody murder.
+    - text: |-
+        The Iron Sheik.
+    - text: |-
+        Booze.
+    - text: |-
+        The taste of your own dick medicine.
+    - text: |-
+        Press access.
+    - text: |-
+        Drowning in cum.
+    - text: |-
+        Doing 9/11.
+    - text: |-
+        Looking for frog.
+    - text: |-
+        Mr. Hands.
+    - text: |-
+        Hairy bears.
+    - text: |-
+        Whole Foods.
+    - text: |-
+        Food from a hole.
+    - text: |-
+        Hatin’.
+    - text: |-
+        The Sickening.
+    - text: |-
+        Deafening silence.
+    - text: |-
+        Spinning it as a social experiment.
+    - text: |-
+        Lighter-than-air hydrogen.
+    - text: |-
+        Babies on fire.
+    - text: |-
+        Supplementary eyebrows.
+    - text: |-
+        The LingLong DingDong.
+    - text: |-
+        The watchful eye of the Swiss.
+    - text: |-
+        Going in half-cocked.
+    - text: |-
+        Pimento.
+    - text: |-
+        Whoppers®.
+    - text: |-
+        Some pants.
+    - text: |-
+        The banality of evil.
+    - text: |-
+        Soothing aloe.
+    - text: |-
+        Panda Viagra.
+    - text: |-
+        Becoming a woman.
+    - text: |-
+        Something sassy and sheer.
+    - text: |-
+        Rabid raccoons.
+    - text: |-
+        The best.
+    - text: |-
+        My true intentions.
+    - text: |-
+        Yahtzee®.
+    - text: |-
+        Other people’s money.
+    - text: |-
+        A healthy emotional framework for coping with life’s challenges.
+    - text: |-
+        Serious business.
+    - text: |-
+        Sissy kicking.
+    - text: |-
+        Treating Teddy with some respect.
+    - text: |-
+        A machine that kills fascists.
+    - text: |-
+        This pickle we find ourselves in.
+    - text: |-
+        A honky-tonk badonkadonk.
+    - text: |-
+        Starving to death.
+    - text: |-
+        Understanding comics.
+    - text: |-
+        How meth-heads think.
+    - text: |-
+        A talking paperclip.
+    - text: |-
+        The vaporwave aesthetic.
+    - text: |-
+        Getting blown to smithereens.
+    - text: |-
+        Oral.
+    - text: |-
+        A fight club.
+    - text: |-
+        Naming things.
+    - text: |-
+        Coffee makers that think.
+    - text: |-
+        An upside-down, backwards world where black is white and horses ride people.
+    - text: |-
+        Anarchy.
+    - text: |-
+        The menstrual motorcycle.
+    - text: |-
+        A rit of fealous jage.
+    - text: |-
+        Most of South America.
+    - text: |-
+        Kissing it.
+    - text: |-
+        Holy Shit.
+    - text: |-
+        A living wage.
+    - text: |-
+        Dirty laundry.
+    - text: |-
+        Staying up after bedtime.
+    - text: |-
+        Billion-dollar giant robots piloted by children.
+    - text: |-
+        Basic logic.
+    - text: |-
+        Snakes on a plane.
+    - text: |-
+        My creative juices.
     black:
-    - text: I know what you are, but what am I?
-    - text: Fuck you, _________________.
-    - text: What’s the first thing you see at the gates of Hell?
-    - text: Excuse me, do you have a moment to talk about _____?
-    - text: Nothing gives me more _________________ than _________________.
+    - text: |-
+        I know what you are, but what am I?
+    - text: |-
+        Fuck you, _________________.
+    - text: |-
+        What’s the first thing you see at the gates of Hell?
+    - text: |-
+        Excuse me, do you have a moment to talk about _____?
+    - text: |-
+        Nothing gives me more _________________ than _________________.
       pick: 2
-    - text: This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
-    - text: No, I’M _____!
-    - text: If you truly wish to become a master, you must first learn to control _________________.
-    - text: All hail _________________, champion of _________________!
+    - text: |-
+        This exclusive $6.99 monthly offer guarantees you unlimited access to only the nastiest _________________.
+    - text: |-
+        No, I’M _____!
+    - text: |-
+        If you truly wish to become a master, you must first learn to control _________________.
+    - text: |-
+        All hail _________________, champion of _________________!
       pick: 2
-    - text: Great, now I can’t do anything below the waist without thinking of _____.
-    - text: What’s the LAST thing we need right now?
-    - text: "“_____: _____?” Tonight, on WCBS 2 News at 11."
+    - text: |-
+        Great, now I can’t do anything below the waist without thinking of _____.
+    - text: |-
+        What’s the LAST thing we need right now?
+    - text: |-
+        “_____: _____?” Tonight, on WCBS 2 News at 11.
       pick: 2
-    - text: What do you struggle to resist sticking inside yourself?
-    - text: Where do you draw the line?
-    - text: "After reviewing our options, I think we have no choice but to look at _____."
-    - text: What doesn’t exist?
-    - text: What’s so naughty?
-    - text: _______________ is the new _______________.
+    - text: |-
+        What do you struggle to resist sticking inside yourself?
+    - text: |-
+        Where do you draw the line?
+    - text: |-
+        After reviewing our options, I think we have no choice but to look at _____.
+    - text: |-
+        What doesn’t exist?
+    - text: |-
+        What’s so naughty?
+    - text: |-
+        _______________ is the new _______________.
       pick: 2
-    - text: Don't thank me&mdash;<br>thank ___________.
-    - text: _____? But why?
-    - text: "Rule 34. _____? There’s porn of it."
-    - text: I got suspended, just because some kids overheard me talking about ______.
-    - text: "This month’s REAL MEN Cover Story: “________________ RIPPED MY FLESH!”"
-    - text: You don’t know what _________________ is until you’ve seen _________________.
+    - text: |-
+        Don't thank me&mdash;
+        thank ___________.
+    - text: |-
+        _____? But why?
+    - text: |-
+        Rule 34. _____? There’s porn of it.
+    - text: |-
+        I got suspended, just because some kids overheard me talking about ______.
+    - text: |-
+        This month’s REAL MEN Cover Story: “________________ RIPPED MY FLESH!”
+    - text: |-
+        You don’t know what _________________ is until you’ve seen _________________.
       pick: 2
-    - text: What did we foolishly take for granted?
-    - text: What will never end?
-    - text: I always get _________________ mixed up with _________________.
+    - text: |-
+        What did we foolishly take for granted?
+    - text: |-
+        What will never end?
+    - text: |-
+        I always get _________________ mixed up with _________________.
       pick: 2
-    - text: What’s your favorite idea?
-    - text: "It’s still anyone’s game right now as we go into our “____________” Round."
-    - text: Who killed Mr. Boddy? _________________, with _____________, in _________________.
+    - text: |-
+        What’s your favorite idea?
+    - text: |-
+        It’s still anyone’s game right now as we go into our “____________” Round.
+    - text: |-
+        Who killed Mr. Boddy? _________________, with _____________, in _________________.
       pick: 3
-    - text: What inspired me to become a surgeon?
-    - text: Well, it may not be much, but it sure beats _________________.
-    - text: I’m not caught up. I haven’t watched since the episode with _________________.
-    - text: At the end, it all comes down to _____ versus _____.
+    - text: |-
+        What inspired me to become a surgeon?
+    - text: |-
+        Well, it may not be much, but it sure beats _________________.
+    - text: |-
+        I’m not caught up. I haven’t watched since the episode with _________________.
+    - text: |-
+        At the end, it all comes down to _____ versus _____.
       pick: 2
-    - text: _____, but not in bed.
-    - text: And that’s when we saw ’er a’comin ’round the bend, strong as _________________ and louder than _________________.
+    - text: |-
+        _____, but not in bed.
+    - text: |-
+        And that’s when we saw ’er a’comin ’round the bend, strong as _________________ and louder than _________________.
       pick: 2
-    - text: When I need to escape from _____________, I like to imagine ______________.
+    - text: |-
+        When I need to escape from _____________, I like to imagine ______________.
       pick: 2
-    - text: Why can’t I wear that t-shirt any more?
-    - text: You know, you can never have enough _____.
-    - text: The ___ store called, they’re all outta _____!
+    - text: |-
+        Why can’t I wear that t-shirt any more?
+    - text: |-
+        You know, you can never have enough _____.
+    - text: |-
+        The ___ store called, they’re all outta _____!
       pick: 2
-    - text: Who stole the cookies from the cookie jar?
-    - text: When you asked for ______________, I thought you were saying you wanted ______________.
+    - text: |-
+        Who stole the cookies from the cookie jar?
+    - text: |-
+        When you asked for ______________, I thought you were saying you wanted ______________.
       pick: 2
-    - text: What should the Founding Fathers have left out of the Constitution?
-    - text: There is no _________________, only _________________.
+    - text: |-
+        What should the Founding Fathers have left out of the Constitution?
+    - text: |-
+        There is no _________________, only _________________.
       pick: 2
-    - text: MacGyver saved the day using only ____________, ____________, and _________.
+    - text: |-
+        MacGyver saved the day using only ____________, ____________, and _________.
       pick: 3
-    - text: Hey, we don’t need _____ to have _____!
+    - text: |-
+        Hey, we don’t need _____ to have _____!
       pick: 2
-    - text: What’s wrong with your face?
-    - text: What’s the ultimate insult?
-    - text: "What is the so-called “mainstream media” unable to address?"
+    - text: |-
+        What’s wrong with your face?
+    - text: |-
+        What’s the ultimate insult?
+    - text: |-
+        What is the so-called “mainstream media” unable to address?
 - name: "Cards to the Left, Volume 2"
   cards:
     white:
-    - text: Brand-new baby shoes.
-    - text: Being creative.
-    - text: Having sex with someone who isn’t you.
-    - text: Pig boops.
-    - text: A grumpy Gus.
-    - text: Smashing.
-    - text: Baseless entitlement.
-    - text: A live baby.
-    - text: Drinking the sauce.
-    - text: Hobo nickels.
-    - text: The biggest shit.
-    - text: Shrinky Dinks®.
-    - text: Accusations of bigotry.
-    - text: Flying.
-    - text: Teaching Furby® to swear.
-    - text: Lustful urges.
-    - text: Constipated moaning.
-    - text: Uncut horse.
-    - text: Jack shit.
-    - text: The “-gate” suffix denoting scandal.
-    - text: A glittering golden chalice of blood.
-    - text: Bananimals.
-    - text: CIA mind control.
-    - text: Spanking the monkey.
-    - text: Humanity at its worst.
-    - text: “Chocolate” and “vanilla”.
-    - text: Screwing around.
-    - text: Crazy.
-    - text: Doing it all willy-nilly.
-    - text: Haggis.
-    - text: All my teeth.
-    - text: That old-time religion.
-    - text: Speed-peeing.
-    - text: Your tax dollars.
-    - text: Jive.
-    - text: Crispy crackers.
-    - text: The state of Florida.
-    - text: Suffocating in this environment.
-    - text: Pennies.
-    - text: Growing, not showing.
-    - text: Swisher spliffs.
-    - text: The cops.
-    - text: Cunnilingus.
-    - text: Highly-polished turds.
-    - text: A blizzard of jizz.
-    - text: Collateral damage.
-    - text: Just gas.
-    - text: Who lives and who dies.
-    - text: Code switching.
-    - text: Cream of Meat.
-    - text: Eight years of Clown College.
-    - text: Self-care.
-    - text: A dream of dark and troubling things.
-    - text: Crap.
-    - text: SUNDAY, SUNDAY, SUNDAY!
-    - text: Pants-oriented clothing.
-    - text: Blowing it.
-    - text: Distinguishing between good and evil.
-    - text: Sleep.
-    - text: Semantic satiation.
-    - text: Anyone who’s seen my crotch.
-    - text: Self-diagnosed Aspergers.
-    - text: Going in dry.
-    - text: Building ass-grabbing automatons.
-    - text: The same old schtick.
-    - text: Dogs.
-    - text: An array of specialized gadgetry.
-    - text: Houses with their own names.
-    - text: Lupus.
-    - text: Little Eichmanns.
-    - text: Making eye contact.
-    - text: Fucking.
-    - text: Licking around the rim.
-    - text: The front-row kids.
-    - text: My black friend.
-    - text: An endless bureaucratic headache.
-    - text: A home where I belong.
-    - text: Vaccinating your children.
-    - text: Emergency cock.
-    - text: Letting the Russians get there first.
-    - text: Fisting a garbage disposal.
+    - text: |-
+        Brand-new baby shoes.
+    - text: |-
+        Being creative.
+    - text: |-
+        Having sex with someone who isn’t you.
+    - text: |-
+        Pig boops.
+    - text: |-
+        A grumpy Gus.
+    - text: |-
+        Smashing.
+    - text: |-
+        Baseless entitlement.
+    - text: |-
+        A live baby.
+    - text: |-
+        Drinking the sauce.
+    - text: |-
+        Hobo nickels.
+    - text: |-
+        The biggest shit.
+    - text: |-
+        Shrinky Dinks®.
+    - text: |-
+        Accusations of bigotry.
+    - text: |-
+        Flying.
+    - text: |-
+        Teaching Furby® to swear.
+    - text: |-
+        Lustful urges.
+    - text: |-
+        Constipated moaning.
+    - text: |-
+        Uncut horse.
+    - text: |-
+        Jack shit.
+    - text: |-
+        The “-gate” suffix denoting scandal.
+    - text: |-
+        A glittering golden chalice of blood.
+    - text: |-
+        Bananimals.
+    - text: |-
+        CIA mind control.
+    - text: |-
+        Spanking the monkey.
+    - text: |-
+        Humanity at its worst.
+    - text: |-
+        “Chocolate” and “vanilla”.
+    - text: |-
+        Screwing around.
+    - text: |-
+        Crazy.
+    - text: |-
+        Doing it all willy-nilly.
+    - text: |-
+        Haggis.
+    - text: |-
+        All my teeth.
+    - text: |-
+        That old-time religion.
+    - text: |-
+        Speed-peeing.
+    - text: |-
+        Your tax dollars.
+    - text: |-
+        Jive.
+    - text: |-
+        Crispy crackers.
+    - text: |-
+        The state of Florida.
+    - text: |-
+        Suffocating in this environment.
+    - text: |-
+        Pennies.
+    - text: |-
+        Growing, not showing.
+    - text: |-
+        Swisher spliffs.
+    - text: |-
+        The cops.
+    - text: |-
+        Cunnilingus.
+    - text: |-
+        Highly-polished turds.
+    - text: |-
+        A blizzard of jizz.
+    - text: |-
+        Collateral damage.
+    - text: |-
+        Just gas.
+    - text: |-
+        Who lives and who dies.
+    - text: |-
+        Code switching.
+    - text: |-
+        Cream of Meat.
+    - text: |-
+        Eight years of Clown College.
+    - text: |-
+        Self-care.
+    - text: |-
+        A dream of dark and troubling things.
+    - text: |-
+        Crap.
+    - text: |-
+        SUNDAY, SUNDAY, SUNDAY!
+    - text: |-
+        Pants-oriented clothing.
+    - text: |-
+        Blowing it.
+    - text: |-
+        Distinguishing between good and evil.
+    - text: |-
+        Sleep.
+    - text: |-
+        Semantic satiation.
+    - text: |-
+        Anyone who’s seen my crotch.
+    - text: |-
+        Self-diagnosed Aspergers.
+    - text: |-
+        Going in dry.
+    - text: |-
+        Building ass-grabbing automatons.
+    - text: |-
+        The same old schtick.
+    - text: |-
+        Dogs.
+    - text: |-
+        An array of specialized gadgetry.
+    - text: |-
+        Houses with their own names.
+    - text: |-
+        Lupus.
+    - text: |-
+        Little Eichmanns.
+    - text: |-
+        Making eye contact.
+    - text: |-
+        Fucking.
+    - text: |-
+        Licking around the rim.
+    - text: |-
+        The front-row kids.
+    - text: |-
+        My black friend.
+    - text: |-
+        An endless bureaucratic headache.
+    - text: |-
+        A home where I belong.
+    - text: |-
+        Vaccinating your children.
+    - text: |-
+        Emergency cock.
+    - text: |-
+        Letting the Russians get there first.
+    - text: |-
+        Fisting a garbage disposal.
     black:
-    - text: What’s plan B?
-    - text: "For sale: _______________, _______________."
+    - text: |-
+        What’s plan B?
+    - text: |-
+        For sale: _______________, _______________.
       pick: 2
-    - text: Every day I’m _____.
-    - text: This latter-day Johnny Appleseed envisions _________________ from coast to coast.
-    - text: What have I lived to regret?
-    - text: so much depends<br>upon<br><br>a red wheel barrow<br><br>glazed with _____<br><br>beside _________.
+    - text: |-
+        Every day I’m _____.
+    - text: |-
+        This latter-day Johnny Appleseed envisions _________________ from coast to coast.
+    - text: |-
+        What have I lived to regret?
+    - text: |-
+        so much depends<br>
+        upon<br>
+        <br>
+        a red wheel
+        barrow<br>
+        <br>
+        glazed with _____<br>
+        <br>
+        beside _________.
       pick: 2
-    - text: Who watches the watchmen?
-    - text: If you think this party can’t get any more ____________, then you don't know ___________.
+    - text: |-
+        Who watches the watchmen?
+    - text: |-
+        If you think this party can’t get any more ____________, then you don't know ___________.
       pick: 2
-    - text: Bang _______________, marry _______________, kill _________________.
+    - text: |-
+        Bang _______________, marry _______________, kill _________________.
       pick: 3
-    - text: What’s the good news?
-    - text: You can be _______________, and I’ll be _________________.
+    - text: |-
+        What’s the good news?
+    - text: |-
+        You can be _______________, and I’ll be _________________.
       pick: 2
-    - text: What couldn’t be simpler?
-    - text: Don’t just complain. Take actions they can’t ignore. Vote with _____.
-    - text: What did I choke on?
-    - text: Only _________________ can overcome the horrors of _________________.
+    - text: |-
+        What couldn’t be simpler?
+    - text: |-
+        Don’t just complain. Take actions they can’t ignore. Vote with _____.
+    - text: |-
+        What did I choke on?
+    - text: |-
+        Only _________________ can overcome the horrors of _________________.
       pick: 2
-    - text: Where do we get a whole lot of hair on such short notice?
-    - text: Have you considered ________ instead of ____________?
+    - text: |-
+        Where do we get a whole lot of hair on such short notice?
+    - text: |-
+        Have you considered ________ instead of ____________?
       pick: 2
-    - text: What keeps you running?
-    - text: I wish I could get ___________ out of my head.
-    - text: Lest we forget, _____ is how we got _____.
+    - text: |-
+        What keeps you running?
+    - text: |-
+        I wish I could get ___________ out of my head.
+    - text: |-
+        Lest we forget, _____ is how we got _____.
       pick: 2
-    - text: I like _______________, but I <em>LOVE</em> _______________.
+    - text: |-
+        I like _______________, but I <em>LOVE</em> _______________.
       pick: 2
-    - text: Give me liberty or give me _________________.
-    - text: I’d take _________________ over _________________ any day of the week.
+    - text: |-
+        Give me liberty or give me _________________.
+    - text: |-
+        I’d take _________________ over _________________ any day of the week.
       pick: 2
-    - text: What's for lunch?
-    - text: Fuck ____________. Fuck ____________. All that matters is ____________.
+    - text: |-
+        What's for lunch?
+    - text: |-
+        Fuck ____________. Fuck ____________. All that matters is ____________.
       pick: 3
-    - text: ___________ is the _________________ of the world.
+    - text: |-
+        ___________ is the _________________ of the world.
       pick: 2
 - name: "2016: Never Again Pack"
   cards:
     white:
-    - text: The security aspect of cyber.
-    - text: ISIS.
-    - text: Tax loopholes.
-    - text: The Federal Bureau of Investigation.
-    - text: The number of Jewish books in the school library.
-    - text: The ability to commit sexual assault with impunity.
-    - text: Voter fraud.
-    - text: The 2016 presidential election.
-    - text: Bae.
-    - text: Harambe.
-    - text: The Samsung Galaxy Note 7.
-    - text: Haircut-based politics.
-    - text: Donald Trump’s Vienna sausage fingers.
-    - text: Second Amendment people.
-    - text: The teleprompter.
-    - text: A sex tape Donald Trump wants you to check out.
-    - text: Pegging Mike Pence.
-    - text: The Cubs winning the World Series.
-    - text: "Oh shit, the Supreme Court."
-    - text: Ronald Reagan’s monstrous reanimated corpse.
-    - text: The political climate around climate change.
-    - text: Never apologizing for anything.
-    - text: Extreme religious and sexual vetting.
+    - text: |-
+        The security aspect of cyber.
+    - text: |-
+        ISIS.
+    - text: |-
+        Tax loopholes.
+    - text: |-
+        The Federal Bureau of Investigation.
+    - text: |-
+        The number of Jewish books in the school library.
+    - text: |-
+        The ability to commit sexual assault with impunity.
+    - text: |-
+        Voter fraud.
+    - text: |-
+        The 2016 presidential election.
+    - text: |-
+        Bae.
+    - text: |-
+        Harambe.
+    - text: |-
+        The Samsung Galaxy Note 7.
+    - text: |-
+        Haircut-based politics.
+    - text: |-
+        Donald Trump’s Vienna sausage fingers.
+    - text: |-
+        Second Amendment people.
+    - text: |-
+        The teleprompter.
+    - text: |-
+        A sex tape Donald Trump wants you to check out.
+    - text: |-
+        Pegging Mike Pence.
+    - text: |-
+        The Cubs winning the World Series.
+    - text: |-
+        Oh shit, the Supreme Court.
+    - text: |-
+        Ronald Reagan’s monstrous reanimated corpse.
+    - text: |-
+        The political climate around climate change.
+    - text: |-
+        Never apologizing for anything.
+    - text: |-
+        Extreme religious and sexual vetting.
     black:
-    - text: What did the Consitutional framers forget to address?
-    - text: Evoking “________” is merely a dog-whistle euphemism for ______________.
+    - text: |-
+        What did the Consitutional framers forget to address?
+    - text: |-
+        Evoking “________” is merely a dog-whistle euphemism for ______________.
       pick: 2
-    - text: The chance that this goes wrong is about as likely as the odds of ________________.
-    - text: "Don’t blame me: I voted for _________________."
-    - text: I don’t mean to brag, but I have _________________.
-    - text: "Just saying “____________” over and over doesn’t answer my question."
+    - text: |-
+        The chance that this goes wrong is about as likely as the odds of ________________.
+    - text: |-
+        Don’t blame me: I voted for _________________.
+    - text: |-
+        I don’t mean to brag, but I have _________________.
+    - text: |-
+        Just saying “____________” over and over doesn’t answer my question.
 - name: Seattle Pack
   cards:
     white:
-    - text: Beast Mode.
-    - text: Grunge.
-    - text: Walking from one coffee shop to another coffee shop.
-    - text: The Presidents of the United States of America.
-    - text: Legalizing it.
-    - text: Perpetual light drizzle.
-    - text: A functional light rail system.
-    - text: Public education funding.
-    - text: Big Bertha.
-    - text: Bill Gates unleashing an army of mosquitoes on an unsuspecting crowd.
-    - text: A scale model of the Space Needle.
-    - text: Two pink fighter jets kissing.
+    - text: |-
+        Beast Mode.
+    - text: |-
+        Grunge.
+    - text: |-
+        Walking from one coffee shop to another coffee shop.
+    - text: |-
+        The Presidents of the United States of America.
+    - text: |-
+        Legalizing it.
+    - text: |-
+        Perpetual light drizzle.
+    - text: |-
+        A functional light rail system.
+    - text: |-
+        Public education funding.
+    - text: |-
+        Big Bertha.
+    - text: |-
+        Bill Gates unleashing an army of mosquitoes on an unsuspecting crowd.
+    - text: |-
+        A scale model of the Space Needle.
+    - text: |-
+        Two pink fighter jets kissing.
     black:
-    - text: I’m just here so I won’t get ________.
-    - text: What one fetish Dan Savage will never touch?
-    - text: I want _____. I like _____. I need _____.
+    - text: |-
+        I’m just here so I won’t get ________.
+    - text: |-
+        What one fetish Dan Savage will never touch?
+    - text: |-
+        I want _____. I like _____. I need _____.
       pick: 3
 - name: Highbrow Pack
   cards:
     white:
-    - text: The love of God, Montresor!
-    - text: New Yorker cartoons.
-    - text: Robespierre’s Reign of Terror.
-    - text: Tittering at irreverent jest.
-    - text: The definite article.
-    - text: The slings and arrows of outrageous fortune.
-    - text: The stultifying compositions of Edvard Grieg.
-    - text: Dr. Livingstone, I presume.
-    - text: Passionately debating the employment of en dashes versus hyphens.
-    - text: Dangling participles.
-    - text: Deconstructing Derrida.
-    - text: Partaking in tasting the finest of wines.
+    - text: |-
+        The love of God, Montresor!
+    - text: |-
+        New Yorker cartoons.
+    - text: |-
+        Robespierre’s Reign of Terror.
+    - text: |-
+        Tittering at irreverent jest.
+    - text: |-
+        The definite article.
+    - text: |-
+        The slings and arrows of outrageous fortune.
+    - text: |-
+        The stultifying compositions of Edvard Grieg.
+    - text: |-
+        Dr. Livingstone, I presume.
+    - text: |-
+        Passionately debating the employment of en dashes versus hyphens.
+    - text: |-
+        Dangling participles.
+    - text: |-
+        Deconstructing Derrida.
+    - text: |-
+        Partaking in tasting the finest of wines.
     black:
-    - text: To whom do we address our letter of grievance?
-    - text: Let us toast the honor of our magnanimous benefactor, ______________.
+    - text: |-
+        To whom do we address our letter of grievance?
+    - text: |-
+        Let us toast the honor of our magnanimous benefactor, ______________.
 - name: Meta Pack
   cards:
     white:
-    - text: Everything.
-    - text: Playing a card you just drew.
-    - text: The cards.
-    - text: Putting the rules card into play from your hand.
-    - text: Here and now.
-    - text: Just this kind of situation.
-    - text: Scoring.
-    - text: Nobody but me.
-    - text: A real thing I didn’t make up.
-    - text: Myself.
-    - text: Knowing how to play the game.
-    - text: An eternal golden Brady Bunch.
-    - text: The question itself.
-    - text: Recursion.
-    - text: Self-ownage.
-    - text: This.
-    - text: Drawing another hand.
-    - text: No.
-    - text: Shuffling.
-    - text: Playtesting, idiot.
-    - text: The same text as the previous card.
-    - text: The one that won the last round.
-    - text: An “intentionally left blank” joke.
-    - text: The act of merely existing.
-    - text: Marshall McLuhan, who I just happen to have right here.
+    - text: |-
+        Everything.
+    - text: |-
+        Playing a card you just drew.
+    - text: |-
+        The cards.
+    - text: |-
+        Putting the rules card into play from your hand.
+    - text: |-
+        Here and now.
+    - text: |-
+        Just this kind of situation.
+    - text: |-
+        Scoring.
+    - text: |-
+        Nobody but me.
+    - text: |-
+        A real thing I didn’t make up.
+    - text: |-
+        Myself.
+    - text: |-
+        Knowing how to play the game.
+    - text: |-
+        An eternal golden Brady Bunch.
+    - text: |-
+        The question itself.
+    - text: |-
+        Recursion.
+    - text: |-
+        Self-ownage.
+    - text: |-
+        This.
+    - text: |-
+        Drawing another hand.
+    - text: |-
+        No.
+    - text: |-
+        Shuffling.
+    - text: |-
+        Playtesting, idiot.
+    - text: |-
+        The same text as the previous card.
+    - text: |-
+        The one that won the last round.
+    - text: |-
+        An “intentionally left blank” joke.
+    - text: |-
+        The act of merely existing.
+    - text: |-
+        Marshall McLuhan, who I just happen to have right here.
     black:
-    - text: What do you just want to get out of your hand already?
-    - text: What’s the wordiest?
-    - text: What is, alphabetically, highest?
+    - text: |-
+        What do you just want to get out of your hand already?
+    - text: |-
+        What’s the wordiest?
+    - text: |-
+        What is, alphabetically, highest?
 - name: Horror Pack
   cards:
     white:
-    - text: Going to a funeral in costume.
-    - text: Spooky poops.
-    - text: Beelzebub,<br>Lord of the Flies.
-    - text: Steaming jets of thick crimson blood.
-    - text: The left-hand path.
-    - text: Fire and brimstone.
-    - text: One final flesh-obliterating climax transcending the limits of pleasure and pain.
-    - text: The Blob.
-    - text: Godzilla.
-    - text: Monster cock.
-    - text: DOOM.
-    - text: Riding a broomstick.
-    - text: Dracula.
-    - text: Unlimited screaming.
-    - text: G-g-g-ghosts!
-    - text: Ghoulish delight.
+    - text: |-
+        Going to a funeral in costume.
+    - text: |-
+        Spooky poops.
+    - text: |-
+        Beelzebub,
+        Lord of the Flies.
+    - text: |-
+        Steaming jets of thick crimson blood.
+    - text: |-
+        The left-hand path.
+    - text: |-
+        Fire and brimstone.
+    - text: |-
+        One final flesh-obliterating climax transcending the limits of pleasure and pain.
+    - text: |-
+        The Blob.
+    - text: |-
+        Godzilla.
+    - text: |-
+        Monster cock.
+    - text: |-
+        DOOM.
+    - text: |-
+        Riding a broomstick.
+    - text: |-
+        Dracula.
+    - text: |-
+        Unlimited screaming.
+    - text: |-
+        G-g-g-ghosts!
+    - text: |-
+        Ghoulish delight.
     black:
-    - text: "Only two things scare me: _____, and _____."
+    - text: |-
+        Only two things scare me: _____, and _____.
       pick: 2
-    - text: "Your mother sucks _____ in Hell, Karras, you faithless slime."
-    - text: "I ain’t afraid of no _____. I hear it likes the girls."
+    - text: |-
+        Your mother sucks _____ in Hell, Karras, you faithless slime.
+    - text: |-
+        I ain’t afraid of no _____. I hear it likes the girls.
 - name: Hollywood Pack
   cards:
     white:
-    - text: Rock Hudson banging James Dean to win a bet against Liz Taylor.
-    - text: Billy Bush.
-    - text: A chocolate Oscar.
-    - text: The casting couch.
-    - text: Tom Hanks.
-    - text: Failing upwards.
-    - text: Catering.
-    - text: Development hell.
-    - text: Finding Forrester.
-    - text: Patrick Swayze.
-    - text: The entire script of “Bee Movie”.
-    - text: The greatest trick the Devil ever pulled.
-    - text: Joey Pants.
+    - text: |-
+        Rock Hudson banging James Dean to win a bet against Liz Taylor.
+    - text: |-
+        Billy Bush.
+    - text: |-
+        A chocolate Oscar.
+    - text: |-
+        The casting couch.
+    - text: |-
+        Tom Hanks.
+    - text: |-
+        Failing upwards.
+    - text: |-
+        Catering.
+    - text: |-
+        Development hell.
+    - text: |-
+        Finding Forrester.
+    - text: |-
+        Patrick Swayze.
+    - text: |-
+        The entire script of “Bee Movie”.
+    - text: |-
+        The greatest trick the Devil ever pulled.
+    - text: |-
+        Joey Pants.
     black:
-    - text: What drew me in to showbusiness?
-    - text: What’s the most surprising part of Quentin Tarantino’s next production?
-    - text: If anybody wants me, I’ll be in ____________.
-    - text: Tell ya what, kid. Throw in __________, lose ___________, and you’ve got yourself a hit.
+    - text: |-
+        What drew me in to showbusiness?
+    - text: |-
+        What’s the most surprising part of Quentin Tarantino’s next production?
+    - text: |-
+        If anybody wants me, I’ll be in ____________.
+    - text: |-
+        Tell ya what, kid. Throw in __________, lose ___________, and you’ve got yourself a hit.
       pick: 2
 - name: Labor Theory of Value Pack
   cards:
     white:
-    - text: The means of production.
-    - text: Seizing the means of production.
-    - text: The bourgeoisie.
-    - text: An actual banana republic.
-    - text: Ethical consumption under capitalism.
-    - text: The proletariat.
-    - text: The attainment of a classless utopia.
+    - text: |-
+        The means of production.
+    - text: |-
+        Seizing the means of production.
+    - text: |-
+        The bourgeoisie.
+    - text: |-
+        An actual banana republic.
+    - text: |-
+        Ethical consumption under capitalism.
+    - text: |-
+        The proletariat.
+    - text: |-
+        The attainment of a classless utopia.
     black:
-    - text: When the revolution comes, _____ will be the first against the wall.
-    - text: "A spectre is haunting Europe&mdash;the spectre of _____."
-    - text: What do we want? _________________! When do we want it? _________________!
+    - text: |-
+        When the revolution comes, _____ will be the first against the wall.
+    - text: |-
+        A spectre is haunting Europe&mdash;the spectre of _____.
+    - text: |-
+        What do we want? _________________! When do we want it? _________________!
       pick: 2
 - name: Music Pack
   cards:
     white:
-    - text: Pop, pop, pop music.
-    - text: A dastardly plan to steal Ted Nugent’s wardrobe.
-    - text: Songs about fucking Steve Albini.
-    - text: Quiet Riot’s 1983 hit cover of Slade’s “Cum On Feel the Noize”.
-    - text: Memories of things that never happened.
-    - text: Two hearts that beat as one.
-    - text: Yoko Ono.
-    - text: A yellow submarine.
-    - text: The sun going down on me.
-    - text: Electric music, solid walls of sound.
-    - text: Red, red wine.
-    - text: Knights in Satan’s service.
-    - text: Liquor and drugs.
-    - text: The flesh machine.
-    - text: Another striptease.
-    - text: Lotion.
-    - text: Something called love.
-    - text: Hypnotizing chickens.
-    - text: A modern guy.
-    - text: A lust for life.
-    - text: Lust for life.
-    - text: A million in prizes.
-    - text: My torture film.
-    - text: A GTO.
-    - text: A government loan.
-    - text: Beating my brains.
-    - text: David Bowie’s dancing magic pants.
-    - text: Young Americans.
-    - text: Music for airports.
-    - text: Living in an elevator.
-    - text: Mexican radio.
-    - text: People who died.
-    - text: The guy who sings “Creep” at every karaoke bar.
-    - text: Electric guitar.
-    - text: Finns to the left, Finns to the right.
-    - text: Smoke on the water in a bong.
-    - text: That axe, Eugene.
-    - text: Boogie in your butt.
-    - text: Partying all the time.
-    - text: Andrew W.K.
-    - text: Suckin’ on a chili dog outside the Tastee Freeze.
-    - text: Your nineteenth nervous breakdown.
-    - text: The worst taste in music.
-    - text: Z.Z. Top.
+    - text: |-
+        Pop, pop, pop music.
+    - text: |-
+        A dastardly plan to steal Ted Nugent’s wardrobe.
+    - text: |-
+        Songs about fucking Steve Albini.
+    - text: |-
+        Quiet Riot’s 1983 hit cover of Slade’s “Cum On Feel the Noize”.
+    - text: |-
+        Memories of things that never happened.
+    - text: |-
+        Two hearts that beat as one.
+    - text: |-
+        Yoko Ono.
+    - text: |-
+        A yellow submarine.
+    - text: |-
+        The sun going down on me.
+    - text: |-
+        Electric music, solid walls of sound.
+    - text: |-
+        Red, red wine.
+    - text: |-
+        Knights in Satan’s service.
+    - text: |-
+        Liquor and drugs.
+    - text: |-
+        The flesh machine.
+    - text: |-
+        Another striptease.
+    - text: |-
+        Lotion.
+    - text: |-
+        Something called love.
+    - text: |-
+        Hypnotizing chickens.
+    - text: |-
+        A modern guy.
+    - text: |-
+        A lust for life.
+    - text: |-
+        Lust for life.
+    - text: |-
+        A million in prizes.
+    - text: |-
+        My torture film.
+    - text: |-
+        A GTO.
+    - text: |-
+        A government loan.
+    - text: |-
+        Beating my brains.
+    - text: |-
+        David Bowie’s dancing magic pants.
+    - text: |-
+        Young Americans.
+    - text: |-
+        Music for airports.
+    - text: |-
+        Living in an elevator.
+    - text: |-
+        Mexican radio.
+    - text: |-
+        People who died.
+    - text: |-
+        The guy who sings “Creep” at every karaoke bar.
+    - text: |-
+        Electric guitar.
+    - text: |-
+        Finns to the left, Finns to the right.
+    - text: |-
+        Smoke on the water in a bong.
+    - text: |-
+        That axe, Eugene.
+    - text: |-
+        Boogie in your butt.
+    - text: |-
+        Partying all the time.
+    - text: |-
+        Andrew W.K.
+    - text: |-
+        Suckin’ on a chili dog outside the Tastee Freeze.
+    - text: |-
+        Your nineteenth nervous breakdown.
+    - text: |-
+        The worst taste in music.
+    - text: |-
+        Z.Z. Top.
     black:
-    - text: The hills are alive with the sound of _________________.
-    - text: Freedom’s just another word for _________________.
-    - text: My favorite Velvet Underground song? Uhh... the one with all the _________________.
-    - text: John &<br>Paul &<br>Ringo &<br>George &<br>_________________.
-    - text: I don’t know _________________, but how about _________________?
+    - text: |-
+        The hills are alive with the sound of _________________.
+    - text: |-
+        Freedom’s just another word for _________________.
+    - text: |-
+        My favorite Velvet Underground song? Uhh... the one with all the _________________.
+    - text: |-
+        John &<br>
+        Paul &<br>
+        Ringo &<br>
+        George &<br>
+        _________________.
+    - text: |-
+        I don’t know _________________, but how about _________________?
       pick: 2
-    - text: What broke up the band?
+    - text: |-
+        What broke up the band?
 - name: Pack of Northern Aggression
   cards:
     white:
-    - text: That grand old tradition of honor.
-    - text: Whistling Dixie.
-    - text: Roscoe’s Chicken and Waffles.
-    - text: A teeny tiny Confederate flag.
-    - text: The word “boy”.
-    - text: The deep Southern drawl of a Big Tobacco CEO.
-    - text: A whole Coke bottle.
-    - text: Uber driving Miss Daisy.
-    - text: Hot and saucy, Texas style.
-    - text: Jim Crow.
-    - text: Eleven herbs and spices.
-    - text: Biscuit gravy.
-    - text: States’ rights.
-    - text: Uncle Tom’s Cabin.
-    - text: Wrasslin’ hogs.
-    - text: A land of Cavaliers and Cotton Fields called the Old South.
+    - text: |-
+        That grand old tradition of honor.
+    - text: |-
+        Whistling Dixie.
+    - text: |-
+        Roscoe’s Chicken and Waffles.
+    - text: |-
+        A teeny tiny Confederate flag.
+    - text: |-
+        The word “boy”.
+    - text: |-
+        The deep Southern drawl of a Big Tobacco CEO.
+    - text: |-
+        A whole Coke bottle.
+    - text: |-
+        Uber driving Miss Daisy.
+    - text: |-
+        Hot and saucy, Texas style.
+    - text: |-
+        Jim Crow.
+    - text: |-
+        Eleven herbs and spices.
+    - text: |-
+        Biscuit gravy.
+    - text: |-
+        States’ rights.
+    - text: |-
+        Uncle Tom’s Cabin.
+    - text: |-
+        Wrasslin’ hogs.
+    - text: |-
+        A land of Cavaliers and Cotton Fields called the Old South.
     black:
-    - text: The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
-    - text: Come around some bars in Tennessee and they’ll happily beat your ass for _____.
+    - text: |-
+        The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
+    - text: |-
+        Come around some bars in Tennessee and they’ll happily beat your ass for _____.
 - name: Nerdcore Pack
   cards:
     white:
-    - text: Picard and Dathon, at El-Adrel.
-    - text: Analysis.
-    - text: The ninth planet, Pluto.
-    - text: William, Shatner.
-    - text: A morbidly obese Time Lord undergoing octuple bypass surgery.
-    - text: INSUFFICIENT DATA FOR MEANINGFUL ANSWER.
-    - text: Maxwell’s demon.
-    - text: The mere mention of Jar-Jar Binks.
-    - text: The users.
-    - text: "Space: the final frontier."
-    - text: "To crush your enemies, see them driven before you, and to hear the lamentations of their women."
-    - text: Blood for the blood god.
-    - text: Skulls for the skull throne.
-    - text: Nerd rage.
-    - text: The Large Hadron Collider.
-    - text: Theon Greyjoy’s severed cock.
-    - text: Never telling me the odds.
-    - text: My Wang computer.
-    - text: An extremely short proof of the Hairy Ball theorem.
-    - text: Shitty wizards.
-    - text: Frog Fractions 2.
+    - text: |-
+        Picard and Dathon, at El-Adrel.
+    - text: |-
+        Analysis.
+    - text: |-
+        The ninth planet, Pluto.
+    - text: |-
+        William, Shatner.
+    - text: |-
+        A morbidly obese Time Lord undergoing octuple bypass surgery.
+    - text: |-
+        INSUFFICIENT DATA FOR MEANINGFUL ANSWER.
+    - text: |-
+        Maxwell’s demon.
+    - text: |-
+        The mere mention of Jar-Jar Binks.
+    - text: |-
+        The users.
+    - text: |-
+        Space: the final frontier.
+    - text: |-
+        To crush your enemies, see them driven before you, and to hear the lamentations of their women.
+    - text: |-
+        Blood for the blood god.
+    - text: |-
+        Skulls for the skull throne.
+    - text: |-
+        Nerd rage.
+    - text: |-
+        The Large Hadron Collider.
+    - text: |-
+        Theon Greyjoy’s severed cock.
+    - text: |-
+        Never telling me the odds.
+    - text: |-
+        My Wang computer.
+    - text: |-
+        An extremely short proof of the Hairy Ball theorem.
+    - text: |-
+        Shitty wizards.
+    - text: |-
+        Frog Fractions 2.
     black:
-    - text: How can the net amount of entropy of the universe be massively decreased?
-    - text: What is best in life?
-    - text: Is this going to be a stand-up fight, sir, or _____?
-    - text: A sufficient mass of _________________ will ultimately collapse into _________________.
+    - text: |-
+        How can the net amount of entropy of the universe be massively decreased?
+    - text: |-
+        What is best in life?
+    - text: |-
+        Is this going to be a stand-up fight, sir, or _____?
+    - text: |-
+        A sufficient mass of _________________ will ultimately collapse into _________________.
       pick: 2
-    - text: _________________ is insignificant next to the power of _________________.
+    - text: |-
+        _________________ is insignificant next to the power of _________________.
       pick: 2
 - name: Love and War Pack
   cards:
     white:
-    - text: Twue wuv.
-    - text: Giant champagne glass hot tubs.
-    - text: Gay divorcees.
-    - text: The United States Armed Forces.
-    - text: The nuclear option.
-    - text: Thinking mean thoughts.
-    - text: Joining a Kurdish militia ironically.
-    - text: Homemade firearms.
-    - text: The field of battle.
-    - text: My anger problems.
-    - text: Gentle explosions.
-    - text: Sex shouts.
-    - text: Stonking.
-    - text: Conventional weaponry.
-    - text: Jackhammering Rosie the Riveter.
-    - text: Blood and roses.
+    - text: |-
+        Twue wuv.
+    - text: |-
+        Giant champagne glass hot tubs.
+    - text: |-
+        Gay divorcees.
+    - text: |-
+        The United States Armed Forces.
+    - text: |-
+        The nuclear option.
+    - text: |-
+        Thinking mean thoughts.
+    - text: |-
+        Joining a Kurdish militia ironically.
+    - text: |-
+        Homemade firearms.
+    - text: |-
+        The field of battle.
+    - text: |-
+        My anger problems.
+    - text: |-
+        Gentle explosions.
+    - text: |-
+        Sex shouts.
+    - text: |-
+        Stonking.
+    - text: |-
+        Conventional weaponry.
+    - text: |-
+        Jackhammering Rosie the Riveter.
+    - text: |-
+        Blood and roses.
     black:
-    - text: Love is ____.
-    - text: "If there’s nobody else, then how did that lipstick get on your _____?"
-    - text: What was Sun Tzu’s greatest strategy to defeat an enemy?
-    - text: Our only hope to defeat _________________ lies in _________________.
+    - text: |-
+        Love is ____.
+    - text: |-
+        If there’s nobody else, then how did that lipstick get on your _____?
+    - text: |-
+        What was Sun Tzu’s greatest strategy to defeat an enemy?
+    - text: |-
+        Our only hope to defeat _________________ lies in _________________.
       pick: 2
-    - text: "I love the smell of _________________ in the morning. Smells like _________________."
+    - text: |-
+        I love the smell of _________________ in the morning. Smells like _________________.
       pick: 2
-    - text: If ________________ won’t be enough, we’ll have to resort to _______________.
+    - text: |-
+        If ________________ won’t be enough, we’ll have to resort to _______________.
       pick: 2
 - name: Tactical Espionage Packtion
   cards:
     white:
-    - text: Just a box...
-    - text: Snake? SNAAAAKE!!
-    - text: The Guns of the Patriots.
-    - text: Q.
-    - text: Dr. No.
-    - text: Her Majesty’s Secret Service.
-    - text: A license to kill.
-    - text: Dalton...<br>Timothy Dalton.
-    - text: The CIA.
-    - text: High-priced hitmen.
-    - text: Sabotadge.
+    - text: |-
+        Just a box...
+    - text: |-
+        Snake? SNAAAAKE!!
+    - text: |-
+        The Guns of the Patriots.
+    - text: |-
+        Q.
+    - text: |-
+        Dr. No.
+    - text: |-
+        Her Majesty’s Secret Service.
+    - text: |-
+        A license to kill.
+    - text: |-
+        Dalton...
+        Timothy Dalton.
+    - text: |-
+        The CIA.
+    - text: |-
+        High-priced hitmen.
+    - text: |-
+        Sabotadge.
     black:
-    - text: My career was over after I was discovered employing _________________ in the service of _________________.
+    - text: |-
+        My career was over after I was discovered employing _________________ in the service of _________________.
       pick: 2
 - name: Hacker Pack
   cards:
     white:
-    - text: Security sauce.
-    - text: Zero-day vulnerabilities.
-    - text: Exploiting race conditions.
-    - text: Poking around in core memory.
-    - text: Popping a shell.
-    - text: Fingerprint removal.
-    - text: Petabytes of data downloaded directly off the Dark Web.
-    - text: Folding, spindling, and mutilating.
-    - text: Encrypting the payload.
-    - text: Completely misunderstanding how passwords work.
-    - text: The Microsoft Network.
-    - text: That GIF of Antonio Banderas kissing his knuckle.
-    - text: Keys under the mat.
-    - text: Being on<br>the other side of<br>this airtight hatchway.
-    - text: Weaponized poetry.
-    - text: The Great Firewall of China.
-    - text: Swapping blobs.
-    - text: Digital Rights Management.
-    - text: Jailbreaks.
-    - text: Hotpatching.
-    - text: Metasploit.
-    - text: A novelty electronic fish hacked to shout Nuremberg Rally speeches instead of singing.
-    - text: undefined
-    - text: The Defense Advanced Research Projects Agency (DARPA).
-    - text: Jamming with the console cowboys in cyberspace.
-    - text: Hacking the Gibson.
-    - text: The Pink Shirt book.
-    - text: The little man inside the computer.
-    - text: Object-oriented programming.
+    - text: |-
+        Security sauce.
+    - text: |-
+        Zero-day vulnerabilities.
+    - text: |-
+        Exploiting race conditions.
+    - text: |-
+        Poking around in core memory.
+    - text: |-
+        Popping a shell.
+    - text: |-
+        Fingerprint removal.
+    - text: |-
+        Petabytes of data downloaded directly off the Dark Web.
+    - text: |-
+        Folding, spindling, and mutilating.
+    - text: |-
+        Encrypting the payload.
+    - text: |-
+        Completely misunderstanding how passwords work.
+    - text: |-
+        The Microsoft Network.
+    - text: |-
+        That GIF of Antonio Banderas kissing his knuckle.
+    - text: |-
+        Keys under the mat.
+    - text: |-
+        Being on
+        the other side of
+        this airtight hatchway.
+    - text: |-
+        Weaponized poetry.
+    - text: |-
+        The Great Firewall of China.
+    - text: |-
+        Swapping blobs.
+    - text: |-
+        Digital Rights Management.
+    - text: |-
+        Jailbreaks.
+    - text: |-
+        Hotpatching.
+    - text: |-
+        Metasploit.
+    - text: |-
+        A novelty electronic fish hacked to shout Nuremberg Rally speeches instead of singing.
+    - text: |-
+        undefined
+    - text: |-
+        The Defense Advanced Research Projects Agency (DARPA).
+    - text: |-
+        Jamming with the console cowboys in cyberspace.
+    - text: |-
+        Hacking the Gibson.
+    - text: |-
+        The Pink Shirt book.
+    - text: |-
+        The little man inside the computer.
+    - text: |-
+        Object-oriented programming.
     black:
-    - text: The US Patent Office has yet to approve my application for _________________ with a computer.
-    - text: Half of Pinterest is just pictures of ___________ sprinkled with _________________.
+    - text: |-
+        The US Patent Office has yet to approve my application for _________________ with a computer.
+    - text: |-
+        Half of Pinterest is just pictures of ___________ sprinkled with _________________.
       pick: 2
-    - text: My new startup is basically like _________________, only for _________________.
+    - text: |-
+        My new startup is basically like _________________, only for _________________.
       pick: 2
-    - text: What hot new trend is sweeping Silicon Valley?
-    - text: "You’ve heard of “Netflix and chill”: now, get ready for “_________________ and _________________”."
+    - text: |-
+        What hot new trend is sweeping Silicon Valley?
+    - text: |-
+        You’ve heard of “Netflix and chill”: now, get ready for “_________________ and _________________”.
       pick: 2
-    - text: Seriously? ______________ can’t even handle basic JavaScript!
-    - text: I invented ________________, and I can tell you, ________________ is not what I had in mind.
+    - text: |-
+        Seriously? ______________ can’t even handle basic JavaScript!
+    - text: |-
+        I invented ________________, and I can tell you, ________________ is not what I had in mind.
 - name: Cryptic Pack of the Lost and Damned
   cards:
     white:
-    - text: Cutting the cucumber lengthwise.
-    - text: Few “Dr. Jock Lynx, PhD” TV quiz bags.
-    - text: Able bakers.
-    - text: The Ark of the Covenant.
-    - text: A quest for the Holy Grail.
-    - text: Trainspotting.
-    - text: Lardroom.
-    - text: MISSINGNO.
-    - text: Mr. Funnylaffs’s Jokey-Joke Comedy Yukfest.
-    - text: The Yucca Mountain nuclear waste repository.
-    - text: Burma-Shave.
-    - text: Jumping the shark.
-    - text: Pirate treasure.
-    - text: The Golden Lotus.
-    - text: Solving the riddles of the sphincter.
-    - text: A rubber chicken with a pulley in the middle.
+    - text: |-
+        Cutting the cucumber lengthwise.
+    - text: |-
+        Few “Dr. Jock Lynx, PhD” TV quiz bags.
+    - text: |-
+        Able bakers.
+    - text: |-
+        The Ark of the Covenant.
+    - text: |-
+        A quest for the Holy Grail.
+    - text: |-
+        Trainspotting.
+    - text: |-
+        Lardroom.
+    - text: |-
+        MISSINGNO.
+    - text: |-
+        Mr. Funnylaffs’s Jokey-Joke Comedy Yukfest.
+    - text: |-
+        The Yucca Mountain nuclear waste repository.
+    - text: |-
+        Burma-Shave.
+    - text: |-
+        Jumping the shark.
+    - text: |-
+        Pirate treasure.
+    - text: |-
+        The Golden Lotus.
+    - text: |-
+        Solving the riddles of the sphincter.
+    - text: |-
+        A rubber chicken with a pulley in the middle.
     black:
-    - text: In the end, it turned out the real National Treasure was _____.
-    - text: And what is the deal with _________________?
-    - text: But, doctor... I <em>am</em> _________________.
+    - text: |-
+        In the end, it turned out the real National Treasure was _____.
+    - text: |-
+        And what is the deal with _________________?
+    - text: |-
+        But, doctor... I <em>am</em> _________________.
