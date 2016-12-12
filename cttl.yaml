@@ -419,6 +419,8 @@ sets:
     - text: |-
         This pickle we find ourselves in.
     - text: |-
+        My own anus.
+    - text: |-
         A honky-tonk badonkadonk.
     - text: |-
         Starving to death.
@@ -439,7 +441,10 @@ sets:
     - text: |-
         Naming things.
     - text: |-
-        Coffee makers that think.
+        Coffee makers
+        that think.
+    - text: |-
+        My man-baby.
     - text: |-
         An upside-down, backwards world where black is white and horses ride people.
     - text: |-
@@ -468,6 +473,7 @@ sets:
         Snakes on a plane.
     - text: |-
         My creative juices.
+
     black:
     - text: |-
         I know what you are, but what am I?
@@ -536,7 +542,10 @@ sets:
     - text: |-
         It's still anyone's game right now as we go into our "____________" Round.
     - text: |-
-        Who killed Mr. Boddy? _________________, with _____________, in _________________.
+        Who killed Mr. Boddy?
+        _________________,
+        with ____________,
+        in ______________.
       pick: 3
     - text: |-
         What inspired me to become a surgeon?
@@ -584,7 +593,10 @@ sets:
     - text: |-
         What's the ultimate insult?
     - text: |-
-        What is the so-called "mainstream media" unable to address?
+        What is the so-called
+        "mainstream media"
+        afraid to touch?
+
 - name: "Cards to the Left, Volume 2"
   cards:
     white:
@@ -750,6 +762,44 @@ sets:
         Letting the Russians get there first.
     - text: |-
         Fisting a garbage disposal.
+    - text: |-
+        Slowly burning my way
+        into the American
+        consciousness.
+    - text: |-
+        Euphemisms for
+        masturbation.
+    - text: |-
+        Green.
+    - text: |-
+        Logjamming.
+    - text: |-
+        Cyborg ninjas.
+    - text: |-
+        Riding a hot rod
+        to Gay Roger's
+        Garage.
+    - text: |-
+        The man who killed
+        my pa.
+    - text: |-
+        Hearing your own
+        heart monitor
+        stop beeping.
+    - text: |-
+        Getting out of being
+        blackmailed by
+        blackmailing three new
+        victims.
+    - text: |-
+        Hearing "love" as
+        "fuck".
+    - text: |-
+        Sex for Teens
+        (Where It's At).
+    - text: |-
+        Magic Johnson.
+
     black:
     - text: |-
         What's plan B?
@@ -789,9 +839,30 @@ sets:
     - text: |-
         What couldn't be simpler?
     - text: |-
-        Don't just complain. Take actions they can't ignore. Vote with _____.
+        In the Appalaichans,
+        they distill a
+        wicked batch of
+        moonshine from
+        _____.
+    - text: |-
+        No starting on _____ until you've finshed _____.
+      pick: 2
+    - text: |-
+        What am I high on?
+    - text: |-
+        If you really want
+        to stick it to 'em,
+        don't just
+        complain&mdash;
+        vote with _______.
     - text: |-
         What did I choke on?
+    - text: |-
+        Better dead than
+        _______________.
+    - text: |-
+        What has medical science
+        yet to find a cure for?
     - text: |-
         Only _________________ can overcome the horrors of _________________.
       pick: 2
@@ -808,13 +879,26 @@ sets:
         Lest we forget, _____ is how we got _____.
       pick: 2
     - text: |-
-        I like _______________, but I <em>LOVE</em> _______________.
+        In hindsight,
+        we should have seen
+        _____
+        coming.
+    - text: |-
+        I like _______________, but I <em>love</em> _______________.
       pick: 2
     - text: |-
-        Give me liberty or give me _________________.
+        Give me liberty,
+        or give me
+        _________________!
     - text: |-
         I'd take _________________ over _________________ any day of the week.
       pick: 2
+    - text: |-
+        What's hot on
+        the Internet?
+    - text: |-
+        There's nothing funny
+        about ___________.
     - text: |-
         What's for lunch?
     - text: |-
@@ -823,6 +907,7 @@ sets:
     - text: |-
         ___________ is the _________________ of the world.
       pick: 2
+
 - name: "2016: Never Again Pack"
   cards:
     white:
@@ -872,6 +957,9 @@ sets:
         Never apologizing for anything.
     - text: |-
         Extreme religious and sexual vetting.
+    - text: |-
+        Immediately abandoning campaign promises.
+
     black:
     - text: |-
         What did the Consitutional framers forget to address?
@@ -886,6 +974,7 @@ sets:
         I don't mean to brag, but I have _________________.
     - text: |-
         Just saying "____________" over and over doesn't answer my question.
+
 - name: Seattle Pack
   cards:
     white:
@@ -913,14 +1002,17 @@ sets:
         A scale model of the Space Needle.
     - text: |-
         Two pink fighter jets kissing.
+
     black:
     - text: |-
         I'm just here so I won't get ________.
     - text: |-
-        What one fetish Dan Savage will never touch?
+        What one fetish does
+        Dan Savage object to?
     - text: |-
         I want _____. I like _____. I need _____.
       pick: 3
+
 - name: Highbrow Pack
   cards:
     white:
@@ -935,6 +1027,8 @@ sets:
     - text: |-
         The definite article.
     - text: |-
+        The milliner and her paramour.
+    - text: |-
         The slings and arrows of outrageous fortune.
     - text: |-
         The stultifying compositions of Edvard Grieg.
@@ -948,11 +1042,13 @@ sets:
         Deconstructing Derrida.
     - text: |-
         Partaking in tasting the finest of wines.
+
     black:
     - text: |-
         To whom do we address our letter of grievance?
     - text: |-
         Let us toast the honor of our magnanimous benefactor, ______________.
+
 - name: Meta Pack
   cards:
     white:
@@ -972,6 +1068,8 @@ sets:
         Scoring.
     - text: |-
         Nobody but me.
+    - text: |-
+        Dealing.
     - text: |-
         A real thing I didn't make up.
     - text: |-
@@ -1006,6 +1104,7 @@ sets:
         The act of merely existing.
     - text: |-
         Marshall McLuhan, who I just happen to have right here.
+
     black:
     - text: |-
         What do you just want to get out of your hand already?
@@ -1013,6 +1112,7 @@ sets:
         What's the wordiest?
     - text: |-
         What is, alphabetically, highest?
+
 - name: Horror Pack
   cards:
     white:
@@ -1049,6 +1149,7 @@ sets:
         G-g-g-ghosts!
     - text: |-
         Ghoulish delight.
+
     black:
     - text: |-
         Only two things scare me: _____, and _____.
@@ -1057,6 +1158,7 @@ sets:
         Your mother sucks _____ in Hell, Karras, you faithless slime.
     - text: |-
         I ain't afraid of no _____. I hear it likes the girls.
+
 - name: Hollywood Pack
   cards:
     white:
@@ -1086,6 +1188,7 @@ sets:
         The greatest trick the Devil ever pulled.
     - text: |-
         Joey Pants.
+
     black:
     - text: |-
         What drew me in to showbusiness?
@@ -1096,6 +1199,7 @@ sets:
     - text: |-
         Tell ya what, kid. Throw in __________, lose ___________, and you've got yourself a hit.
       pick: 2
+
 - name: Labor Theory of Value Pack
   cards:
     white:
@@ -1121,6 +1225,7 @@ sets:
     - text: |-
         What do we want? _________________! When do we want it? _________________!
       pick: 2
+
 - name: Music Pack
   cards:
     white:
@@ -1215,6 +1320,7 @@ sets:
         in music.
     - text: |-
         Z.Z. Top.
+
     black:
     - text: |-
         The hills are alive with the sound of _________________.
@@ -1233,6 +1339,7 @@ sets:
       pick: 2
     - text: |-
         What broke up the band?
+
 - name: Pack of Northern Aggression
   cards:
     white:
@@ -1247,9 +1354,12 @@ sets:
     - text: |-
         The word "boy".
     - text: |-
+        Boss Hogg.
+    - text: |-
         The deep Southern drawl of a Big Tobacco CEO.
     - text: |-
-        A whole Coke bottle.
+        A whole
+        Coke bottle.
     - text: |-
         Uber driving Miss Daisy.
     - text: |-
@@ -1273,6 +1383,7 @@ sets:
         The Florida State Legislature today narrowly rejected a bill incorporating _________________ as part of the state flag.
     - text: |-
         Come around some bars in Tennessee and they'll happily beat your ass for _____.
+
 - name: Nerdcore Pack
   cards:
     white:
@@ -1318,6 +1429,7 @@ sets:
         Shitty wizards.
     - text: |-
         Frog Fractions 2.
+
     black:
     - text: |-
         How can the net amount of entropy of the universe be massively decreased?
@@ -1331,6 +1443,7 @@ sets:
     - text: |-
         _________________ is insignificant next to the power of _________________.
       pick: 2
+
 - name: Love and War Pack
   cards:
     white:
@@ -1366,6 +1479,7 @@ sets:
         Jackhammering Rosie the Riveter.
     - text: |-
         Blood and roses.
+
     black:
     - text: |-
         Love is ____.
@@ -1382,6 +1496,7 @@ sets:
     - text: |-
         If ________________ won't be enough, we'll have to resort to _______________.
       pick: 2
+
 - name: Tactical Espionage Packtion
   cards:
     white:
@@ -1408,10 +1523,12 @@ sets:
         High-priced hitmen.
     - text: |-
         Sabotadge.
+
     black:
     - text: |-
         My career was over after I was discovered employing _________________ in the service of _________________.
       pick: 2
+
 - name: Hacker Pack
   cards:
     white:
@@ -1476,6 +1593,7 @@ sets:
         The little man inside the computer.
     - text: |-
         Object-oriented programming.
+
     black:
     - text: |-
         The US Patent Office has yet to approve my application for _________________ with a computer.
@@ -1494,6 +1612,7 @@ sets:
         Seriously? ______________ can't even handle basic JavaScript!
     - text: |-
         I invented ________________, and I can tell you, ________________ is not what I had in mind.
+
 - name: Cryptic Pack of the Lost and Damned
   cards:
     white:
@@ -1529,6 +1648,7 @@ sets:
         Solving the riddles of the sphincter.
     - text: |-
         A rubber chicken with a pulley in the middle.
+
     black:
     - text: |-
         In the end, it turned out the real National Treasure was _____.
