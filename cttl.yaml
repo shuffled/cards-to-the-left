@@ -81,7 +81,9 @@ sets:
     - text: |-
         Feet.
     - text: |-
-        All the farts, right in my face, free and all mine.
+        Dog farts,
+        free and all mine
+        dog farts.
     - text: |-
         Addressing a stranger as "stranger".
     - text: |-
@@ -749,7 +751,7 @@ sets:
     - text: |-
         The front-row kids.
     - text: |-
-        My black friend.
+        My friend of color.
     - text: |-
         An endless bureaucratic headache.
     - text: |-
@@ -914,8 +916,6 @@ sets:
     - text: |-
         The security aspect of cyber.
     - text: |-
-        ISIS.
-    - text: |-
         Tax loopholes.
     - text: |-
         The Federal Bureau of Investigation.
@@ -1052,8 +1052,6 @@ sets:
 - name: Meta Pack
   cards:
     white:
-    - text: |-
-        Everything.
     - text: |-
         Playing a card you just drew.
     - text: |-
@@ -1205,8 +1203,6 @@ sets:
     white:
     - text: |-
         The means of production.
-    - text: |-
-        Seizing the means of production.
     - text: |-
         The bourgeoisie.
     - text: |-
