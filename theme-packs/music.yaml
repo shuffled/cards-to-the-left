@@ -1,0 +1,117 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Music Pack
+
+white:
+- text: |-
+    Pop, pop, pop music.
+- text: |-
+    A dastardly plan to steal Ted Nugent's wardrobe.
+- text: |-
+    Songs about fucking Steve Albini.
+- text: |-
+    Quiet Riot's 1983 hit cover of Slade's "Cum On Feel the Noize".
+- text: |-
+    Memories of things that never happened.
+- text: |-
+    Two hearts that beat as one.
+- text: |-
+    Yoko Ono.
+- text: |-
+    A yellow submarine.
+- text: |-
+    The sun going down on me.
+- text: |-
+    Electric music, solid walls of sound.
+- text: |-
+    Red, red wine.
+- text: |-
+    Knights in Satan's service.
+- text: |-
+    Liquor and drugs.
+- text: |-
+    The flesh machine.
+- text: |-
+    Another striptease.
+- text: |-
+    Lotion.
+- text: |-
+    Something called love.
+- text: |-
+    Hypnotizing chickens.
+- text: |-
+    A modern guy.
+- text: |-
+    A lust for life.
+- text: |-
+    Lust for life.
+- text: |-
+    A million in prizes.
+- text: |-
+    My torture film.
+- text: |-
+    A GTO.
+- text: |-
+    A government loan.
+- text: |-
+    Beating my brains.
+- text: |-
+    David Bowie's dancing magic pants.
+- text: |-
+    Young Americans.
+- text: |-
+    Music for airports.
+- text: |-
+    Living in an elevator.
+- text: |-
+    Mexican radio.
+- text: |-
+    People who died.
+- text: |-
+    The guy who sings "Creep" at every karaoke bar.
+- text: |-
+    Electric guitar.
+- text: |-
+    Finns to the left, Finns to the right.
+- text: |-
+    Smoke on the water in a bong.
+- text: |-
+    That axe, Eugene.
+- text: |-
+    Boogie in
+    your butt.
+- text: |-
+    Partying
+    all the time.
+- text: |-
+    Andrew W.K.
+- text: |-
+    Suckin' on a chili dog outside the Tastee Freeze.
+- text: |-
+    Your nineteenth nervous breakdown.
+- text: |-
+    The worst taste
+    in music.
+- text: |-
+    Z.Z. Top.
+
+black:
+- text: |-
+    The hills are alive with the sound of _________________.
+- text: |-
+    Freedom's just another word for _________________.
+- text: |-
+    My favorite Velvet Underground song? Uhh... the one with all the _________________.
+- text: |-
+    John &
+    Paul &
+    Ringo &
+    George &
+    _________________.
+- text: |-
+    I don't know _________________, but how about _________________?
+  pick: 2
+- text: |-
+    What broke up the band?
+

@@ -1,0 +1,55 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Love and War Pack
+
+white:
+- text: |-
+    Twue wuv.
+- text: |-
+    Giant champagne glass hot tubs.
+- text: |-
+    Gay divorcees.
+- text: |-
+    The United States Armed Forces.
+- text: |-
+    The nuclear option.
+- text: |-
+    Thinking mean thoughts.
+- text: |-
+    Joining a Kurdish militia ironically.
+- text: |-
+    Homemade firearms.
+- text: |-
+    The field of battle.
+- text: |-
+    My anger problems.
+- text: |-
+    Gentle explosions.
+- text: |-
+    Sex shouts.
+- text: |-
+    Stonking.
+- text: |-
+    Conventional weaponry.
+- text: |-
+    Jackhammering Rosie the Riveter.
+- text: |-
+    Blood and roses.
+
+black:
+- text: |-
+    Love is ____.
+- text: |-
+    If there's nobody else, then how did that lipstick get on your _____?
+- text: |-
+    What was Sun Tzu's greatest strategy to defeat an enemy?
+- text: |-
+    Our only hope to defeat _________________ lies in _________________.
+  pick: 2
+- text: |-
+    I love the smell of _________________ in the morning. Smells like _________________.
+  pick: 2
+- text: |-
+    If ________________ won't be enough, we'll have to resort to _______________.
+  pick: 2

@@ -1,0 +1,38 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Highbrow Pack
+
+white:
+- text: |-
+    The love of God, Montresor!
+- text: |-
+    New Yorker cartoons.
+- text: |-
+    Robespierre's Reign of Terror.
+- text: |-
+    Tittering at irreverent jest.
+- text: |-
+    The definite article.
+- text: |-
+    The milliner and her paramour.
+- text: |-
+    The slings and arrows of outrageous fortune.
+- text: |-
+    The stultifying compositions of Edvard Grieg.
+- text: |-
+    Dr. Livingstone, I presume.
+- text: |-
+    Passionately debating the employment of en dashes versus hyphens.
+- text: |-
+    Dangling participles.
+- text: |-
+    Deconstructing Derrida.
+- text: |-
+    Partaking in tasting the finest of wines.
+
+black:
+- text: |-
+    To whom do we address our letter of grievance?
+- text: |-
+    Let us toast the honor of our magnanimous benefactor, ______________.

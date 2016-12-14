@@ -1,0 +1,34 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Tactical Espionage Packtion
+
+white:
+- text: |-
+    Just a box...
+- text: |-
+    Snake? SNAAAAKE!!
+- text: |-
+    The Guns of the Patriots.
+- text: |-
+    Q.
+- text: |-
+    Dr. No.
+- text: |-
+    Her Majesty's Secret Service.
+- text: |-
+    A license to kill.
+- text: |-
+    Dalton...
+    Timothy Dalton.
+- text: |-
+    The CIA.
+- text: |-
+    High-priced hitmen.
+- text: |-
+    Sabotadge.
+
+black:
+- text: |-
+    My career was over after I was discovered employing _________________ in the service of _________________.
+  pick: 2

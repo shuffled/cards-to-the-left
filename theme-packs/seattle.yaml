@@ -1,0 +1,42 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Seattle Pack
+
+white:
+- text: |-
+    Beast Mode.
+- text: |-
+    Grunge.
+- text: |-
+    Walking from one coffee shop to another coffee shop.
+- text: |-
+    The Presidents of the United States of America.
+- text: |-
+    Legalizing it.
+- text: |-
+    Perpetual light drizzle.
+- text: |-
+    A functional light rail system.
+- text: |-
+    Public education funding.
+- text: |-
+    Big Bertha.
+- text: |-
+    Bill Gates unleashing an army of mosquitoes on an unsuspecting crowd.
+- text: |-
+    A scale model of the Space Needle.
+- text: |-
+    Two pink fighter jets kissing.
+
+black:
+- text: |-
+    I'm just here so I won't get ________.
+- text: |-
+    What fetish is
+    too kinky for
+    Dan Savage to
+    even consider?
+- text: |-
+    I want _____. I like _____. I need _____.
+  pick: 3

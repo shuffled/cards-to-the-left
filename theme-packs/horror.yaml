@@ -1,0 +1,48 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Horror Pack
+
+white:
+- text: |-
+    Going to a funeral in costume.
+- text: |-
+    Spooky poops.
+- text: |-
+    Beelzebub,
+    Lord of the Flies.
+- text: |-
+    Steaming jets of thick crimson blood.
+- text: |-
+    The left-hand path.
+- text: |-
+    Fire and brimstone.
+- text: |-
+    One final flesh-obliterating climax transcending the limits of pleasure and pain.
+- text: |-
+    The Blob.
+- text: |-
+    Godzilla.
+- text: |-
+    Monster cock.
+- text: |-
+    DOOM.
+- text: |-
+    Riding a broomstick.
+- text: |-
+    Dracula.
+- text: |-
+    Unlimited screaming.
+- text: |-
+    G-g-g-ghosts!
+- text: |-
+    Ghoulish delight.
+
+black:
+- text: |-
+    Only two things scare me: _____, and _____.
+  pick: 2
+- text: |-
+    Your mother sucks _____ in Hell, Karras, you faithless slime.
+- text: |-
+    I ain't afraid of no _____. I hear it likes the girls.

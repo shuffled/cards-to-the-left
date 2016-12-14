@@ -1,0 +1,62 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Nerdcore Pack
+
+white:
+- text: |-
+    Picard and Dathon, at El-Adrel.
+- text: |-
+    Analysis.
+- text: |-
+    The ninth planet, Pluto.
+- text: |-
+    William, Shatner.
+- text: |-
+    A morbidly obese Time Lord undergoing octuple bypass surgery.
+- text: |-
+    INSUFFICIENT DATA FOR MEANINGFUL ANSWER.
+- text: |-
+    Maxwell's demon.
+- text: |-
+    The mere mention of Jar-Jar Binks.
+- text: |-
+    The users.
+- text: |-
+    Space: the final frontier.
+- text: |-
+    To crush your enemies, see them driven before you, and to hear the lamentations of their women.
+- text: |-
+    Blood for the blood god.
+- text: |-
+    Skulls for the skull throne.
+- text: |-
+    Nerd rage.
+- text: |-
+    The Large Hadron Collider.
+- text: |-
+    Theon Greyjoy's severed cock.
+- text: |-
+    Never telling me the odds.
+- text: |-
+    My Wang computer.
+- text: |-
+    An extremely short proof of the Hairy Ball theorem.
+- text: |-
+    Shitty wizards.
+- text: |-
+    Frog Fractions 2.
+
+black:
+- text: |-
+    How can the net amount of entropy of the universe be massively decreased?
+- text: |-
+    What is best in life?
+- text: |-
+    Is this going to be a stand-up fight, sir, or _____?
+- text: |-
+    A sufficient mass of _________________ will ultimately collapse into _________________.
+  pick: 2
+- text: |-
+    _________________ is insignificant next to the power of _________________.
+  pick: 2

@@ -1,0 +1,43 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Hollywood Pack
+
+white:
+- text: |-
+    Rock Hudson banging James Dean to win a bet against Liz Taylor.
+- text: |-
+    Billy Bush.
+- text: |-
+    A chocolate Oscar.
+- text: |-
+    The casting couch.
+- text: |-
+    Tom Hanks.
+- text: |-
+    Failing upwards.
+- text: |-
+    Catering.
+- text: |-
+    Development hell.
+- text: |-
+    Finding Forrester.
+- text: |-
+    Patrick Swayze.
+- text: |-
+    The entire script of "Bee Movie".
+- text: |-
+    The greatest trick the Devil ever pulled.
+- text: |-
+    Joey Pants.
+
+black:
+- text: |-
+    What drew me in to showbusiness?
+- text: |-
+    What's the most surprising part of Quentin Tarantino's next production?
+- text: |-
+    If anybody wants me, I'll be in ____________.
+- text: |-
+    Tell ya what, kid. Throw in __________, lose ___________, and you've got yourself a hit.
+  pick: 2
