@@ -173,6 +173,8 @@ sets:
     - text: |-
         A real stinker.
     - text: |-
+        The bourgeoisie.
+    - text: |-
         Tartar sauce.
     - text: |-
         Having a second face where your butt should be.
@@ -403,6 +405,8 @@ sets:
     - text: |-
         The best.
     - text: |-
+        An actual banana republic.
+    - text: |-
         My true intentions.
     - text: |-
         Yahtzee®.
@@ -426,6 +430,8 @@ sets:
         A honky-tonk badonkadonk.
     - text: |-
         Starving to death.
+    - text: |-
+        The means of production.
     - text: |-
         Understanding comics.
     - text: |-
@@ -565,6 +571,8 @@ sets:
         And that's when we saw 'er a'comin 'round the bend, strong as _________________ and louder than _________________.
       pick: 2
     - text: |-
+        When the revolution comes, _____ will be the first against the wall.
+    - text: |-
         When I need to escape from _____________, I like to imagine ______________.
       pick: 2
     - text: |-
@@ -587,6 +595,8 @@ sets:
     - text: |-
         MacGyver saved the day using only ____________, ____________, and _________.
       pick: 3
+    - text: |-
+        A spectre is haunting Europe&mdash;the spectre of _____.
     - text: |-
         Hey, we don't need _____ to have _____!
       pick: 2
@@ -641,6 +651,8 @@ sets:
     - text: |-
         Uncut horse.
     - text: |-
+        Ethical consumption under capitalism.
+    - text: |-
         Jack shit.
     - text: |-
         The "-gate" suffix denoting scandal.
@@ -690,6 +702,8 @@ sets:
         The cops.
     - text: |-
         Cunnilingus.
+    - text: |-
+        The attainment of a classless utopia.
     - text: |-
         Highly-polished turds.
     - text: |-
@@ -748,6 +762,8 @@ sets:
         Making eye contact.
     - text: |-
         Fucking.
+    - text: |-
+        The proletariat.
     - text: |-
         Licking around the rim.
     - text: |-
@@ -867,6 +883,9 @@ sets:
         vote with _______.
     - text: |-
         What did I choke on?
+    - text: |-
+        What do we want? _________________! When do we want it? _________________!
+      pick: 2
     - text: |-
         Better dead than
         _______________.
@@ -1209,30 +1228,6 @@ sets:
         If anybody wants me, I'll be in ____________.
     - text: |-
         Tell ya what, kid. Throw in __________, lose ___________, and you've got yourself a hit.
-      pick: 2
-
-- name: Labor Theory of Value Pack
-  cards:
-    white:
-    - text: |-
-        The means of production.
-    - text: |-
-        The bourgeoisie.
-    - text: |-
-        An actual banana republic.
-    - text: |-
-        Ethical consumption under capitalism.
-    - text: |-
-        The proletariat.
-    - text: |-
-        The attainment of a classless utopia.
-    black:
-    - text: |-
-        When the revolution comes, _____ will be the first against the wall.
-    - text: |-
-        A spectre is haunting Europe&mdash;the spectre of _____.
-    - text: |-
-        What do we want? _________________! When do we want it? _________________!
       pick: 2
 
 - name: Music Pack
