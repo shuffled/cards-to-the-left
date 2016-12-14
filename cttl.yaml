@@ -249,7 +249,7 @@ sets:
     - text: |-
         Looking at the sexy TV.
     - text: |-
-        Rachaelism.
+        Racialism.
     - text: |-
         LIIIGHTNIIIIING!
     - text: |-
@@ -595,9 +595,11 @@ sets:
     - text: |-
         What's the ultimate insult?
     - text: |-
-        What is the so-called
-        "mainstream media"
-        afraid to touch?
+        What subject is
+        the so-called
+        "mainstream
+        media" afraid
+        to touch?
 
 - name: "Cards to the Left, Volume 2"
   cards:
@@ -801,6 +803,12 @@ sets:
         (Where It's At).
     - text: |-
         Magic Johnson.
+    - text: |-
+        Meeting expectations.
+    - text: |-
+        Mustard.
+    - text: |-
+        Beer o'clock.
 
     black:
     - text: |-
@@ -853,7 +861,7 @@ sets:
         What am I high on?
     - text: |-
         If you really want
-        to stick it to 'em,
+        to make a difference,
         don't just
         complain&mdash;
         vote with _______.
@@ -898,6 +906,9 @@ sets:
     - text: |-
         What's hot on
         the Internet?
+    - text: |-
+        What am I finally
+        learning to appreciate?
     - text: |-
         There's nothing funny
         about ___________.
@@ -1007,8 +1018,10 @@ sets:
     - text: |-
         I'm just here so I won't get ________.
     - text: |-
-        What one fetish does
-        Dan Savage object to?
+        What fetish is
+        too kinky for
+        Dan Savage to
+        even consider?
     - text: |-
         I want _____. I like _____. I need _____.
       pick: 3
@@ -1589,6 +1602,9 @@ sets:
         The little man inside the computer.
     - text: |-
         Object-oriented programming.
+    - text: |-
+        The Year 2038
+        problem.
 
     black:
     - text: |-
@@ -1644,6 +1660,8 @@ sets:
         Solving the riddles of the sphincter.
     - text: |-
         A rubber chicken with a pulley in the middle.
+    - text: |-
+        Rachelism.
 
     black:
     - text: |-
