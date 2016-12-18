@@ -49,11 +49,25 @@ white:
 - text: |-
     Metasploit.
 - text: |-
+    Checking user
+    privileges.
+- text: |-
+    The poop emoji.
+- text: |-
+    Smashing the stack.
+- text: |-
+    Spoofing authority.
+- text: |-
+    /dev/null.
+- text: |-
     A novelty electronic fish hacked to shout Nuremberg Rally speeches instead of singing.
 - text: |-
     undefined
 - text: |-
-    The Defense Advanced Research Projects Agency (DARPA).
+    The Advanced
+    Research Projects
+    Agency to blame
+    for the Internet.
 - text: |-
     Jamming with the console cowboys in cyberspace.
 - text: |-
@@ -87,3 +101,4 @@ black:
     Seriously? ______________ can't even handle basic JavaScript!
 - text: |-
     I invented ________________, and I can tell you, ________________ is not what I had in mind.
+  pick: 2

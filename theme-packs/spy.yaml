@@ -9,8 +9,6 @@ white:
 - text: |-
     Snake? SNAAAAKE!!
 - text: |-
-    The Guns of the Patriots.
-- text: |-
     Q.
 - text: |-
     Dr. No.
@@ -29,6 +27,13 @@ white:
     Sabotadge.
 
 black:
+- text: |-
+    Hideo Kojima today
+    announced a new
+    installment in the
+    Metal Gear Solid series,
+    subtitled <i>The Guns of
+    _____________.</i>
 - text: |-
     My career was over after I was discovered employing _________________ in the service of _________________.
   pick: 2

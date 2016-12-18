@@ -37,6 +37,9 @@ white:
 - text: |-
     Lustful urges.
 - text: |-
+    The New England
+    Patriots.
+- text: |-
     Constipated moaning.
 - text: |-
     Uncut horse.
@@ -61,6 +64,8 @@ white:
 - text: |-
     Screwing around.
 - text: |-
+    Waiting for Lefty.
+- text: |-
     Crazy.
 - text: |-
     Doing it all willy-nilly.
@@ -76,6 +81,9 @@ white:
     Your tax dollars.
 - text: |-
     Jive.
+- text: |-
+    Playing with
+    matches.
 - text: |-
     Crispy crackers.
 - text: |-
@@ -94,6 +102,8 @@ white:
     Cunnilingus.
 - text: |-
     The attainment of a classless utopia.
+- text: |-
+    Gnomes.
 - text: |-
     Highly-polished turds.
 - text: |-
@@ -157,13 +167,16 @@ white:
 - text: |-
     Licking around the rim.
 - text: |-
-    The front-row kids.
+    A couple
+    front-row kids.
 - text: |-
     My friend of color.
 - text: |-
     An endless bureaucratic headache.
 - text: |-
     A home where I belong.
+- text: |-
+    Ham fat.
 - text: |-
     Vaccinating your children.
 - text: |-
@@ -210,11 +223,34 @@ white:
 - text: |-
     Magic Johnson.
 - text: |-
-    Meeting expectations.
+    Meeting
+    expectations.
 - text: |-
     Mustard.
 - text: |-
     Beer o'clock.
+- text: |-
+    Sleeping with
+    the fishes.
+- text: |-
+    The heat of
+    the moment.
+- text: |-
+    Human sacrifices.
+- text: |-
+    Telling them
+    to cut it out.
+- text: |-
+    An undue amount
+    of credit.
+- text: |-
+    Three non-consecutive
+    feet of dick.
+- text: |-
+    Computer magic.
+- text: |-
+    Pictures of
+    Spider-Man!
 
 black:
 - text: |-
@@ -267,9 +303,8 @@ black:
     What am I high on?
 - text: |-
     If you really want
-    to make a difference,
-    don't just
-    complain&mdash;
+    things to change,
+    don't just argue:
     vote with _______.
 - text: |-
     What did I choke on?
@@ -280,13 +315,16 @@ black:
     Better dead than
     _______________.
 - text: |-
-    What has medical science
-    yet to find a cure for?
+    Medical science
+    has yet to find
+    a cure for
+    _________________.
 - text: |-
     Only _________________ can overcome the horrors of _________________.
   pick: 2
 - text: |-
-    Where do we get a whole lot of hair on such short notice?
+    What's the hairiest
+    challenge we face?
 - text: |-
     Have you considered ________ instead of ____________?
   pick: 2
@@ -297,6 +335,10 @@ black:
 - text: |-
     Lest we forget, _____ is how we got _____.
   pick: 2
+- text: |-
+    What will help me
+    escape this locked
+    room?
 - text: |-
     In hindsight,
     we should have seen
@@ -319,13 +361,19 @@ black:
     What am I finally
     learning to appreciate?
 - text: |-
+    Why?
+    WWHHHYYYYY?!?
+- text: |-
     There's nothing funny
     about ___________.
 - text: |-
-    What's for lunch?
+    What's for breakfast?
 - text: |-
     Fuck ____________. Fuck ____________. All that matters is ____________.
   pick: 3
 - text: |-
-    ___________ is the _________________ of the world.
-  pick: 2
+    I can't honestly
+    say I'm a big
+    fan of _________,
+    but that's just me.
+    You go right ahead.

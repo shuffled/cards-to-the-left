@@ -1,7 +1,7 @@
 brand:
   name: Cards to the Left
 set:
-  name: Cryptic Pack of the Lost and Damned
+  name: Cryptic Pack of the Accursed and Lost
 
 white:
 - text: |-
@@ -38,6 +38,12 @@ white:
     A rubber chicken with a pulley in the middle.
 - text: |-
     Rachelism.
+- text: |-
+    In bed.
+- text: |-
+    Macbeth.
+- text: |-
+    Zed.
 
 black:
 - text: |-
@@ -46,3 +52,6 @@ black:
     And what is the deal with _________________?
 - text: |-
     But, doctor... I <em>am</em> _________________.
+- text: |-
+    ___________ is the _________________ of the world.
+  pick: 2
