@@ -23,7 +23,11 @@ white:
 - text: |-
     Encrypting the payload.
 - text: |-
-    Completely misunderstanding how passwords work.
+    Completely
+    missing how
+    passwords
+    are supposed
+    to work.
 - text: |-
     The Microsoft Network.
 - text: |-
@@ -42,6 +46,11 @@ white:
     Swapping blobs.
 - text: |-
     Digital Rights Management.
+- text: |-
+    "Internet security
+    experts" who've
+    never even heard
+    of 4chan.
 - text: |-
     Jailbreaks.
 - text: |-
@@ -100,5 +109,10 @@ black:
 - text: |-
     Seriously? ______________ can't even handle basic JavaScript!
 - text: |-
-    I invented ________________, and I can tell you, ________________ is not what I had in mind.
+    I invented
+    __________________,
+    and I can tell you,
+    __________________
+    is not what I had
+    in mind.
   pick: 2

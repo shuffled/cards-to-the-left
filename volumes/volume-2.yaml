@@ -133,7 +133,8 @@ white:
 - text: |-
     Blowing it.
 - text: |-
-    Distinguishing between good and evil.
+    Choices between
+    right and wrong.
 - text: |-
     Sleep.
 - text: |-
@@ -180,11 +181,18 @@ white:
 - text: |-
     Vaccinating your children.
 - text: |-
+    Dying for your sins.
+- text: |-
     Emergency cock.
+- text: |-
+    Where the baby
+    comes out.
 - text: |-
     Letting the Russians get there first.
 - text: |-
     Fisting a garbage disposal.
+- text: |-
+    A magical wish-granting piñata.
 - text: |-
     Slowly burning my way
     into the American
@@ -221,7 +229,8 @@ white:
     Sex for Teens
     (Where It's At).
 - text: |-
-    Magic Johnson.
+    Twenty-four
+    magic carrots.
 - text: |-
     Meeting
     expectations.
@@ -244,13 +253,28 @@ white:
     An undue amount
     of credit.
 - text: |-
-    Three non-consecutive
-    feet of dick.
+    Chekhov's gun
+    going off in
+    the next act.
+- text: |-
+    Four
+    non-consecutive
+    inches of dick.
 - text: |-
     Computer magic.
 - text: |-
     Pictures of
     Spider-Man!
+- text: |-
+    A sure-sell
+    she-seahorse whore's
+    sore seashell seal.
+- text: |-
+    Having a
+    good time,
+    all the time.
+- text: |-
+    Illusions.
 
 black:
 - text: |-
@@ -302,6 +326,12 @@ black:
 - text: |-
     What am I high on?
 - text: |-
+    I'm pretty sure the
+    only reason I'm
+    still employed is
+    that I get my bosses
+    ____________.
+- text: |-
     If you really want
     things to change,
     don't just argue:
@@ -326,12 +356,28 @@ black:
     What's the hairiest
     challenge we face?
 - text: |-
+    __________________.
+    Because You
+    Deserve It.&trade;
+- text: |-
     Have you considered ________ instead of ____________?
   pick: 2
+- text: |-
+    What is this
+    sorcery?
+- text: |-
+    When they say
+    every flavor, they
+    <em>mean</em> every flavor.
+    George reckons he
+    had a ____________
+    -flavored one once.
 - text: |-
     What keeps you running?
 - text: |-
     I wish I could get ___________ out of my head.
+- text: |-
+    Where do babies come from?
 - text: |-
     Lest we forget, _____ is how we got _____.
   pick: 2
@@ -344,6 +390,10 @@ black:
     we should have seen
     _____
     coming.
+- text: |-
+    What do we need
+    a Constitutional
+    Amendment for?
 - text: |-
     I like _______________, but I <em>love</em> _______________.
   pick: 2
