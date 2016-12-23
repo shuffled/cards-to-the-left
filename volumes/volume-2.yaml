@@ -19,8 +19,6 @@ white:
 - text: |-
     Baseless entitlement.
 - text: |-
-    A live baby.
-- text: |-
     Drinking the sauce.
 - text: |-
     Hobo nickels.
@@ -150,6 +148,8 @@ white:
 - text: |-
     The same old schtick.
 - text: |-
+    The menstrual motorcycle.
+- text: |-
     Dogs.
 - text: |-
     An array of specialized gadgetry.
@@ -171,6 +171,8 @@ white:
     A couple
     front-row kids.
 - text: |-
+    The unspeakable.
+- text: |-
     My friend of color.
 - text: |-
     An endless bureaucratic headache.
@@ -181,12 +183,11 @@ white:
 - text: |-
     Vaccinating your children.
 - text: |-
+    An "accident".
+- text: |-
     Dying for your sins.
 - text: |-
     Emergency cock.
-- text: |-
-    Where the baby
-    comes out.
 - text: |-
     Letting the Russians get there first.
 - text: |-
@@ -201,11 +202,13 @@ white:
     Euphemisms for
     masturbation.
 - text: |-
-    Green.
+    Yellow.
 - text: |-
     Logjamming.
 - text: |-
     Cyborg ninjas.
+- text: |-
+    Second puberty.
 - text: |-
     Riding a hot rod
     to Gay Roger's
@@ -213,6 +216,8 @@ white:
 - text: |-
     The man who killed
     my pa.
+- text: |-
+    A cake.
 - text: |-
     Hearing your own
     heart monitor
@@ -261,6 +266,9 @@ white:
     non-consecutive
     inches of dick.
 - text: |-
+    Thinking about
+    me at all.
+- text: |-
     Computer magic.
 - text: |-
     Pictures of
@@ -275,6 +283,67 @@ white:
     all the time.
 - text: |-
     Illusions.
+- text: |-
+    A rolled-up
+    newspaper.
+- text: |-
+    Champagne for my
+    real friends
+    and real pain for
+    any who dare
+    cross me.
+- text: |-
+    The suck.
+- text: |-
+    Dead donkey dick.
+- text: |-
+    Elmo.
+- text: |-
+    White mediocrity.
+- text: |-
+    That voodoo
+    that you do
+    so well.
+- text: |-
+    Kryptonite.
+- text: |-
+    Frosty the
+    Dopeman,
+    with his magic
+    sack of blow.
+- text: |-
+    Last Christmas.
+- text: |-
+    Princess
+    No-Knees.
+- text: |-
+    An "accident".
+- text: |-
+    Parting the
+    figurative Red Sea.
+- text: |-
+    Something sassy and sheer.
+- text: |-
+    An embarrassing facial rash that could have been easily prevented.
+- text: |-
+    My private parts.
+- text: |-
+    The demons.
+- text: |-
+    Someone who
+    would only
+    give their name
+    as "Raven".
+- text: |-
+    Scratching an itch.
+- text: |-
+    Stuff coming out
+    of both ends.
+- text: |-
+    A repetitive
+    motion injury.
+- text: |-
+    The drop.
 
 black:
 - text: |-
@@ -304,6 +373,8 @@ black:
 - text: |-
     If you think this party can't get any more ____________, then you don't know ___________.
   pick: 2
+- text: |-
+    What set me free?
 - text: |-
     Bang _______________, marry _______________, kill _________________.
   pick: 3
@@ -350,6 +421,13 @@ black:
     a cure for
     _________________.
 - text: |-
+    What's the coolest?
+- text: |-
+    When I lay my head
+    to rest at night,
+    I dream of
+    __________________.
+- text: |-
     Only _________________ can overcome the horrors of _________________.
   pick: 2
 - text: |-
@@ -375,9 +453,10 @@ black:
 - text: |-
     What keeps you running?
 - text: |-
-    I wish I could get ___________ out of my head.
+    How is ___________
+    still a thing?
 - text: |-
-    Where do babies come from?
+    I wish I could get ___________ out of my head.
 - text: |-
     Lest we forget, _____ is how we got _____.
   pick: 2
@@ -398,6 +477,9 @@ black:
     I like _______________, but I <em>love</em> _______________.
   pick: 2
 - text: |-
+    What's everyone
+    counting down to?
+- text: |-
     Give me liberty,
     or give me
     _________________!
@@ -407,6 +489,9 @@ black:
 - text: |-
     What's hot on
     the Internet?
+- text: |-
+    You don't know what _________________ is until you've seen _________________.
+  pick: 2
 - text: |-
     What am I finally
     learning to appreciate?

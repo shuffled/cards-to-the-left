@@ -1,0 +1,30 @@
+brand:
+  name: Cards to the Left
+set:
+  name: Baby Pack
+
+white:
+- text: |-
+    A live baby.
+- text: |-
+    Baby batter.
+- text: |-
+    Where the baby
+    comes out.
+- text: |-
+    Babies on fire.
+- text: |-
+    My man-baby.
+- text: |-
+    A brawl breaking out at a baby shower.
+- text: |-
+    A baby's arm
+    holding an apple.
+
+black:
+- text: |-
+    Where do babies come from?
+- text: |-
+    What adorable
+    thing did the baby
+    do this week?

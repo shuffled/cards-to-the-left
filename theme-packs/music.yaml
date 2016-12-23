@@ -83,6 +83,8 @@ white:
 - text: |-
     That axe, Eugene.
 - text: |-
+    Ram Jam.
+- text: |-
     Boogie in
     your butt.
 - text: |-
@@ -91,7 +93,10 @@ white:
 - text: |-
     Andrew W.K.
 - text: |-
-    Suckin' on a chili dog outside the Tastee Freeze.
+    Suckin' on
+    chili dogs
+    outside the
+    Tastee Freeze.
 - text: |-
     Your nineteenth nervous breakdown.
 - text: |-
@@ -116,5 +121,11 @@ black:
 - text: |-
     I don't know _________________, but how about _________________?
   pick: 2
+- text: |-
+    Here I go!
+    Here I go!
+    Here I go again!
+    Girls, what's
+    my weakness?
 - text: |-
     What broke up the band?

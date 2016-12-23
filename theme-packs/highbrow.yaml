@@ -29,10 +29,32 @@ white:
 - text: |-
     Deconstructing Derrida.
 - text: |-
+    Murder, She Wrote.
+- text: |-
     Partaking in tasting the finest of wines.
+- text: |-
+    The Sun setting on the British Empire.
 
 black:
 - text: |-
-    To whom do we address our letter of grievance?
+    To whom do we
+    address our
+    letter of
+    grievance?
+- text: |-
+    What doth
+    vex me so?
+- text: |-
+    What is the Queen
+    privately partial to?
 - text: |-
     Let us toast the honor of our magnanimous benefactor, ______________.
+- text: |-
+    "Our family act has
+     _________________,
+     _________________,
+     and a group finale
+     of _____________!"
+    "What's it called?"
+    "The Aristocrats!"
+  pick: 3
