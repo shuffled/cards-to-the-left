@@ -4,64 +4,93 @@ set:
   name: Meta Pack
 
 white:
+
 - text: |-
     Playing a card you just drew.
+
 - text: |-
     The cards.
+
 - text: |-
     Putting the rules card into play from your hand.
+
 - text: |-
     Here and now.
+
 - text: |-
     Just this kind of situation.
+
 - text: |-
     Scoring.
+
 - text: |-
     Nobody but me.
+
 - text: |-
     Dealing.
+
 - text: |-
     A real thing I didn't make up.
+
 - text: |-
     Myself.
+
 - text: |-
     Knowing how to play the game.
+
 - text: |-
     Drawing a blank.
+
 - text: |-
     An eternal golden Brady Bunch.
+
 - text: |-
     The question itself.
+
 - text: |-
     Recursion.
+
 - text: |-
     Self-ownage.
+
 - text: |-
     This.
+
 - text: |-
     Drawing another hand.
+
 - text: |-
     No.
+
 - text: |-
     Shuffling.
+
 - text: |-
     Playtesting, idiot.
+
 - text: |-
     The same text as the previous card.
+
 - text: |-
     The one that won the last round.
+
 - text: |-
     An "intentionally left blank" joke.
+
 - text: |-
     The act of merely existing.
+
 - text: |-
     Marshall McLuhan, who I just happen to have right here.
 
 black:
+
 - text: |-
     What do you just want to get out of your hand already?
+
 - text: |-
     What's the wordiest?
+
 - text: |-
     What is, alphabetically, highest?
 

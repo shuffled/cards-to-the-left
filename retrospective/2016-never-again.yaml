@@ -4,60 +4,85 @@ set:
   name: "2016: Never Again Pack"
 
 white:
+
 - text: |-
     The security aspect of cyber.
+
 - text: |-
     The gaping
     tax loopholes
     underlying
     the Trump
     family fortune.
+
 - text: |-
     The Federal Bureau of Investigation.
+
 - text: |-
     The number of Jewish books in the school library.
+
 - text: |-
     The ability to commit sexual assault with impunity.
+
 - text: |-
     Voter fraud.
+
 - text: |-
     The 2016 presidential election.
+
 - text: |-
     Bae.
+
 - text: |-
     Harambe.
+
 - text: |-
     The Samsung Galaxy Note 7.
+
 - text: |-
     Haircut-based politics.
+
 - text: |-
     Donald Trump's Vienna sausage fingers.
+
 - text: |-
     Second Amendment people.
+
 - text: |-
     The teleprompter.
+
 - text: |-
     A sex tape Donald Trump wants you to check out.
+
 - text: |-
     Pegging Mike Pence.
+
 - text: |-
     The Cubs winning the World Series.
+
 - text: |-
     Oh shit, the Supreme Court.
+
 - text: |-
     Ronald Reagan's monstrous reanimated corpse.
+
 - text: |-
     The political climate around climate change.
+
 - text: |-
     Never apologizing for anything.
+
 - text: |-
     Extreme religious and sexual vetting.
+
 - text: |-
     Immediately abandoning campaign promises.
+
 - text: |-
     Things we didn't
     realize we had left
     to lose.
+
 - text: |-
     Doing any
     campaigning
@@ -65,17 +90,23 @@ white:
     or Michigan.
 
 black:
+
 - text: |-
     Evoking "________" is merely a dog-whistle euphemism for ______________.
   pick: 2
+
 - text: |-
     The chance that this goes wrong is about as likely as the odds of ________________.
+
 - text: |-
     Don't blame me: I voted for _________________.
+
 - text: |-
     I don't mean to brag, but I have _________________.
+
 - text: |-
     Just saying "____________" over and over doesn't answer my question.
+
 - text: |-
     What have we
     already forgotten?

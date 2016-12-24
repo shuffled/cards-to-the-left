@@ -4,70 +4,99 @@ set:
   name: Cryptic Pack of the Accursed and Lost
 
 white:
+
 - text: |-
     Cutting the cucumber lengthwise.
+
 - text: |-
     Few "Dr. Jock Lynx, PhD" TV quiz bags.
+
 - text: |-
     Able bakers.
+
 - text: |-
     The Ark of the Covenant.
+
 - text: |-
     A quest for the Holy Grail.
+
 - text: |-
     Trainspotting.
+
 - text: |-
     Lardroom.
+
 - text: |-
     The stuff dreams
     are made of.
+
 - text: |-
     MISSINGNO.
+
 - text: |-
     Mr. Funnylaffs's Jokey-Joke Comedy Yukfest.
+
 - text: |-
     The Yucca Mountain nuclear waste repository.
+
 - text: |-
     Burma-Shave.
+
 - text: |-
     Jumping the shark.
+
 - text: |-
     Taking time out
     from stealing the
     sacred hallmarks
     of other cultures
     to fight the Nazis.
+
 - text: |-
     A twelve-inch pianist.
+
 - text: |-
     Pirate treasure.
+
 - text: |-
     The Golden Lotus.
+
 - text: |-
     Solving the riddles of the sphincter.
+
 - text: |-
     Sixty-nine
     &mdash;nice.
+
 - text: |-
     A rubber chicken with a pulley in the middle.
+
 - text: |-
     Rachelism.
+
 - text: |-
     In bed.
+
 - text: |-
     The fish exit.
+
 - text: |-
     Macbeth.
+
 - text: |-
     Zed.
 
 black:
+
 - text: |-
     In the end, it turned out the real National Treasure was _____.
+
 - text: |-
     And what is the deal with _________________?
+
 - text: |-
     But, doctor... I <em>am</em> _________________.
+
 - text: |-
     ___________ is the _________________ of the world.
   pick: 2

@@ -4,29 +4,40 @@ set:
   name: Tactical Espionage Packtion
 
 white:
+
 - text: |-
     Just a box...
+
 - text: |-
     Snake? SNAAAAKE!!
+
 - text: |-
     Q.
+
 - text: |-
     Dr. No.
+
 - text: |-
     Her Majesty's Secret Service.
+
 - text: |-
     A license to kill.
+
 - text: |-
     Dalton...
     Timothy Dalton.
+
 - text: |-
     The CIA.
+
 - text: |-
     High-priced hitmen.
+
 - text: |-
     Sabotadge.
 
 black:
+
 - text: |-
     Hideo Kojima has
     announced a new
@@ -35,6 +46,7 @@ black:
     series, subtitled
     <i>The Guns of
     __________________.</i>
+
 - text: |-
     My career was over after I was discovered employing _________________ in the service of _________________.
   pick: 2

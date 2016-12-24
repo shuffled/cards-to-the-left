@@ -4,113 +4,157 @@ set:
   name: Hacker Pack
 
 white:
+
 - text: |-
     Security sauce.
+
 - text: |-
     Zero-day vulnerabilities.
+
 - text: |-
     Exploiting race conditions.
+
 - text: |-
     Poking around in core memory.
+
 - text: |-
     Popping a shell.
+
 - text: |-
     Fingerprint removal.
+
 - text: |-
     Petabytes of data downloaded directly off the Dark Web.
+
 - text: |-
     Folding, spindling, and mutilating.
+
 - text: |-
     Encrypting the payload.
+
 - text: |-
     Completely
     missing how
     passwords
     are supposed
     to work.
+
 - text: |-
     The Microsoft Network.
+
 - text: |-
     That GIF of Antonio Banderas kissing his knuckle.
+
 - text: |-
     Keys under the mat.
+
 - text: |-
     Being on
     the other side of
     this airtight hatchway.
+
 - text: |-
     Weaponized poetry.
+
 - text: |-
     The Great Firewall of China.
+
 - text: |-
     Swapping blobs.
+
 - text: |-
     Digital Rights Management.
+
 - text: |-
     "Internet security
     experts" who've
     never even heard
     of 4chan.
+
 - text: |-
     Jailbreaks.
+
 - text: |-
     Hotpatching.
+
 - text: |-
     Metasploit.
+
 - text: |-
     Checking user
     privileges.
+
 - text: |-
     The poop emoji.
+
 - text: |-
     Smashing the stack.
+
 - text: |-
     Spoofing authority.
+
 - text: |-
     /dev/null.
+
 - text: |-
     A novelty electronic fish hacked to shout Nuremberg Rally speeches instead of singing.
+
 - text: |-
     undefined
+
 - text: |-
     The Advanced
     Research Projects
     Agency to blame
     for the Internet.
+
 - text: |-
     Jamming with the console cowboys in cyberspace.
+
 - text: |-
     Hacking
     the Gibson.
+
 - text: |-
     The Pink Shirt book.
+
 - text: |-
     The little man inside the computer.
+
 - text: |-
     Object-oriented programming.
+
 - text: |-
     The Year 2038
     problem.
+
 - text: |-
     Plain old
     telephone service.
 
 black:
+
 - text: |-
     The US Patent Office has yet to approve my application for _________________ with a computer.
+
 - text: |-
     Half of Pinterest is just pictures of ___________ sprinkled with _________________.
   pick: 2
+
 - text: |-
     My new startup is basically like _________________, only for _________________.
   pick: 2
+
 - text: |-
     What hot new trend is sweeping Silicon Valley?
+
 - text: |-
     You've heard of "Netflix and chill": now, get ready for "_________________ and _________________".
   pick: 2
+
 - text: |-
     Seriously? ______________ can't even handle basic JavaScript!
+
 - text: |-
     I invented
     __________________,
